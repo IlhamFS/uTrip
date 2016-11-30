@@ -145,6 +145,9 @@
 									<input id="link" class="form-group btn btn-primary" type="submit" value="Search">
 								</div>
 							</form>
+              {% for d in data.places %}
+                <div>{{d.name }} </div>
+              {% endfor %}
                         </div>
                     </div>
                 </div>
