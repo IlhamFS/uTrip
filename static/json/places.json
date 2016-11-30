@@ -1,0 +1,79 @@
+{
+  "places" : [ {
+    "name" : "Soekarno Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "41",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sulawesi",
+      "province" : "North Sulawesi",
+      "city" : "Manado",
+      "address" : "Jl. Boulevard 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Christ Blessing", "Zero Point Manado", "Christ Blessing", "Malalayang Beach", "Blue Carpet", "Desa Wisata Bentenan" ],
+    "eatery_nearby" : [ "Rumah Makan Raja Oci", "RM Dabu-Dabu Lemong", "RM Rajawali" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sulawesi",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Christ Blessing",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "18",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sulawesi",
+      "province" : "North Sulawesi",
+      "city" : "Manado",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Soekarno Bridge", "Zero Point Manado", "Soekarno Bridge", "Malalayang Beach", "Blue Carpet", "Boulevard area" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Malalayang Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sulawesi",
+      "province" : "North Sulawesi",
+      "city" : "Manado",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pall Beach", "Pantai Pasir Putih Lembeh", "Manado Safari Tours - Private Day Tours", "Tasik Ria Resort Diving", "Soekarno Bridge", "Christ Blessing", "Boulevard area", "Blue Carpet" ],
+    "eatery_nearby" : [ "City Extra", "Wisata Bahari Seafood Restaurant", "WaHaHa Restaurant" ]
+  }]
+ }

@@ -1,0 +1,301 @@
+﻿html
+{
+    position: relative;
+    min-height: 100%;
+}
+
+body
+{
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 199px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.navbar-default__edited
+{
+    border-radius: 0;
+    margin-bottom: 0;
+    /*background-color: #71c6c1;*/
+	background-color: #f1f1f1;
+    height: 80px;
+}
+
+.navbar-brand
+{
+	padding-left: 80px;
+}
+
+#carousel-example-generic
+{
+    margin: 0 -15px;
+}
+
+.carousel-inner__images .item
+{
+    width: 100%;
+    padding-top: 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.color-overlay
+{
+    background-color: #000;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    opacity: 0.5;
+}
+
+.text-opening
+{
+    position: absolute;
+    color: #134f57;
+    top: 15%;
+    left: 28%;
+    right: 28%;
+    text-align: center;
+    background-color: rgba(255,255,255,0.8);
+    padding: 17px;
+    /*-webkit-box-shadow: 0px 0px 15px 2px rgba(113,182,193,1);
+    -moz-box-shadow: 0px 0px 15px 2px rgba(113,182,193,1);
+    box-shadow: 0px 0px 15px 2px rgba(113,182,193,1);*/
+}
+
+    .text-opening h2
+    {
+        font-size: 50px;
+        font-family: 'Ubuntu', cursive;
+    }
+
+    .text-opening ul
+     {
+        list-style: none;
+        padding-left: 28px;
+        margin: 0;
+    }
+
+        .text-opening ul li
+		{
+			font-size: 18px;
+            display: inline-block;
+            width: 250px;
+            text-align: left;
+            font-weight: bold;
+        }
+
+
+.subtagline__word
+{
+    color: #2196F3;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.search-engine-container
+{
+    position: absolute;
+    color: #fff;
+    bottom: 5%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 30px 0;
+}
+
+    .search-engine-container .form-group
+    {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+.things-todo
+{
+    width: 485px;
+}
+
+.time-interval
+{
+    width: 65px;
+}
+
+.footer
+{
+    background-color: #407594;
+    padding-top: 45px;
+	padding-bottom: 60px;
+	padding-left: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+}
+
+.footer-profile
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer-profile__logo
+{
+    width: 10%;
+}
+
+    .footer-profile__logo img
+    {
+        width: 85px;
+    }
+
+.footer-profile__desc
+{
+    color: #fff;
+    width: 59%;
+	padding-left: 10px;
+}
+
+.footer-profile__photos
+{
+    width: 20%;
+}
+
+    .footer-profile__photos ul
+    {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+    }
+
+        .footer-profile__photos ul li
+        {
+            display: inline-block;
+            width: 19%;
+            margin-right: 10px;
+        }
+
+            .footer-profile__photos ul li img
+            {
+                width: 100%;
+                border-radius: 50%;
+				border: 20px;
+            }
+
+.result
+{
+    display: none;
+    margin: 20px 0;
+}
+
+    .result > div > ul
+    {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+        .result > div > ul > li
+        {
+            border: 1px solid #eee;
+            padding: 10px 20px;
+            -webkit-box-shadow: 0 0 5px -1px rgba(204,204,204,1);
+            -moz-box-shadow: 0 0 5px -1px rgba(204,204,204,1);
+            box-shadow: 0 0 5px -1px rgba(204,204,204,1);
+            margin-bottom: 20px;
+        }
+
+.width-50
+{
+    width: 50%;
+}
+
+.photo-detail
+{
+    width: 25%;
+    padding-top: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-right: 20px;
+}
+
+.desc-detail
+{
+    width: auto;
+    display: block;
+    overflow: hidden;
+}
+
+.title-place
+{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.desc-place
+{
+    margin: 0;
+}
+
+.list-rating
+{
+    display: inline-block;
+    font-size: 16px;
+}
+
+.list-rating > ul
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.list-rating > ul > li > span
+{
+    margin-left: 10px;
+}
+
+
+.checklist
+{
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.button-create
+{
+    margin-bottom: 20px;
+}
+
+#logo-in-text
+{
+	width: 35%;
+}
+
+#logo-in-modal
+{
+	width: 100px;
+	display: inline-block;
+}
+
+#myModalLabel
+{
+	display: inline-block;
+	padding-left: 20px;
+    font-weight: bold;
+}
+
+.result-table
+{
+	width: 70%;
+	margin-left: 15%;
+}
