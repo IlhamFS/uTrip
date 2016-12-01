@@ -1,4 +1,9 @@
 {
+  "categories" : [ {
+  	"name" : "Bridges",
+  	"id_places" : [0, 1]
+  }
+  ],
   "places" : [ {
     "name" : "Soekarno Bridge",
     "type" : "attraction",
@@ -14,6 +19,25 @@
     "time" : [ {
       "open" : 10,
       "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Christ Blessing", "Zero Point Manado", "Christ Blessing", "Malalayang Beach", "Blue Carpet", "Desa Wisata Bentenan" ],
+    "eatery_nearby" : [ "Rumah Makan Raja Oci", "RM Dabu-Dabu Lemong", "RM Rajawali" ]
+  }, {
+    "name" : "Fathy Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "41",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sulawesi",
+      "province" : "North Sulawesi",
+      "city" : "Manado",
+      "address" : "Jl. Boulevard 2"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 10
     } ],
     "categories" : [ "Bridges", "Sights & Landmarks" ],
     "attraction_nearby" : [ "Christ Blessing", "Zero Point Manado", "Christ Blessing", "Malalayang Beach", "Blue Carpet", "Desa Wisata Bentenan" ],
