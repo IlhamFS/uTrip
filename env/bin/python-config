@@ -1,4 +1,4 @@
-#!/home/fathy/Documents/Project/uTrip/env/bin/python
+#!/home/fathy/uTrip/env/bin/python
 
 import sys
 import getopt
