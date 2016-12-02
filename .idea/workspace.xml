@@ -6,12 +6,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/query.py" afterPath="$PROJECT_DIR$/query.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/json/places.json" afterPath="$PROJECT_DIR$/static/json/places.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uTrip.py" afterPath="$PROJECT_DIR$/uTrip.py" />
+<<<<<<< HEAD
 >>>>>>> complete get result function
 =======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/json/places.json" afterPath="$PROJECT_DIR$/static/json/places.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uTrip.py" afterPath="$PROJECT_DIR$/uTrip.py" />
 >>>>>>> Add get_query_result method
+=======
+>>>>>>> feature-query
     </list>
     <ignored path="uTrip.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,12 +37,18 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="query.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/query.py">
+<<<<<<< HEAD
 >>>>>>> Add get_query_result method
+=======
+>>>>>>> feature-query
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
+<<<<<<< HEAD
 >>>>>>> complete get result function
+=======
+>>>>>>> feature-query
             </state>
           </provider>
         </entry>
@@ -207,6 +216,7 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+<<<<<<< HEAD
 >>>>>>> complete get result function
 =======
           <folding>
@@ -216,6 +226,8 @@
 =======
           <folding />
 >>>>>>> complete get result function
+=======
+>>>>>>> feature-query
         </state>
       </provider>
     </entry>
