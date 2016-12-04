@@ -1,0 +1,1029 @@
+{
+  "places" : [ {
+    "name" : "Airport Railink Services",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "830",
+    "description" : "We Are First and Biggest Airport Train Services in Indonesia. We provide a smart chocice and convinient tarnsport to the City trough Exclusive Railway",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Mass Transportation Systems", "Transportation" ],
+    "attraction_nearby" : [ "Tjong A Fie's Mansion", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Center Point Mall" ],
+    "eatery_nearby" : [ "Healymacs irish bar and restaraunt", "Mie Zhou", "Durian House" ]
+  }, {
+    "name" : "Tjong A Fie's Mansion",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "340",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. A. Yani 105"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Gedung Arca (Museum Negeri Provinsi Sumatra Utara)", "Rahmat International Wildlife Museum & Gallery", "Airport Railink Services", "Marian Shrine of Annai Velangkanni", "Maimun Palace", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Tip Top Restaurant", "Mie Tiong Sim Selat Panjang", "Wajir Seafood" ]
+  }, {
+    "name" : "Marian Shrine of Annai Velangkanni",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "144",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Sakura III no. 10 Tanjung Selamat"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Shri Mariamman Temple", "Tjong A Fie's Mansion", "Airport Railink Services", "Maimun Palace", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Mi Aceh Titi Bobrok", "Omerta Koffie", "Rumah Makan Sipirok" ]
+  }, {
+    "name" : "Medan Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "321",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Shri Mariamman Temple", "Tjong A Fie's Mansion", "Maimun Palace", "Marian Shrine of Annai Velangkanni", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Mie Tiong Sim Selat Panjang", "Rm Pondok Gurih", "The Thirty-Six" ]
+  }, {
+    "name" : "Maimun Palace",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "460",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Katamso"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Brastagi Highland", "Medan Grand Mosque", "Maha Vihara Maitreya Cemara Asri", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Marian Shrine of Annai Velangkanni", "Medan Grand Mosque", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Mie Tiong Sim Selat Panjang", "Rumah Makan Tabona", "Rm Pondok Gurih" ]
+  }, {
+    "name" : "Maha Vihara Maitreya Cemara Asri",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Kolonel Bejo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Maimun Palace", "Brastagi Highland", "Medan Grand Mosque", "Marian Shrine of Annai Velangkanni", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Maimun Palace", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Nasi Goreng Surya", "Bistronomix", "Rumah Makan Garuda Jaya" ]
+  }, {
+    "name" : "Brastagi Highland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "86",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Marian Shrine of Annai Velangkanni", "Medan Grand Mosque", "Maimun Palace", "Maha Vihara Maitreya Cemara Asri", "Two Colors Sibolangit Waterfall", "Tjong A Fie's Mansion", "Airport Railink Services", "Marian Shrine of Annai Velangkanni" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Washing Elephants in Tangkahan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "97",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Green Lodge area"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Two Colors Sibolangit Waterfall", "Berhala Island", "Lake Linting", "Tinggi Raja White Crater", "Two Colors Sibolangit Waterfall", "Tjong A Fie's Mansion", "Brastagi Highland", "Airport Railink Services" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Shri Mariamman Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "56",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. Teuku Umar no. 18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Maha Vihara Maitreya Cemara Asri", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Nelayan restaurant", "Sushi Tei", "Socrates Vegan Hut" ]
+  }, {
+    "name" : "Rahmat International Wildlife Museum & Gallery",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "44",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl.. S. Parman No. 309"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Gedung Arca (Museum Negeri Provinsi Sumatra Utara)", "Tjong A Fie's Mansion", "Tjong A Fie's Mansion", "Brastagi Highland", "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall" ],
+    "eatery_nearby" : [ "Nelayan restaurant", "Sushi Tei", "Koki Sunda" ]
+  }, {
+    "name" : "Center Point Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "63",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Blok H NO. 1 Jln. Timor"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sun Plaza", "Medan Mall", "Plaza Medan Fair", "Pajak Ikan", "Sun Plaza", "Medan Mall", "Airport Railink Services", "Tjong A Fie's Mansion" ],
+    "eatery_nearby" : [ "Tip Top Restaurant", "Healymacs irish bar and restaraunt", "Mie Zhou" ]
+  }, {
+    "name" : "Maha Vihara Maitreya",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "36",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Cemara Boulevard Utara no. 8"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Maha Vihara Maitreya Cemara Asri", "Two Colors Sibolangit Waterfall" ],
+    "eatery_nearby" : [ "Fish & Co Center Point Mall", "Restoran Garuda", "QQ Kopi Tiam, Centre Point" ]
+  }, {
+    "name" : "Two Colors Sibolangit Waterfall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "49",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Durin Sirugun Village, foot of Mount Sibayak"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Berhala Island", "Lake Linting", "Tinggi Raja White Crater", "Brastagi Highland", "Washing Elephants in Tangkahan", "Lake Linting", "Tjong A Fie's Mansion" ],
+    "eatery_nearby" : [ "Restoran Asia", "Mi Aceh Titi Bobrok", "Durian Pelawi" ]
+  }, {
+    "name" : "Vihara Gunung Timur Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "40",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. Hang Tua 16"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Marian Shrine of Annai Velangkanni", "Maha Vihara Maitreya Cemara Asri", "Medan Grand Mosque" ],
+    "eatery_nearby" : [ "Nelayan restaurant", "Koki Sunda", "Coffeenatics" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Durian Ucok",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "50",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jalan Iskandar Muda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Junglebooked Adventure - Day Tours", "Tjong A Fie's Mansion", "Two Colors Sibolangit Waterfall", "Brastagi Highland", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Durian Ucok", "Restaurant Garuda", "Koki Sunda" ]
+  }, {
+    "name" : "Hillpark Sibolangit",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "69",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Km. 45 Jln. Lejen Jamin Ginting"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Wonders Water World", "Two Colors Sibolangit Waterfall", "Brastagi Highland", "Tjong A Fie's Mansion", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Mi Aceh Titi Bobrok", "Omerta Koffie", "BPK Suka (Pork Barbecue)" ]
+  }, {
+    "name" : "Berhala Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Kecamatan Tanjung Beringin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Bali Lestari Beach", "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Junglebooked Adventure - Day Tours", "Two Colors Sibolangit Waterfall", "Tjong A Fie's Mansion", "Brastagi Highland", "Lake Linting" ],
+    "eatery_nearby" : [ "Rm Pondok Gurih", "The Thirty-Six", "Sondoro Fish Market & Seafood Restaurant" ]
+  }, {
+    "name" : "Museum Gedung Arca (Museum Negeri Provinsi Sumatra Utara)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "28",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. H M. Yoni no. 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Tjong A Fie's Mansion", "Rahmat International Wildlife Museum & Gallery", "Tjong A Fie's Mansion", "Rahmat International Wildlife Museum & Gallery", "Marian Shrine of Annai Velangkanni", "Washing Elephants in Tangkahan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Asam Kumbang Crocodile Farm",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Bunga Raya 2 no. 59"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Zoos & Aquariums", "Zoos & Aquariums" ],
+    "attraction_nearby" : [ "Lake Linting", "Tinggi Raja White Crater", "Rahmat International Wildlife Museum & Gallery", "Washing Elephants in Tangkahan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Medan Mall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. MT. Haryono no. 8-9"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sun Plaza", "Center Point Mall", "Plaza Medan Fair", "Pajak Ikan", "Center Point Mall", "Sun Plaza", "Airport Railink Services", "Tjong A Fie's Mansion" ],
+    "eatery_nearby" : [ "Tip Top Restaurant", "Mie Tiong Sim Selat Panjang", "Mie Zhou" ]
+  }, {
+    "name" : "Lake Linting",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Rumah Rih, Sinembah Tj. Muda Hulu, Deli Serdang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Berhala Island", "Tinggi Raja White Crater", "Tinggi Raja White Crater", "Two Colors Sibolangit Waterfall", "Berhala Island", "Asam Kumbang Crocodile Farm" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Tinggi Raja White Crater",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Simalungun Province"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Hot Springs & Geysers", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Berhala Island", "Lake Linting", "Lake Linting", "Two Colors Sibolangit Waterfall", "Bali Lestari Beach", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Bali Lestari Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. H. T. Rizal Nurdin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Junglebooked Adventure - Day Tours", "Berhala Island", "Tinggi Raja White Crater", "Berhala Island", "Lake Linting", "Two Colors Sibolangit Waterfall" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Airport Railink Services",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "830",
+    "description" : "We Are First and Biggest Airport Train Services in Indonesia. We provide a smart chocice and convinient tarnsport to the City trough Exclusive Railway",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Mass Transportation Systems", "Transportation" ],
+    "attraction_nearby" : [ "Tjong A Fie's Mansion", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Center Point Mall" ],
+    "eatery_nearby" : [ "Healymacs irish bar and restaraunt", "Mie Zhou", "Durian House" ]
+  }, {
+    "name" : "Tjong A Fie's Mansion",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "340",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. A. Yani 105"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Gedung Arca (Museum Negeri Provinsi Sumatra Utara)", "Rahmat International Wildlife Museum & Gallery", "Airport Railink Services", "Marian Shrine of Annai Velangkanni", "Maimun Palace", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Tip Top Restaurant", "Mie Tiong Sim Selat Panjang", "Rumah Makan Tabona" ]
+  }, {
+    "name" : "Marian Shrine of Annai Velangkanni",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "144",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Sakura III no. 10 Tanjung Selamat"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Shri Mariamman Temple", "Tjong A Fie's Mansion", "Airport Railink Services", "Maimun Palace", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Mi Aceh Titi Bobrok", "Omerta Koffie", "Rumah Makan Sipirok" ]
+  }, {
+    "name" : "Medan Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "321",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Shri Mariamman Temple", "Tjong A Fie's Mansion", "Maimun Palace", "Marian Shrine of Annai Velangkanni", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Mie Tiong Sim Selat Panjang", "Rm Pondok Gurih", "The Thirty-Six" ]
+  }, {
+    "name" : "Maimun Palace",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "460",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Katamso"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Brastagi Highland", "Medan Grand Mosque", "Maha Vihara Maitreya Cemara Asri", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Marian Shrine of Annai Velangkanni", "Medan Grand Mosque", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Mie Tiong Sim Selat Panjang", "Rumah Makan Tabona", "Rm Pondok Gurih" ]
+  }, {
+    "name" : "Maha Vihara Maitreya Cemara Asri",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Kolonel Bejo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Maimun Palace", "Brastagi Highland", "Medan Grand Mosque", "Marian Shrine of Annai Velangkanni", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Maimun Palace", "Brastagi Highland" ],
+    "eatery_nearby" : [ "Nasi Goreng Surya", "Bistronomix", "Rumah Makan Garuda Jaya" ]
+  }, {
+    "name" : "Brastagi Highland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "86",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Marian Shrine of Annai Velangkanni", "Medan Grand Mosque", "Maimun Palace", "Maha Vihara Maitreya Cemara Asri", "Two Colors Sibolangit Waterfall", "Tjong A Fie's Mansion", "Airport Railink Services", "Marian Shrine of Annai Velangkanni" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Washing Elephants in Tangkahan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "97",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Green Lodge area"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Two Colors Sibolangit Waterfall", "Berhala Island", "Lake Linting", "Tinggi Raja White Crater", "Two Colors Sibolangit Waterfall", "Tjong A Fie's Mansion", "Brastagi Highland", "Airport Railink Services" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Shri Mariamman Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "56",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. Teuku Umar no. 18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Maha Vihara Maitreya Cemara Asri", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Nelayan restaurant", "Sushi Tei", "Socrates Vegan Hut" ]
+  }, {
+    "name" : "Rahmat International Wildlife Museum & Gallery",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "44",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl.. S. Parman No. 309"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Gedung Arca (Museum Negeri Provinsi Sumatra Utara)", "Tjong A Fie's Mansion", "Tjong A Fie's Mansion", "Brastagi Highland", "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall" ],
+    "eatery_nearby" : [ "Nelayan restaurant", "Sushi Tei", "Koki Sunda" ]
+  }, {
+    "name" : "Center Point Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "63",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Blok H NO. 1 Jln. Timor"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sun Plaza", "Medan Mall", "Plaza Medan Fair", "Pajak Ikan", "Sun Plaza", "Medan Mall", "Airport Railink Services", "Tjong A Fie's Mansion" ],
+    "eatery_nearby" : [ "Tip Top Restaurant", "Healymacs irish bar and restaraunt", "Mie Zhou" ]
+  }, {
+    "name" : "Maha Vihara Maitreya",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "36",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Cemara Boulevard Utara no. 8"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Maha Vihara Maitreya Cemara Asri", "Two Colors Sibolangit Waterfall" ],
+    "eatery_nearby" : [ "Fish & Co Center Point Mall", "Restoran Garuda", "QQ Kopi Tiam, Centre Point" ]
+  }, {
+    "name" : "Two Colors Sibolangit Waterfall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "49",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Durin Sirugun Village, foot of Mount Sibayak"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Berhala Island", "Lake Linting", "Tinggi Raja White Crater", "Brastagi Highland", "Washing Elephants in Tangkahan", "Lake Linting", "Tjong A Fie's Mansion" ],
+    "eatery_nearby" : [ "Restoran Asia", "Mi Aceh Titi Bobrok", "Durian Pelawi" ]
+  }, {
+    "name" : "Vihara Gunung Timur Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "40",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. Hang Tua 16"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Medan Grand Mosque", "Maimun Palace", "Brastagi Highland", "Marian Shrine of Annai Velangkanni", "Tjong A Fie's Mansion", "Marian Shrine of Annai Velangkanni", "Maha Vihara Maitreya Cemara Asri", "Medan Grand Mosque" ],
+    "eatery_nearby" : [ "Nelayan restaurant", "Koki Sunda", "Coffeenatics" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Durian Ucok",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "50",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jalan Iskandar Muda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Junglebooked Adventure - Day Tours", "Tjong A Fie's Mansion", "Two Colors Sibolangit Waterfall", "Brastagi Highland", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Durian Ucok", "Restaurant Garuda", "Koki Sunda" ]
+  }, {
+    "name" : "Hillpark Sibolangit",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "69",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Km. 45 Jln. Lejen Jamin Ginting"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Wonders Water World", "Two Colors Sibolangit Waterfall", "Brastagi Highland", "Tjong A Fie's Mansion", "Airport Railink Services" ],
+    "eatery_nearby" : [ "Mi Aceh Titi Bobrok", "Omerta Koffie", "BPK Suka (Pork Barbecue)" ]
+  }, {
+    "name" : "Berhala Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Kecamatan Tanjung Beringin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Bali Lestari Beach", "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Junglebooked Adventure - Day Tours", "Two Colors Sibolangit Waterfall", "Tjong A Fie's Mansion", "Brastagi Highland", "Lake Linting" ],
+    "eatery_nearby" : [ "Rm Pondok Gurih", "The Thirty-Six", "Sondoro Fish Market & Seafood Restaurant" ]
+  }, {
+    "name" : "Museum Gedung Arca (Museum Negeri Provinsi Sumatra Utara)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "28",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. H M. Yoni no. 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Tjong A Fie's Mansion", "Rahmat International Wildlife Museum & Gallery", "Tjong A Fie's Mansion", "Rahmat International Wildlife Museum & Gallery", "Marian Shrine of Annai Velangkanni", "Washing Elephants in Tangkahan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Asam Kumbang Crocodile Farm",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. Bunga Raya 2 no. 59"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Zoos & Aquariums", "Zoos & Aquariums" ],
+    "attraction_nearby" : [ "Lake Linting", "Tinggi Raja White Crater", "Rahmat International Wildlife Museum & Gallery", "Washing Elephants in Tangkahan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Medan Mall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jln. MT. Haryono no. 8-9"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sun Plaza", "Center Point Mall", "Plaza Medan Fair", "Pajak Ikan", "Center Point Mall", "Sun Plaza", "Airport Railink Services", "Tjong A Fie's Mansion" ],
+    "eatery_nearby" : [ "Tip Top Restaurant", "Mie Tiong Sim Selat Panjang", "Mie Zhou" ]
+  }, {
+    "name" : "Lake Linting",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Rumah Rih, Sinembah Tj. Muda Hulu, Deli Serdang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Berhala Island", "Tinggi Raja White Crater", "Tinggi Raja White Crater", "Two Colors Sibolangit Waterfall", "Berhala Island", "Asam Kumbang Crocodile Farm" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Tinggi Raja White Crater",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Simalungun Province"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Hot Springs & Geysers", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Berhala Island", "Lake Linting", "Lake Linting", "Two Colors Sibolangit Waterfall", "Bali Lestari Beach", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Bali Lestari Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "North Sumatra",
+      "city" : "Medan",
+      "address" : "Jl. H. T. Rizal Nurdin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Washing Elephants in Tangkahan", "Two Colors Sibolangit Waterfall", "Junglebooked Adventure - Day Tours", "Berhala Island", "Tinggi Raja White Crater", "Berhala Island", "Lake Linting", "Two Colors Sibolangit Waterfall" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  } ]
+}

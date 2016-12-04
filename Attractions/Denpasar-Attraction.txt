@@ -1,0 +1,2853 @@
+{
+  "places" : [ {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gili Getaway - Fast Boat to Gili Trawangan",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "421",
+    "description" : "While there are many fast boat services that will transport you from Bali to Lombok and the Gili Islands, Gili Getaway will always go the extra mile for you.                    ",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Serangan Harbour, Bali"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Safe Bali Driver (Ketut Suwenda) - Day Tours", "Bali Tour Guide - Day Tours", "Bali Agung Tours - Day Tours", "BlueWater Express", "BlueWater Express", "Gili Cat Fast Boat", "Waterbom Bali", "Gili Gili Fast Boat" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Turtle Conservation and Education Centre",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "318",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Serangan Denpasar",
+      "address" : "Behind Bali Dolphins"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Waterbom Bali", "Sacred Monkey Forest Sanctuary", "Uluwatu Temple", "Nusa Dua Beach" ],
+    "eatery_nearby" : [ "Panorama Bar & Restaurant", "Retro Beach Restaurant", "Warung Acquaviva" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4524",
+    "description" : "The Sanur Beach Promenade is lined with brightly painted outrigger boats along the water's edge, and good restaurants and cafes opposite. Treat yourself to a massage offered by one of the many masseuses with divans on the sand. If you're there in July, catch the Bali Kite Festival, a colorful international competition.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Nusa Dua Beach", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Mona Lisa Cafe", "Art Cafe Sanur" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sindhu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "370",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Cemara Beach", "Sanur Morning Market" ],
+    "eatery_nearby" : [ "Warung Little Bird", "The Glass House", "Luhtu's Coffee Shop" ]
+  }, {
+    "name" : "Sindhu Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "193",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Sanur Morning Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Hardy's Sanur",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "160",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan no. 136"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Sanur Morning Market", "Toot Sie", "Baruna Beach Markets", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Bajra Sandhi Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Renon"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Nature & Parks", "Museums" ],
+    "attraction_nearby" : [ "Sindhu Market", "Turtle Conservation and Education Centre", "Sanur Beach", "Tanah Lot Temple" ],
+    "eatery_nearby" : [ "Warung Be Sanur", "White Canny Bali", "Hanamasa - Denpasar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Peek A Boo",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "121",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl Bypass Ngurah Rai #17"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 6
+    } ],
+    "categories" : [ "Playgrounds", "Nature & Parks", "Fun & Games" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Bali Dolphins", "Cemara Beach", "Sindhu Market", "Bali Dolphins", "Hardy's Sanur", "Sanur Beach" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Le Mayeur Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "249",
+    "description" : "This small museum at the north end of Sanur Beach evokes a time of innocence and beauty before the introduction of relatively recent laws banning \"immodest dress.\" Even more impressive than the paintings by the Belgian artist of the young Balinese dancer he married and her friends is the small mansion in which the art and artifacts are housed: a lovely example of Balinese architecture decorated with finely carved and gilded wooden shutters.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Pantai Sanur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Ghostbird + Swoon", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "Bali Dolphins",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "402",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Tangkuban Perahu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Peek A Boo", "Cemara Beach", "Sindhu Market", "Sanur Beach", "Bali Dolphin Interaction", "Hardy's Sanur" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Cemara Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Mezzanine Bar & Restaurant", "The Fire Station", "The Onion Bar & Restaurant" ]
+  }, {
+    "name" : "Renon Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "94",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tohpati Village", "Art Centre", "Taman Puputan", "Jagatnata Temple (Pura Jagatnatha)", "Bajra Sandhi Monument", "Art Centre", "Jagatnata Temple (Pura Jagatnatha)", "Taman Puputan" ],
+    "eatery_nearby" : [ "The Alleyway Cafe", "Hanamasa - Denpasar", "Warung Be Pasih Renon" ]
+  }, {
+    "name" : "Gili Cat Fast Boat",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "209",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Danau Tamblingan 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "D'Camel Fast Ferry", "GForce Fastboat Nusa Lembongan", "Gili Getaway - Fast Boat to Gili Trawangan", "BlueWater Express", "Gili Gili Fast Boat", "Sindhu Market" ],
+    "eatery_nearby" : [ "Warung Rekreasi Bedugul", "Genius Cafe", "Gardenia Cafe" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Morning Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farmers Markets", "Food & Drink", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Good Indonesian Food Culinary Tour", "Bamboo Shoots Cooking School", "Caraway Cooking Class", "Sindhu Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Sulawesi",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "78",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Neighborhoods", "Shopping", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Art Centre", "Taman Puputan", "Pasar Badung", "Dewi Mas", "Maju Batik Fabric", "Alta Moda Fabric Store and Tailor", "Matahari Duta Plaza, Denpasar" ],
+    "eatery_nearby" : [ "Tiram Bistro", "Capil Bar, Grill and Resto", "Warung Wardani" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gili Getaway - Fast Boat to Gili Trawangan",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "421",
+    "description" : "While there are many fast boat services that will transport you from Bali to Lombok and the Gili Islands, Gili Getaway will always go the extra mile for you.                    ",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Serangan Harbour, Bali"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Safe Bali Driver (Ketut Suwenda) - Day Tours", "Bali Tour Guide - Day Tours", "Bali Agung Tours - Day Tours", "BlueWater Express", "BlueWater Express", "Gili Cat Fast Boat", "Waterbom Bali", "Gili Gili Fast Boat" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Turtle Conservation and Education Centre",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "318",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Serangan Denpasar",
+      "address" : "Behind Bali Dolphins"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Waterbom Bali", "Sacred Monkey Forest Sanctuary", "Uluwatu Temple", "Nusa Dua Beach" ],
+    "eatery_nearby" : [ "Panorama Bar & Restaurant", "Retro Beach Restaurant", "Warung Acquaviva" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4524",
+    "description" : "The Sanur Beach Promenade is lined with brightly painted outrigger boats along the water's edge, and good restaurants and cafes opposite. Treat yourself to a massage offered by one of the many masseuses with divans on the sand. If you're there in July, catch the Bali Kite Festival, a colorful international competition.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Nusa Dua Beach", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Mona Lisa Cafe", "Art Cafe Sanur" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sindhu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "370",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Cemara Beach", "Sanur Morning Market" ],
+    "eatery_nearby" : [ "Warung Little Bird", "The Glass House", "Luhtu's Coffee Shop" ]
+  }, {
+    "name" : "Sindhu Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "193",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Sanur Morning Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Hardy's Sanur",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "160",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan no. 136"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Sanur Morning Market", "Toot Sie", "Baruna Beach Markets", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Bajra Sandhi Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Renon"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Nature & Parks", "Museums" ],
+    "attraction_nearby" : [ "Sindhu Market", "Turtle Conservation and Education Centre", "Sanur Beach", "Tanah Lot Temple" ],
+    "eatery_nearby" : [ "Warung Be Sanur", "White Canny Bali", "Hanamasa - Denpasar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Peek A Boo",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "121",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl Bypass Ngurah Rai #17"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 6
+    } ],
+    "categories" : [ "Playgrounds", "Nature & Parks", "Fun & Games" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Bali Dolphins", "Cemara Beach", "Sindhu Market", "Bali Dolphins", "Hardy's Sanur", "Sanur Beach" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Le Mayeur Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "249",
+    "description" : "This small museum at the north end of Sanur Beach evokes a time of innocence and beauty before the introduction of relatively recent laws banning \"immodest dress.\" Even more impressive than the paintings by the Belgian artist of the young Balinese dancer he married and her friends is the small mansion in which the art and artifacts are housed: a lovely example of Balinese architecture decorated with finely carved and gilded wooden shutters.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Pantai Sanur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Ghostbird + Swoon", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "Bali Dolphins",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "402",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Tangkuban Perahu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Peek A Boo", "Cemara Beach", "Sindhu Market", "Sanur Beach", "Bali Dolphin Interaction", "Hardy's Sanur" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Cemara Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Mezzanine Bar & Restaurant", "The Fire Station", "The Onion Bar & Restaurant" ]
+  }, {
+    "name" : "Renon Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "94",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tohpati Village", "Art Centre", "Taman Puputan", "Jagatnata Temple (Pura Jagatnatha)", "Bajra Sandhi Monument", "Art Centre", "Jagatnata Temple (Pura Jagatnatha)", "Taman Puputan" ],
+    "eatery_nearby" : [ "The Alleyway Cafe", "Hanamasa - Denpasar", "Warung Be Pasih Renon" ]
+  }, {
+    "name" : "Gili Cat Fast Boat",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "209",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Danau Tamblingan 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "D'Camel Fast Ferry", "GForce Fastboat Nusa Lembongan", "Gili Getaway - Fast Boat to Gili Trawangan", "BlueWater Express", "Gili Gili Fast Boat", "Sindhu Market" ],
+    "eatery_nearby" : [ "Warung Rekreasi Bedugul", "Genius Cafe", "Gardenia Cafe" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Morning Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Sindhu Market", "Good Indonesian Food Culinary Tour", "Bamboo Shoots Cooking School", "Caraway Cooking Class", "Sindhu Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Sulawesi",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "78",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Neighborhoods", "Shopping", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Art Centre", "Taman Puputan", "Pasar Badung", "Dewi Mas", "Maju Batik Fabric", "Alta Moda Fabric Store and Tailor", "Matahari Duta Plaza, Denpasar" ],
+    "eatery_nearby" : [ "Tiram Bistro", "Capil Bar, Grill and Resto", "Warung Wardani" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gili Getaway - Fast Boat to Gili Trawangan",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "421",
+    "description" : "While there are many fast boat services that will transport you from Bali to Lombok and the Gili Islands, Gili Getaway will always go the extra mile for you.                    ",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Serangan Harbour, Bali"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Safe Bali Driver (Ketut Suwenda) - Day Tours", "Bali Tour Guide - Day Tours", "Bali Agung Tours - Day Tours", "BlueWater Express", "BlueWater Express", "Gili Cat Fast Boat", "Waterbom Bali", "Gili Gili Fast Boat" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Turtle Conservation and Education Centre",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "318",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Serangan Denpasar",
+      "address" : "Behind Bali Dolphins"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Waterbom Bali", "Sacred Monkey Forest Sanctuary", "Uluwatu Temple", "Nusa Dua Beach" ],
+    "eatery_nearby" : [ "Panorama Bar & Restaurant", "Retro Beach Restaurant", "Warung Acquaviva" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4524",
+    "description" : "The Sanur Beach Promenade is lined with brightly painted outrigger boats along the water's edge, and good restaurants and cafes opposite. Treat yourself to a massage offered by one of the many masseuses with divans on the sand. If you're there in July, catch the Bali Kite Festival, a colorful international competition.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Nusa Dua Beach", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Mona Lisa Cafe", "Art Cafe Sanur" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sindhu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "370",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Cemara Beach", "Sanur Morning Market" ],
+    "eatery_nearby" : [ "Warung Little Bird", "The Glass House", "Luhtu's Coffee Shop" ]
+  }, {
+    "name" : "Sindhu Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "193",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Sanur Morning Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Hardy's Sanur",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "160",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan no. 136"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Sanur Morning Market", "Toot Sie", "Baruna Beach Markets", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Bajra Sandhi Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Renon"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Museums", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Turtle Conservation and Education Centre", "Sanur Beach", "Tanah Lot Temple" ],
+    "eatery_nearby" : [ "Warung Be Sanur", "White Canny Bali", "Hanamasa - Denpasar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Peek A Boo",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "121",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl Bypass Ngurah Rai #17"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 6
+    } ],
+    "categories" : [ "Playgrounds", "Fun & Games", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Bali Dolphins", "Cemara Beach", "Sindhu Market", "Bali Dolphins", "Hardy's Sanur", "Sanur Beach" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Le Mayeur Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "249",
+    "description" : "This small museum at the north end of Sanur Beach evokes a time of innocence and beauty before the introduction of relatively recent laws banning \"immodest dress.\" Even more impressive than the paintings by the Belgian artist of the young Balinese dancer he married and her friends is the small mansion in which the art and artifacts are housed: a lovely example of Balinese architecture decorated with finely carved and gilded wooden shutters.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Pantai Sanur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Ghostbird + Swoon", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "Bali Dolphins",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "402",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Tangkuban Perahu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Peek A Boo", "Cemara Beach", "Sindhu Market", "Sanur Beach", "Bali Dolphin Interaction", "Hardy's Sanur" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Cemara Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Mezzanine Bar & Restaurant", "The Fire Station", "The Onion Bar & Restaurant" ]
+  }, {
+    "name" : "Renon Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "94",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tohpati Village", "Art Centre", "Taman Puputan", "Jagatnata Temple (Pura Jagatnatha)", "Bajra Sandhi Monument", "Art Centre", "Jagatnata Temple (Pura Jagatnatha)", "Taman Puputan" ],
+    "eatery_nearby" : [ "The Alleyway Cafe", "Hanamasa - Denpasar", "Warung Be Pasih Renon" ]
+  }, {
+    "name" : "Gili Cat Fast Boat",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "209",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Danau Tamblingan 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "D'Camel Fast Ferry", "GForce Fastboat Nusa Lembongan", "Gili Getaway - Fast Boat to Gili Trawangan", "BlueWater Express", "Gili Gili Fast Boat", "Sindhu Market" ],
+    "eatery_nearby" : [ "Warung Rekreasi Bedugul", "Genius Cafe", "Gardenia Cafe" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Morning Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Sindhu Market", "Good Indonesian Food Culinary Tour", "Bamboo Shoots Cooking School", "Caraway Cooking Class", "Sindhu Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Sulawesi",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "78",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Neighborhoods", "Shopping", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Art Centre", "Taman Puputan", "Pasar Badung", "Dewi Mas", "Maju Batik Fabric", "Alta Moda Fabric Store and Tailor", "Matahari Duta Plaza, Denpasar" ],
+    "eatery_nearby" : [ "Tiram Bistro", "Capil Bar, Grill and Resto", "Warung Wardani" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gili Getaway - Fast Boat to Gili Trawangan",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "421",
+    "description" : "While there are many fast boat services that will transport you from Bali to Lombok and the Gili Islands, Gili Getaway will always go the extra mile for you.                    ",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Serangan Harbour, Bali"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Safe Bali Driver (Ketut Suwenda) - Day Tours", "Bali Tour Guide - Day Tours", "Bali Agung Tours - Day Tours", "BlueWater Express", "BlueWater Express", "Gili Cat Fast Boat", "Waterbom Bali", "Gili Gili Fast Boat" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Turtle Conservation and Education Centre",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "318",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Serangan Denpasar",
+      "address" : "Behind Bali Dolphins"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Waterbom Bali", "Sacred Monkey Forest Sanctuary", "Uluwatu Temple", "Nusa Dua Beach" ],
+    "eatery_nearby" : [ "Panorama Bar & Restaurant", "Retro Beach Restaurant", "Warung Acquaviva" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4524",
+    "description" : "The Sanur Beach Promenade is lined with brightly painted outrigger boats along the water's edge, and good restaurants and cafes opposite. Treat yourself to a massage offered by one of the many masseuses with divans on the sand. If you're there in July, catch the Bali Kite Festival, a colorful international competition.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Sindhu Market", "Nusa Dua Beach", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Mona Lisa Cafe", "Art Cafe Sanur" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sindhu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "370",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Cemara Beach", "Sanur Morning Market" ],
+    "eatery_nearby" : [ "Warung Little Bird", "The Glass House", "Luhtu's Coffee Shop" ]
+  }, {
+    "name" : "Sindhu Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "193",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Sanur Morning Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Hardy's Sanur",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "160",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan no. 136"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Sanur Morning Market", "Toot Sie", "Baruna Beach Markets", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Bajra Sandhi Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Renon"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Nature & Parks", "Museums" ],
+    "attraction_nearby" : [ "Sindhu Market", "Turtle Conservation and Education Centre", "Sanur Beach", "Tanah Lot Temple" ],
+    "eatery_nearby" : [ "Warung Be Sanur", "White Canny Bali", "Hanamasa - Denpasar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Peek A Boo",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "121",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl Bypass Ngurah Rai #17"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 6
+    } ],
+    "categories" : [ "Playgrounds", "Fun & Games", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Bali Dolphins", "Cemara Beach", "Sindhu Market", "Bali Dolphins", "Hardy's Sanur", "Sanur Beach" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Le Mayeur Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "249",
+    "description" : "This small museum at the north end of Sanur Beach evokes a time of innocence and beauty before the introduction of relatively recent laws banning \"immodest dress.\" Even more impressive than the paintings by the Belgian artist of the young Balinese dancer he married and her friends is the small mansion in which the art and artifacts are housed: a lovely example of Balinese architecture decorated with finely carved and gilded wooden shutters.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Pantai Sanur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Ghostbird + Swoon", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "Bali Dolphins",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "402",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Tangkuban Perahu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Peek A Boo", "Cemara Beach", "Sindhu Market", "Sanur Beach", "Bali Dolphin Interaction", "Hardy's Sanur" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Cemara Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Mezzanine Bar & Restaurant", "The Fire Station", "The Onion Bar & Restaurant" ]
+  }, {
+    "name" : "Renon Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "94",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tohpati Village", "Art Centre", "Taman Puputan", "Jagatnata Temple (Pura Jagatnatha)", "Bajra Sandhi Monument", "Art Centre", "Jagatnata Temple (Pura Jagatnatha)", "Taman Puputan" ],
+    "eatery_nearby" : [ "The Alleyway Cafe", "Hanamasa - Denpasar", "Warung Be Pasih Renon" ]
+  }, {
+    "name" : "Gili Cat Fast Boat",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "209",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Danau Tamblingan 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "D'Camel Fast Ferry", "GForce Fastboat Nusa Lembongan", "Gili Getaway - Fast Boat to Gili Trawangan", "BlueWater Express", "Gili Gili Fast Boat", "Sindhu Market" ],
+    "eatery_nearby" : [ "Warung Rekreasi Bedugul", "Genius Cafe", "Gardenia Cafe" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Morning Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Sindhu Market", "Good Indonesian Food Culinary Tour", "Bamboo Shoots Cooking School", "Caraway Cooking Class", "Sindhu Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Sulawesi",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "78",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Neighborhoods", "Shopping", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Art Centre", "Taman Puputan", "Pasar Badung", "Dewi Mas", "Maju Batik Fabric", "Alta Moda Fabric Store and Tailor", "Matahari Duta Plaza, Denpasar" ],
+    "eatery_nearby" : [ "Tiram Bistro", "Capil Bar, Grill and Resto", "Warung Wardani" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gili Getaway - Fast Boat to Gili Trawangan",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "421",
+    "description" : "While there are many fast boat services that will transport you from Bali to Lombok and the Gili Islands, Gili Getaway will always go the extra mile for you.                    ",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Serangan Harbour, Bali"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Safe Bali Driver (Ketut Suwenda) - Day Tours", "Bali Tour Guide - Day Tours", "Bali Agung Tours - Day Tours", "BlueWater Express", "BlueWater Express", "Gili Cat Fast Boat", "Waterbom Bali", "Gili Gili Fast Boat" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Turtle Conservation and Education Centre",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "318",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Serangan Denpasar",
+      "address" : "Behind Bali Dolphins"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Waterbom Bali", "Sacred Monkey Forest Sanctuary", "Uluwatu Temple", "Nusa Dua Beach" ],
+    "eatery_nearby" : [ "Panorama Bar & Restaurant", "Retro Beach Restaurant", "Warung Acquaviva" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4524",
+    "description" : "The Sanur Beach Promenade is lined with brightly painted outrigger boats along the water's edge, and good restaurants and cafes opposite. Treat yourself to a massage offered by one of the many masseuses with divans on the sand. If you're there in July, catch the Bali Kite Festival, a colorful international competition.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Sindhu Market", "Nusa Dua Beach", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Mona Lisa Cafe", "Art Cafe Sanur" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sindhu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "370",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Cemara Beach", "Sanur Morning Market" ],
+    "eatery_nearby" : [ "Warung Little Bird", "The Glass House", "Luhtu's Coffee Shop" ]
+  }, {
+    "name" : "Sindhu Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "193",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Sanur Morning Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Hardy's Sanur",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "160",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan no. 136"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Sanur Morning Market", "Toot Sie", "Baruna Beach Markets", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Bajra Sandhi Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : "Renon"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Museums", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sindhu Market", "Turtle Conservation and Education Centre", "Sanur Beach", "Tanah Lot Temple" ],
+    "eatery_nearby" : [ "Warung Be Sanur", "White Canny Bali", "Hanamasa - Denpasar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Peek A Boo",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "121",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl Bypass Ngurah Rai #17"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 6
+    } ],
+    "categories" : [ "Playgrounds", "Nature & Parks", "Fun & Games" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Bali Dolphins", "Cemara Beach", "Sindhu Market", "Bali Dolphins", "Hardy's Sanur", "Sanur Beach" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Le Mayeur Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "249",
+    "description" : "This small museum at the north end of Sanur Beach evokes a time of innocence and beauty before the introduction of relatively recent laws banning \"immodest dress.\" Even more impressive than the paintings by the Belgian artist of the young Balinese dancer he married and her friends is the small mansion in which the art and artifacts are housed: a lovely example of Balinese architecture decorated with finely carved and gilded wooden shutters.",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Pantai Sanur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Ghostbird + Swoon", "Sindhu Market", "Sanur Morning Market", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Mak Beng", "Warung Sunrise", "Ikan Bakar Cianjur Renon" ]
+  }, {
+    "name" : "Bali Dolphins",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "402",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Tangkuban Perahu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Sindhu Beach", "Peek A Boo", "Cemara Beach", "Sindhu Market", "Sanur Beach", "Bali Dolphin Interaction", "Hardy's Sanur" ],
+    "eatery_nearby" : [ "Casablanca Dine Drink Dance", "Kopi Kiosk Coffee Hut", "the Bread Basket" ]
+  }, {
+    "name" : "Cemara Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Sanur Beach", "Bali Diving", "Bali Marine Walk", "Seawalker Tours", "Sanur Beach", "Sindhu Market", "Sindhu Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Mezzanine Bar & Restaurant", "The Fire Station", "The Onion Bar & Restaurant" ]
+  }, {
+    "name" : "Renon Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "94",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tohpati Village", "Art Centre", "Taman Puputan", "Jagatnata Temple (Pura Jagatnatha)", "Bajra Sandhi Monument", "Art Centre", "Jagatnata Temple (Pura Jagatnatha)", "Taman Puputan" ],
+    "eatery_nearby" : [ "The Alleyway Cafe", "Hanamasa - Denpasar", "Warung Be Pasih Renon" ]
+  }, {
+    "name" : "Gili Cat Fast Boat",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "209",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jalan Danau Tamblingan 51"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "D'Camel Fast Ferry", "GForce Fastboat Nusa Lembongan", "Gili Getaway - Fast Boat to Gili Trawangan", "BlueWater Express", "Gili Gili Fast Boat", "Sindhu Market" ],
+    "eatery_nearby" : [ "Warung Rekreasi Bedugul", "Genius Cafe", "Gardenia Cafe" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sanur Morning Market",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "Denpasar",
+      "city" : "Sanur Denpasar",
+      "address" : "Jl. Danau Tamblingan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Sindhu Market", "Good Indonesian Food Culinary Tour", "Bamboo Shoots Cooking School", "Caraway Cooking Class", "Sindhu Market", "Hardy's Sanur", "Sanur Beach", "Bali Dolphins" ],
+    "eatery_nearby" : [ "Warung Little Bird", "Mona Lisa Cafe", "The Glass House" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Sulawesi",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "78",
+    "description" : "",
+    "location" : [ {
+      "island" : "Bali",
+      "province" : "",
+      "city" : "Denpasar",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Neighborhoods", "Sights & Landmarks", "Shopping" ],
+    "attraction_nearby" : [ "Sindhu Market", "Art Centre", "Taman Puputan", "Pasar Badung", "Dewi Mas", "Maju Batik Fabric", "Alta Moda Fabric Store and Tailor", "Matahari Duta Plaza, Denpasar" ],
+    "eatery_nearby" : [ "Tiram Bistro", "Capil Bar, Grill and Resto", "Warung Wardani" ]
+  } ]
+}

@@ -1,0 +1,383 @@
+{
+  "places" : [ {
+    "name" : "Equator Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "297",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jl. Katulistiwa"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Raya Mujahidin", "Kapuas Square", "Saint Joseph Cathedral", "Jami Mosque", "Kapuas Square", "Masjid Raya Mujahidin", "Sentarum Lake", "Saint Joseph Cathedral" ],
+    "eatery_nearby" : [ "Ou Kie Bakmi Kepiting", "Kwetiaw Appolo", "Medan Kerang x Hore Crab" ]
+  }, {
+    "name" : "Masjid Raya Mujahidin",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "48",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jln. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapuas Square", "Saint Joseph Cathedral", "Jami Mosque", "Betang House", "Equator Monument", "Kapuas Square", "Jami Mosque", "Saint Joseph Cathedral" ],
+    "eatery_nearby" : [ "Ice Cream Angi", "Pondok Kakap", "Chinese Dynasty Restaurant" ]
+  }, {
+    "name" : "Kapuas Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "114",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jln. Rahadi Usman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Raya Mujahidin", "Saint Joseph Cathedral", "Betang House", "Rumah Radakng", "Equator Monument", "Sentarum Lake", "Masjid Raya Mujahidin", "Saint Joseph Cathedral" ],
+    "eatery_nearby" : [ "Ou Kie Bakmi Kepiting", "Kwetiaw Appolo", "Chai Kue Panas Siam" ]
+  }, {
+    "name" : "Saint Joseph Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jln. Pattimura no. 195"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Points of Interest & Landmarks", "Churches & Cathedrals", "Architectural Buildings", "Sacred & Religious Sites", "Sights & Landmarks", "More" ],
+    "attraction_nearby" : [ "Masjid Raya Mujahidin", "Kapuas Square", "Jami Mosque", "Keraton Kadriah", "Kapuas Square", "Equator Monument", "Sentarum Lake", "Masjid Raya Mujahidin" ],
+    "eatery_nearby" : [ "Kwetiaw Appolo", "Chai Kue Panas Siam", "Nasi Ayam Asan 333" ]
+  }, {
+    "name" : "Ayani Mega Mall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "63",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jln. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Supermarket Kaisar", "Kapuas Square", "Equator Monument", "ParadisQ Waterpark", "Sentarum Lake" ],
+    "eatery_nearby" : [ "Nasi Akwang", "Kwecap Veteran", "Nasi Ayam Afu" ]
+  }, {
+    "name" : "Jami Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Beting Village"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Raya Mujahidin", "Saint Joseph Cathedral", "Equator Monument", "Kapuas Square", "Kapuas Square", "Betang House", "Masjid Raya Mujahidin", "Sentarum Lake" ],
+    "eatery_nearby" : [ "Abang Kepiting Restaurant", "Kwetiaw Appolo", "Chai Kue Panas Siam" ]
+  }, {
+    "name" : "Keraton Kadriah",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "64",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Beting Village"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Architectural Buildings", "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Saint Joseph Cathedral", "Equator Monument", "Masjid Raya Mujahidin", "Kapuas Square", "Kapuas Square", "Equator Monument", "Betang House", "Masjid Raya Mujahidin" ],
+    "eatery_nearby" : [ "Abang Kepiting Restaurant", "Chinese Dynasty Restaurant", "Restoran Gajah Mada" ]
+  }, {
+    "name" : "Museum Negeri Pontianak",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jln. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Kapuas Square", "Betang House", "Equator Monument", "Keraton Kadriah" ],
+    "eatery_nearby" : [ "Pondok Kakap", "Nasi Akwang", "Kwecap Veteran" ]
+  }, {
+    "name" : "Betang House",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jln. Letjen Sutoyo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Raya Mujahidin", "Kapuas Square", "Saint Joseph Cathedral", "Rumah Radakng", "Kapuas Square", "Equator Monument", "Jami Mosque", "Sentarum Lake" ],
+    "eatery_nearby" : [ "Pondok Kakap", "Chinese Dynasty Restaurant", "Nasi Akwang" ]
+  }, {
+    "name" : "Sentarum Lake",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kapuas Square", "Equator Monument", "Saint Joseph Cathedral", "Betang House" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Rumah Radakng",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jl. Sutan Syahrir"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Raya Mujahidin", "Kapuas Square", "Saint Joseph Cathedral", "Betang House", "Kapuas Square", "Betang House", "Masjid Raya Mujahidin", "Keraton Kadriah" ],
+    "eatery_nearby" : [ "Ice Cream Angi", "Pondok Kakap", "Salido" ]
+  }, {
+    "name" : "ParadisQ Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Jl. Arteri Supadio KM 12,8 - Kubu Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sentarum Lake", "Ayani Mega Mall", "Kapuas Square", "Equator Monument" ],
+    "eatery_nearby" : [ "Kwecap Veteran", "Pondok Pengkang", "Tom Yam Pak Long" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Juang Mandor Cemetery",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "West Kalimantan",
+      "city" : "Pontianak",
+      "address" : "Mandor Town"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Cemeteries", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Equator Monument", "Masjid Raya Mujahidin", "Kapuas Square", "Saint Joseph Cathedral", "Sentarum Lake", "Equator Monument", "Betang House", "Masjid Raya Mujahidin" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  } ]
+}
