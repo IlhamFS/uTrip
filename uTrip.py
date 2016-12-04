@@ -9,7 +9,7 @@ cities_dict = {}
 provinces_dict = {}
 
 
-def createIndexLocation(place, idx):
+def create_index_location(place, idx):
     # update index location: province
     province = place["location"][0]["province"]
     if not province:
@@ -27,7 +27,7 @@ def createIndexLocation(place, idx):
         cities_dict[city] = [idx]
 
 
-def createIndexAttractions(place, idx):
+def create_index_attractions(place, idx):
     # update index categories
     ctgs = place["categories"]
     for j in range(len(ctgs)):
@@ -38,7 +38,7 @@ def createIndexAttractions(place, idx):
             categories_dict[ctg] = [idx]
 
 
-def createIndexRestaurants(place, idx):
+def create_index_restaurants(place, idx):
     # update index categories
     categories_dict["restaurant"].append(idx)
     ctg = place["categories"][0]
@@ -48,7 +48,7 @@ def createIndexRestaurants(place, idx):
 
 # type: 1 -> attractions;
 # 		2 -> restaurants
-def readJson(filename, type):
+def read_json(filename, type):
     # load all json into temporary variable data
     with open(filename) as data_file:
         data = json.load(data_file)
@@ -63,31 +63,31 @@ def readJson(filename, type):
             # insert new place into array
             places.append(place)
             # create index categories
-            if (type == 1):
-                createIndexAttractions(place, idx)
-            elif (type == 2):
-                createIndexRestaurants(place, idx)
+            if type == 1:
+                create_index_attractions(place, idx)
+            elif type == 2:
+                create_index_restaurants(place, idx)
             # create index location
-            createIndexLocation(place, idx)
+                create_index_location(place, idx)
             idx += 1
 
 
 # MAIN PROGRAM
 # saat program pertama running, jalankan ini
-def initbuild():
+def init_build():
     # lanjut tambahin restaurant & halal disini
     categories_dict["restaurant"] = []
     categories_dict["halal"] = []
     for filename in os.listdir('./Attractions'):
         fn = "./Attractions/" + filename
-        readJson(fn, 1)
+        read_json(fn, 1)
     for filename in os.listdir('./Restaurants'):
         fn = "./Restaurants/" + filename
-        readJson(fn, 2)
+        read_json(fn, 2)
 
 
 # ini buat bikin index dan load dari json pertama kali
-initbuild()
+init_build()
 
 # PRINT TO CHECK
 # ini buat debug aja
