@@ -1,0 +1,3993 @@
+{
+  "places" : [ {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Francis Artisan Bakery", "Beautika Restoran", "D'cost VIP" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Bakmi GM Bandara Soetta", "Maxis Lounge", "The Porte at FM7 Resort Hotel" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Collage All Day Dining", "Hong Tang", "Pancious" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Beautika", "Monolog", "Esina Yakiniku Garden Restaurant" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Nature & Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  }, {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Beautika Restoran", "D'cost VIP", "D'Stupid Baker" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Bakmi GM Bandara Soetta", "Maxis Lounge", "The Porte at FM7 Resort Hotel" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Collage All Day Dining", "Hong Tang", "Pancious" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Beautika", "Monolog", "Esina Yakiniku Garden Restaurant" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Water & Amusement Parks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  }, {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Francis Artisan Bakery", "Beautika Restoran", "D'cost VIP" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Maxis Lounge", "The Porte at FM7 Resort Hotel", "Linjani Restaurant" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Hong Tang", "Pancious", "Bakmie Gm Ta" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "En Dining - Senayan City", "Beautika", "AW Kitchen Pasta House by Akira Watanabe" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Water & Amusement Parks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  }, {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Beautika Restoran", "D'cost VIP", "D'Stupid Baker" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Maxis Lounge", "The Porte at FM7 Resort Hotel", "Linjani Restaurant" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Collage All Day Dining", "Hong Tang", "Pancious" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Beautika", "Monolog", "Esina Yakiniku Garden Restaurant" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Nature & Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  }, {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Beautika Restoran", "D'cost VIP", "D'Stupid Baker" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Maxis Lounge", "The Porte at FM7 Resort Hotel", "Linjani Restaurant" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Collage All Day Dining", "Hong Tang", "Pancious" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Beautika", "Monolog", "Esina Yakiniku Garden Restaurant" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Nature & Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  }, {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Francis Artisan Bakery", "Beautika Restoran", "D'cost VIP" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Bakmi GM Bandara Soetta", "Maxis Lounge", "The Porte at FM7 Resort Hotel" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Collage All Day Dining", "Hong Tang", "Pancious" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Beautika", "Monolog", "Esina Yakiniku Garden Restaurant" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Nature & Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  }, {
+    "name" : "Grand Indonesia Mall",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "1618",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28-30 Jln. M.H. Thamrin 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Thousand Islands", "Beautiful Indonesia in Miniature Park", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Tatemukai", "Benedict", "Magnum Cafe" ]
+  }, {
+    "name" : "Istiqlal Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1512",
+    "description" : "Indonesia's largest mosque is a sacred place of worship as well as a center for conferences, lectures and seminars.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Taman Wijaya Kusuma"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Jakarta Cathedral", "Thousand Islands", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Happy Day Restaurant" ]
+  }, {
+    "name" : "Jakarta Cathedral",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "729",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jakarta Pusat Jln. Kathedral"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Bogor Cafe", "Bakmi Abun" ]
+  }, {
+    "name" : "National Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1059",
+    "description" : "In 1778, the Batavia Society for Arts and Science established what would become, after many expansions and name changes, the world-famous National Museum.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Barat 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Beautika Restoran", "D'cost VIP", "D'Stupid Baker" ]
+  }, {
+    "name" : "Museum Bank Indonesia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "596",
+    "description" : "Once the first banks of Indonesia, now a museum of banking in Indonesia.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "JL. Pintu Besar Utara 3"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Istiqlal Mosque", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Warung Kopi Tak Kie", "Historia Food & Bar" ]
+  }, {
+    "name" : "Beautiful Indonesia in Miniature Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1571",
+    "description" : "With 13,000 islands and 27 provinces, it's hard to see all of Indonesia. Taman Mini Indonesia is a park filled with famous buildings from all parts of Indonesia and authentic examples of the various cultures through Indonesia. The park includes a sky-car tour, IMAX theatre, dances, and cultural events. The name translates as Beautiful Indonesia Miniature Park.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Cipayung Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Istiqlal Mosque", "National Museum" ],
+    "eatery_nearby" : [ "Ikan Bakar Karimata", "Starbucks - Rest Area Sentul", "Kfc Tmii" ]
+  }, {
+    "name" : "Thousand Islands",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "660",
+    "description" : "Scattered through Jakarta Bay are the 1000 Islands, Palau Seribu. Known for great beaches, diving, and holiday travel, these make a great day trip or weekend getaway.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park", "Istiqlal Mosque", "Ancol Dreamland" ],
+    "eatery_nearby" : [ "Bakmi GM Bandara Soetta", "Maxis Lounge", "The Porte at FM7 Resort Hotel" ]
+  }, {
+    "name" : "Waterbom Jakarta",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "372",
+    "description" : "This water paradise is located at Pantai Indah Kapuk, 10 minutes away from Soekarno - Hatta International Airport and 15 minutes from downtown. Waterbom Jakarta with it's international standards offering high quality facilities and amenities, as well as fabulous design aesthetic. With an 'urban cool' concept, its signature landscape offers a truly relaxed atmosphere and its waterslides not only offer fun, but tons of thrills. Wether for family, friends or colleagues, Waterbom Jakarta is perfect for a relaxing or action-packed day under the sun. Waterbom Jakarta is affiliated with Waterbom Bali.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Pantai Indah Barat no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Ancol Dreamland", "Grand Indonesia Mall", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Sate Khas Senayan", "Bakmi Lamlo", "Pala Adas Indonesian Bistro" ]
+  }, {
+    "name" : "Central Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "244",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 28 Grogol Jln. Letjen S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Thousand Islands", "Jakarta Old Town" ],
+    "eatery_nearby" : [ "Collage All Day Dining", "Hong Tang", "Pancious" ]
+  }, {
+    "name" : "Ancol Dreamland",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1054",
+    "description" : "Dunia Fantasi means Dreamland in Indonesian. It is a part (but a seperate attraction) of the massive Taman Impian Jaya Ancol complex. It contains rollercoasters, rides and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Thousand Islands", "Grand Indonesia Mall", "Waterbom Jakarta", "Beautiful Indonesia in Miniature Park" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square", "Seaside Suki" ]
+  }, {
+    "name" : "National Monument (MONAS)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2334",
+    "description" : "Built to commemorate Indonesia's independence, National Monument dominates Medan Merdeka.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Silang Monas"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Istiqlal Mosque", "Grand Indonesia Mall", "Jakarta Old Town", "National Museum" ],
+    "eatery_nearby" : [ "Dapur Babah Elite", "Happy Day Restaurant", "Penang Bistro - Kebon Sirih" ]
+  }, {
+    "name" : "Kota Kasablanka",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "230",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Kav 88 Tebet Jln. Casablanca"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Taman Anggrek Mall", "Thousand Islands" ],
+    "eatery_nearby" : [ "Yoshinoya - Grand Indonesia", "Chung Gi Wa Kota Kasablanka", "Fish & Co. Kota Kasablanka" ]
+  }, {
+    "name" : "Jakarta Old Town",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "1114",
+    "description" : "This is the old city of Batavia. Rundown, picturesque and a great night market.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kali Besar Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Taman Suropati",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "306",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Teuku Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Thousand Islands", "Jakarta Old Town", "Central Park" ],
+    "eatery_nearby" : [ "Bunga Rampai", "Bebek Bengil", "Anomali Coffee" ]
+  }, {
+    "name" : "Pacific Place",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "163",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jalan Jend Sudirman Kav 52-53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Kota Kasablanka", "Central Park", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Hard Rock Cafe Jakarta", "TWG Tea", "Ippudo" ]
+  }, {
+    "name" : "Gambir Train Station",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "503",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Medan Merdeka Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "National Monument (MONAS)", "Jakarta Old Town", "Istiqlal Mosque" ],
+    "eatery_nearby" : [ "Bogor Cafe", "Penang Bistro - Kebon Sirih", "MELLY's Garden Bar & Resto" ]
+  }, {
+    "name" : "Taman Anggrek Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Tanjung Duren Timur II 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Grand Indonesia Mall", "Central Park", "Kota Kasablanka", "Pacific Place" ],
+    "eatery_nearby" : [ "Washoku Sato", "Kitchenette", "The Manhattan fish Market" ]
+  }, {
+    "name" : "Fatahillah Square",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "353",
+    "description" : "Fatahillah Square, also known as Old Batavia, is the historical district of Jakarta located in Kotas. During Dutch Colonial times in the 16th century, this was the heart of the walled city. Home to attractions such as the Jakarta History Museum and many colonial buildings, this area fills up with artisans, jugglers, and tourists on the weekends.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "Grand Indonesia Mall", "Istiqlal Mosque", "Thousand Islands" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Mandiri Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "307",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lapangan Stasiun no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 16
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "National Museum", "Museum Bank Indonesia", "Jakarta Old Town", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "OPEN, Doubletree by Hilton", "Bunga Rampai" ]
+  }, {
+    "name" : "Plaza Senayan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Senayan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Senayan City", "Pacific Place", "Taman Anggrek Mall", "Kelapa Gading Mall" ],
+    "eatery_nearby" : [ "Paradise Dynasty Imperial Treasure La Mian Xiao Long Bao", "Remboelan Plaza Senayan", "Union Plaza Senayan" ]
+  }, {
+    "name" : "Museum Wayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "390",
+    "description" : "This museum exhibits a great many wayang kulit, two-dimensional puppets used in the ancient art of Javanese storytelling.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Pintu Besar Utara 27"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Jakarta Old Town", "National Museum", "Beautiful Indonesia in Miniature Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Cafe Batavia", "Historia Food & Bar", "Kedai Seni Djakarte" ]
+  }, {
+    "name" : "Flea Market at Jalan Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "274",
+    "description" : "The Jalan Surabaya market is the place to find antiques, rare finds, and other oddities.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Surabaya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Tanah Abang Market", "Fatahillah Square", "Central Park", "Grand Indonesia Mall" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Lara Djonggrang", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Pondok Indah Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "131",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Metro Pondok Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Taman Anggrek Mall", "Gandaria City Mall" ],
+    "eatery_nearby" : [ "Monolog Coffee", "Sushi Tei PIM 2", "Trattoria Pondok Indah" ]
+  }, {
+    "name" : "Senayan City",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "137",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Asia Afrika 19"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Senayan", "Pacific Place", "Kelapa Gading Mall", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Beautika", "Monolog", "Esina Yakiniku Garden Restaurant" ]
+  }, {
+    "name" : "Gandaria City Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "130",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Sultan Iskandar Muda Jln. Kebayoran Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kelapa Gading Mall", "Plaza Senayan", "Pacific Place", "Taman Anggrek Mall" ],
+    "eatery_nearby" : [ "Liberica Coffee", "Seribu Rasa", "Fish & Co." ]
+  }, {
+    "name" : "Ocean Ecopark Ancol",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "165",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Lodan II"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Sea World", "Ancol Dreamland", "Taman Suropati", "Central Park" ],
+    "eatery_nearby" : [ "Kedai Locale", "Warung Mak Dower", "Bebek Mak Isa Cipinang" ]
+  }, {
+    "name" : "Sea World",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "315",
+    "description" : "Sea World in Jakarta is located inside the Ancol Dream Land complex. More than 4000 species of fish, sharks and sea life. Walk through tunnels, massive oceanarium, shows and displays.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Taman Ria Ancol"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 18
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Theme Parks", "Nature & Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Ancol Dreamland", "Waterbom Jakarta", "Ocean Ecopark Ancol", "Ancol Ocean Dream Samudra" ],
+    "eatery_nearby" : [ "Bandar Djakarta Ancol", "Taman Santap Rumah Kayu", "Bakmi GM Mangga Dua Square" ]
+  }, {
+    "name" : "Kelapa Gading Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "133",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jln. Kelapa Gading"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Taman Anggrek Mall", "Plaza Senayan", "Pacific Place", "Kota Kasablanka" ],
+    "eatery_nearby" : [ "Sushi Tei Mall Kelapa Gading 5", "Bun Ong", "Nila Goreng Pak Ugi" ]
+  }, {
+    "name" : "Proclamation Monument",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "167",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Jl. Proklamasi No. 56"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mandiri Museum", "Freedom Library", "Taman Suropati", "Fatahillah Square" ],
+    "eatery_nearby" : [ "Giyanti Coffee Roastery", "Fish & Co", "OPEN, Doubletree by Hilton" ]
+  }, {
+    "name" : "Chinatown (Glodok)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "279",
+    "description" : "The Chinatown of Jakarta began long before Indonesia existed as a nation and was originally the Chinatown of Batavia. This was the area where the Dutch required the Chinese to live. Today, the whole area is called Glodok and includes traditional houses, markets, architecture and some very beautiful Chinese temples; the Da Shi Miao and the Vihara Dharma Bhakti temples are both popular tourist attractions. The Glodok Market is one of the great commercial centers of Jakarta where you can buy everything from antiques to laptops.",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "Jakarta",
+      "address" : "Old Batavia"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fatahillah Square", "Flea Market at Jalan Surabaya", "Jakarta Old Town", "Jakarta Cathedral" ],
+    "eatery_nearby" : [ "Warung Kopi Tak Kie", "Santong Kuotieh 68", "Restaurant Cahaya Lestari" ]
+  } ]
+}

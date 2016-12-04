@@ -1,0 +1,1713 @@
+{
+  "places" : [ {
+    "name" : "Sampoerna Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "956",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Taman Sampoerna 6"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 22
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Mpu Tantular", "Indonesian Cancer Museum", "Museum Kesehatan Dr. Adhyatma MPH", "Museum Surabaya", "Tunjungan Plaza", "Masjid Nasional Al Akbar Surabaya", "Surabaya Town Square", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Lontong Balap Rajawali", "Depot Sari" ]
+  }, {
+    "name" : "Tunjungan Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "555",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Basuki Rachmat 8-12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Surabaya Town Square", "Galaxy Mall", "Royal Plaza", "Plaza Surabaya", "Surabaya Town Square", "Sampoerna Museum", "Galaxy Mall", "Masjid Nasional Al Akbar Surabaya" ],
+    "eatery_nearby" : [ "Boncafe Pregolan", "Marugame Udon and Tempura Tunjungan Plaza", "Indigo Bar & Restaurant" ]
+  }, {
+    "name" : "Masjid Nasional Al Akbar Surabaya",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Mesjid Al-Akbar Timur no 1, Pagesangan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Tunjungan Plaza", "Suramadu National Bridge", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Agis Restaurant", "Restoran Alami", "Rollaas" ]
+  }, {
+    "name" : "Surabaya Town Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "355",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Adityawarman 55"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Galaxy Mall", "Royal Plaza", "Plaza Surabaya", "Tunjungan Plaza", "Sampoerna Museum", "Bungkul Park", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "D'kampoeng", "Holycow Steakhouse", "Fish & Co." ]
+  }, {
+    "name" : "Suramadu National Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "775",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Tambak Adi No 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jembatan Merah", "Masjid Nasional Al Akbar Surabaya", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Sampoerna Museum", "Tunjungan Plaza", "Masjid Nasional Al Akbar Surabaya", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Soto Ambengan", "Depot Swikee Gris", "Bebek Goreng Papin" ]
+  }, {
+    "name" : "Bungkul Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "558",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Darmo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Food Junction", "Kalimas River", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Monumen Gubernur Suryo", "Surabaya Town Square", "Sampoerna Museum", "Tunjungan Plaza", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "The Harvest Patissier & Chocolatier", "CITRUS LEE", "Rawon Kalkulator" ]
+  }, {
+    "name" : "Monkasel (Submarine Monument)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "391",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Raya Gubeng"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tugu Pahlawan", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Sampoerna Museum", "Suramadu National Bridge", "Tunjungan Plaza", "Bungkul Park" ],
+    "eatery_nearby" : [ "Domicile Kitchen & Lounge", "Libby Bakery", "Historica Coffee & Pastry" ]
+  }, {
+    "name" : "Tugu Pahlawan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "247",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pahlawan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Sampoerna Museum", "Tunjungan Plaza" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Depot Sari" ]
+  }, {
+    "name" : "Pakuwon Food Festival",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "171",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Kejawan Putih"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Points of Interest & Landmarks", "Sights & Landmarks", "Shopping" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Tunjungan Plaza", "Sampoerna Museum", "Surabaya Town Square", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "Adam Sioke & Siobak", "Amanda Brownies Kukus", "Nature Vegetarian Surabaya" ]
+  }, {
+    "name" : "Galaxy Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "110",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Dharmahusada Indah Timur no. 37"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Royal Plaza", "Plaza Surabaya", "Tunjungan Plaza", "Surabaya Town Square", "Pakuwon Food Festival", "Sampoerna Museum" ],
+    "eatery_nearby" : [ "Zangradi", "Yoshinoya Mall Galaxy", "Daun Lada Mall Galaxy" ]
+  }, {
+    "name" : "Ampel Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "138",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Ampel Masjid no 53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Masjid Nasional Al Akbar Surabaya", "Sampoerna Museum", "Suramadu National Bridge", "Muhammad Cheng Hoo Mosque" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Suroboyo Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jayabaya Terminal"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Suramadu National Bridge", "Sampoerna Museum", "Monkasel (Submarine Monument)", "Tunjungan Plaza" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Muhammad Cheng Hoo Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "85",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Gading no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Suramadu National Bridge", "Tunjungan Plaza", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Soto Cak To" ]
+  }, {
+    "name" : "Sanggar Agung Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Sukolilo 100"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Pakuwon Food Festival", "Muhammad Cheng Hoo Mosque", "Masjid Nasional Al Akbar Surabaya" ],
+    "eatery_nearby" : [ "Soto Ayam Lamongan Cak Har", "Bebek Goreng HT", "Livana Spikoe" ]
+  }, {
+    "name" : "Gereja Santa Perawan Maria",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "71",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Kepanjen"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Sampoerna Museum", "Pakuwon Food Festival", "Muhammad Cheng Hoo Mosque", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Nasi Empal Pengampon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Grahadi Building",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "52",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jalan Gubernur Suryo no 7"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Architectural Buildings", "Conference & Convention Centers", "Sights & Landmarks", "Traveler Resources" ],
+    "attraction_nearby" : [ "Balai Pemuda", "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Sampoerna Museum", "Tunjungan Plaza", "Monkasel (Submarine Monument)", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Pepper Lunch Plaza Tunjungan", "McDonald's Basuki Rahmat" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Monumen Bambu Runcing",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "61",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Panglima Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suroboyo Monument", "Jalesveva Jayamahe Monument", "Monumen Gubernur Suryo", "Four Face Buddha Statue", "Monkasel (Submarine Monument)", "Tunjungan Plaza", "Tugu Pahlawan", "Muhammad Cheng Hoo Mosque" ],
+    "eatery_nearby" : [ "Pasar Malem - Siti Inggil", "Our Bar", "Pepper Lunch Plaza Tunjungan" ]
+  }, {
+    "name" : "Royal Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Akhmad Yani no. 16-18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Galaxy Mall", "Plaza Surabaya", "Surabaya Town Square", "Tunjungan Plaza", "Galaxy Mall", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "Sitara India Cuisine", "Sego Sambel Mak Yeye", "Rawon Pak Pangat Wonokromo" ]
+  }, {
+    "name" : "Food Junction",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Grand Banjar Boulevard"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Playgrounds", "Fun & Games", "Nature & Parks" ],
+    "attraction_nearby" : [ "Bungkul Park", "Suroboyo Carnival Park", "Kalimas River", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Suroboyo Carnival Park", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Surabaya North Quay", "Kalimas River" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Pahlawan",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "44",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pahlawan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Pakuwon Food Festival", "Monumen Perjuangan POLRI", "Jembatan Merah", "Ex. De Javasche Bank Soerabaia", "Jalesveva Jayamahe Monument", "Temple of Heaven Kenjeran" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Rumah Makan Kapin (Kapin Shark Fin & Authentic Chinese  Restaurant)" ]
+  }, {
+    "name" : "Balai Pemuda",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "46",
+    "description" : "Place where you can get any information about tourism and everything in Surabaya",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Pemuda 15"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 20
+    } ],
+    "categories" : [ "Architectural Buildings", "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grahadi Building", "Ex. De Javasche Bank Soerabaia", "Klenteng Hong Tiek Hian", "Masjid Nasional Al Akbar Surabaya", "Surabaya Tourism Information Center", "Grahadi Building", "Monumen Bambu Runcing", "Ex. De Javasche Bank Soerabaia" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Warung Sate Kelapa Ondomohen", "Ta Wan Plaza Surabaya" ]
+  }, {
+    "name" : "Ex. De Javasche Bank Soerabaia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Garuda 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Balai Pemuda", "Klenteng Hong Tiek Hian", "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Jalan Pahlawan", "Museum Surabaya", "Jalesveva Jayamahe Monument", "Indonesian Cancer Museum" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Plaza Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pemuda no. 33-37"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Galaxy Mall", "Royal Plaza", "Royal Plaza", "Surabaya Town Square", "Golden City Mal", "Supermal Pakuwon Indah" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Ta Wan Plaza Surabaya", "Hanamasa Gubeng Pojok" ]
+  }, {
+    "name" : "Monumen Perjuangan POLRI",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "47",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Darmo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Bambu Runcing", "Joko Dolog Buddhist Statue", "Jalan Pahlawan", "Indonesian Cancer Museum" ],
+    "eatery_nearby" : [ "La Rucola Mediterranean Restaurant", "Happy Suzy", "The Harvest Patissier & Chocolatier" ]
+  }, {
+    "name" : "Ciputra Waterpark",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "114",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Water Park Boulevard"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Suroboyo Carnival Park", "Taman Hiburan Rakyat (THR)", "Suroboyo Carnival Park", "Food Junction", "Bungkul Park", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "Dream of Kahyangan Art Resto", "The Daily Sweet", "Bebek Goreng Pak Qomar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jembatan Merah",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "100",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Standplaat Jembatan Merah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suramadu National Bridge", "Masjid Nasional Al Akbar Surabaya", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Jalan Pahlawan", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Jalesveva Jayamahe Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Taruna 1 Ujung Jln. Tanjung Perak Barat"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suroboyo Monument", "Monumen Bambu Runcing", "Monumen Gubernur Suryo", "Four Face Buddha Statue", "Jalan Pahlawan", "Ex. De Javasche Bank Soerabaia", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Lontong Balap Rajawali", "Rumah Makan Laksana Jaya" ]
+  }, {
+    "name" : "Sampoerna Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "956",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Taman Sampoerna 6"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 22
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Mpu Tantular", "Indonesian Cancer Museum", "Museum Kesehatan Dr. Adhyatma MPH", "Museum Surabaya", "Tunjungan Plaza", "Masjid Nasional Al Akbar Surabaya", "Surabaya Town Square", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Lontong Balap Rajawali", "Depot Sari" ]
+  }, {
+    "name" : "Tunjungan Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "555",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Basuki Rachmat 8-12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Surabaya Town Square", "Galaxy Mall", "Royal Plaza", "Plaza Surabaya", "Surabaya Town Square", "Sampoerna Museum", "Galaxy Mall", "Masjid Nasional Al Akbar Surabaya" ],
+    "eatery_nearby" : [ "Boncafe Pregolan", "Marugame Udon and Tempura Tunjungan Plaza", "Indigo Bar & Restaurant" ]
+  }, {
+    "name" : "Masjid Nasional Al Akbar Surabaya",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Mesjid Al-Akbar Timur no 1, Pagesangan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Tunjungan Plaza", "Suramadu National Bridge", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Agis Restaurant", "Restoran Alami", "Rollaas" ]
+  }, {
+    "name" : "Surabaya Town Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "355",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Adityawarman 55"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Galaxy Mall", "Royal Plaza", "Plaza Surabaya", "Tunjungan Plaza", "Sampoerna Museum", "Bungkul Park", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "D'kampoeng", "Holycow Steakhouse", "Fish & Co." ]
+  }, {
+    "name" : "Suramadu National Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "775",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Tambak Adi No 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jembatan Merah", "Masjid Nasional Al Akbar Surabaya", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Sampoerna Museum", "Tunjungan Plaza", "Masjid Nasional Al Akbar Surabaya", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Soto Ambengan", "Depot Swikee Gris", "Bebek Goreng Papin" ]
+  }, {
+    "name" : "Bungkul Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "558",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Darmo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Food Junction", "Kalimas River", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Monumen Gubernur Suryo", "Surabaya Town Square", "Sampoerna Museum", "Tunjungan Plaza", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "The Harvest Patissier & Chocolatier", "CITRUS LEE", "Rawon Kalkulator" ]
+  }, {
+    "name" : "Monkasel (Submarine Monument)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "391",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Raya Gubeng"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tugu Pahlawan", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Sampoerna Museum", "Suramadu National Bridge", "Tunjungan Plaza", "Bungkul Park" ],
+    "eatery_nearby" : [ "Domicile Kitchen & Lounge", "Libby Bakery", "Historica Coffee & Pastry" ]
+  }, {
+    "name" : "Tugu Pahlawan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "247",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pahlawan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Sampoerna Museum", "Tunjungan Plaza" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Depot Sari" ]
+  }, {
+    "name" : "Pakuwon Food Festival",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "171",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Kejawan Putih"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Points of Interest & Landmarks", "Sights & Landmarks", "Shopping" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Tunjungan Plaza", "Sampoerna Museum", "Surabaya Town Square", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "Adam Sioke & Siobak", "Amanda Brownies Kukus", "Nature Vegetarian Surabaya" ]
+  }, {
+    "name" : "Galaxy Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "110",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Dharmahusada Indah Timur no. 37"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Royal Plaza", "Plaza Surabaya", "Tunjungan Plaza", "Surabaya Town Square", "Pakuwon Food Festival", "Sampoerna Museum" ],
+    "eatery_nearby" : [ "Zangradi", "Yoshinoya Mall Galaxy", "Daun Lada Mall Galaxy" ]
+  }, {
+    "name" : "Ampel Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "138",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Ampel Masjid no 53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Masjid Nasional Al Akbar Surabaya", "Sampoerna Museum", "Suramadu National Bridge", "Muhammad Cheng Hoo Mosque" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Suroboyo Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jayabaya Terminal"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Suramadu National Bridge", "Sampoerna Museum", "Monkasel (Submarine Monument)", "Tunjungan Plaza" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Muhammad Cheng Hoo Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "85",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Gading no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Suramadu National Bridge", "Tunjungan Plaza", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Soto Cak To" ]
+  }, {
+    "name" : "Sanggar Agung Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Sukolilo 100"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Pakuwon Food Festival", "Muhammad Cheng Hoo Mosque", "Masjid Nasional Al Akbar Surabaya" ],
+    "eatery_nearby" : [ "Soto Ayam Lamongan Cak Har", "Bebek Goreng HT", "Livana Spikoe" ]
+  }, {
+    "name" : "Gereja Santa Perawan Maria",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "71",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Kepanjen"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Sampoerna Museum", "Pakuwon Food Festival", "Muhammad Cheng Hoo Mosque", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Nasi Empal Pengampon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Grahadi Building",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "52",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jalan Gubernur Suryo no 7"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Architectural Buildings", "Conference & Convention Centers", "Sights & Landmarks", "Traveler Resources" ],
+    "attraction_nearby" : [ "Balai Pemuda", "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Sampoerna Museum", "Tunjungan Plaza", "Monkasel (Submarine Monument)", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Pepper Lunch Plaza Tunjungan", "McDonald's Basuki Rahmat" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Monumen Bambu Runcing",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "61",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Panglima Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suroboyo Monument", "Jalesveva Jayamahe Monument", "Monumen Gubernur Suryo", "Four Face Buddha Statue", "Monkasel (Submarine Monument)", "Tunjungan Plaza", "Tugu Pahlawan", "Muhammad Cheng Hoo Mosque" ],
+    "eatery_nearby" : [ "Pasar Malem - Siti Inggil", "Our Bar", "Pepper Lunch Plaza Tunjungan" ]
+  }, {
+    "name" : "Royal Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Akhmad Yani no. 16-18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Galaxy Mall", "Plaza Surabaya", "Surabaya Town Square", "Tunjungan Plaza", "Galaxy Mall", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "Sitara India Cuisine", "Sego Sambel Mak Yeye", "Rawon Pak Pangat Wonokromo" ]
+  }, {
+    "name" : "Food Junction",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Grand Banjar Boulevard"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Playgrounds", "Fun & Games", "Nature & Parks" ],
+    "attraction_nearby" : [ "Bungkul Park", "Suroboyo Carnival Park", "Kalimas River", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Suroboyo Carnival Park", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Surabaya North Quay", "Kalimas River" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Pahlawan",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "44",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pahlawan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Pakuwon Food Festival", "Monumen Perjuangan POLRI", "Jembatan Merah", "Ex. De Javasche Bank Soerabaia", "Jalesveva Jayamahe Monument", "Temple of Heaven Kenjeran" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Rumah Makan Kapin (Kapin Shark Fin & Authentic Chinese  Restaurant)" ]
+  }, {
+    "name" : "Balai Pemuda",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "46",
+    "description" : "Place where you can get any information about tourism and everything in Surabaya",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Pemuda 15"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 20
+    } ],
+    "categories" : [ "Architectural Buildings", "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grahadi Building", "Ex. De Javasche Bank Soerabaia", "Klenteng Hong Tiek Hian", "Masjid Nasional Al Akbar Surabaya", "Surabaya Tourism Information Center", "Grahadi Building", "Monumen Bambu Runcing", "Ex. De Javasche Bank Soerabaia" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Warung Sate Kelapa Ondomohen", "Ta Wan Plaza Surabaya" ]
+  }, {
+    "name" : "Ex. De Javasche Bank Soerabaia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Garuda 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Balai Pemuda", "Klenteng Hong Tiek Hian", "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Jalan Pahlawan", "Museum Surabaya", "Jalesveva Jayamahe Monument", "Indonesian Cancer Museum" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Plaza Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pemuda no. 33-37"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Galaxy Mall", "Royal Plaza", "Royal Plaza", "Surabaya Town Square", "Golden City Mal", "Supermal Pakuwon Indah" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Ta Wan Plaza Surabaya", "Hanamasa Gubeng Pojok" ]
+  }, {
+    "name" : "Monumen Perjuangan POLRI",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "47",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Darmo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Bambu Runcing", "Joko Dolog Buddhist Statue", "Jalan Pahlawan", "Indonesian Cancer Museum" ],
+    "eatery_nearby" : [ "La Rucola Mediterranean Restaurant", "Happy Suzy", "The Harvest Patissier & Chocolatier" ]
+  }, {
+    "name" : "Ciputra Waterpark",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "114",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Water Park Boulevard"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Suroboyo Carnival Park", "Taman Hiburan Rakyat (THR)", "Suroboyo Carnival Park", "Food Junction", "Bungkul Park", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "Dream of Kahyangan Art Resto", "The Daily Sweet", "Bebek Goreng Pak Qomar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jembatan Merah",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "100",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Standplaat Jembatan Merah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suramadu National Bridge", "Masjid Nasional Al Akbar Surabaya", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Jalan Pahlawan", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Jalesveva Jayamahe Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Taruna 1 Ujung Jln. Tanjung Perak Barat"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suroboyo Monument", "Monumen Bambu Runcing", "Monumen Gubernur Suryo", "Four Face Buddha Statue", "Jalan Pahlawan", "Ex. De Javasche Bank Soerabaia", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Lontong Balap Rajawali", "Rumah Makan Laksana Jaya" ]
+  }, {
+    "name" : "Sampoerna Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "956",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Taman Sampoerna 6"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 22
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Mpu Tantular", "Indonesian Cancer Museum", "Museum Kesehatan Dr. Adhyatma MPH", "Museum Surabaya", "Tunjungan Plaza", "Masjid Nasional Al Akbar Surabaya", "Surabaya Town Square", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Lontong Balap Rajawali", "Depot Sari" ]
+  }, {
+    "name" : "Tunjungan Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "555",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Basuki Rachmat 8-12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Surabaya Town Square", "Galaxy Mall", "Royal Plaza", "Plaza Surabaya", "Surabaya Town Square", "Sampoerna Museum", "Galaxy Mall", "Masjid Nasional Al Akbar Surabaya" ],
+    "eatery_nearby" : [ "Boncafe Pregolan", "Marugame Udon and Tempura Tunjungan Plaza", "Indigo Bar & Restaurant" ]
+  }, {
+    "name" : "Masjid Nasional Al Akbar Surabaya",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "208",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Mesjid Al-Akbar Timur no 1, Pagesangan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Tunjungan Plaza", "Suramadu National Bridge", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Agis Restaurant", "Restoran Alami", "Rollaas" ]
+  }, {
+    "name" : "Surabaya Town Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "355",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Adityawarman 55"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Galaxy Mall", "Royal Plaza", "Plaza Surabaya", "Tunjungan Plaza", "Sampoerna Museum", "Bungkul Park", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "D'kampoeng", "Holycow Steakhouse", "Fish & Co." ]
+  }, {
+    "name" : "Suramadu National Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "775",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Tambak Adi No 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jembatan Merah", "Masjid Nasional Al Akbar Surabaya", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Sampoerna Museum", "Tunjungan Plaza", "Masjid Nasional Al Akbar Surabaya", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Soto Ambengan", "Depot Swikee Gris", "Bebek Goreng Papin" ]
+  }, {
+    "name" : "Bungkul Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "558",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Darmo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Food Junction", "Kalimas River", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Monumen Gubernur Suryo", "Surabaya Town Square", "Sampoerna Museum", "Tunjungan Plaza", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "The Harvest Patissier & Chocolatier", "CITRUS LEE", "Rawon Kalkulator" ]
+  }, {
+    "name" : "Monkasel (Submarine Monument)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "391",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Raya Gubeng"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Tugu Pahlawan", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Sampoerna Museum", "Suramadu National Bridge", "Tunjungan Plaza", "Bungkul Park" ],
+    "eatery_nearby" : [ "Domicile Kitchen & Lounge", "Libby Bakery", "Historica Coffee & Pastry" ]
+  }, {
+    "name" : "Tugu Pahlawan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "247",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pahlawan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Sampoerna Museum", "Tunjungan Plaza" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Depot Sari" ]
+  }, {
+    "name" : "Pakuwon Food Festival",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "171",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Kejawan Putih"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Points of Interest & Landmarks", "Sights & Landmarks", "Shopping" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Jalan Pahlawan", "Monumen Perjuangan POLRI", "Tunjungan Plaza", "Sampoerna Museum", "Surabaya Town Square", "Suramadu National Bridge" ],
+    "eatery_nearby" : [ "Adam Sioke & Siobak", "Amanda Brownies Kukus", "Nature Vegetarian Surabaya" ]
+  }, {
+    "name" : "Galaxy Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "110",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Dharmahusada Indah Timur no. 37"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Royal Plaza", "Plaza Surabaya", "Tunjungan Plaza", "Surabaya Town Square", "Pakuwon Food Festival", "Sampoerna Museum" ],
+    "eatery_nearby" : [ "Zangradi", "Yoshinoya Mall Galaxy", "Daun Lada Mall Galaxy" ]
+  }, {
+    "name" : "Ampel Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "138",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Ampel Masjid no 53"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Masjid Nasional Al Akbar Surabaya", "Sampoerna Museum", "Suramadu National Bridge", "Muhammad Cheng Hoo Mosque" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Suroboyo Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "125",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jayabaya Terminal"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Suramadu National Bridge", "Sampoerna Museum", "Monkasel (Submarine Monument)", "Tunjungan Plaza" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Muhammad Cheng Hoo Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "85",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Gading no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Sanggar Agung Temple", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Suramadu National Bridge", "Tunjungan Plaza", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Soto Cak To" ]
+  }, {
+    "name" : "Sanggar Agung Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "79",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Sukolilo 100"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria", "Sampoerna Museum", "Pakuwon Food Festival", "Muhammad Cheng Hoo Mosque", "Masjid Nasional Al Akbar Surabaya" ],
+    "eatery_nearby" : [ "Soto Ayam Lamongan Cak Har", "Bebek Goreng HT", "Livana Spikoe" ]
+  }, {
+    "name" : "Gereja Santa Perawan Maria",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "71",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Kepanjen"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Masjid Nasional Al Akbar Surabaya", "Ampel Mosque", "Muhammad Cheng Hoo Mosque", "Sanggar Agung Temple", "Sampoerna Museum", "Pakuwon Food Festival", "Muhammad Cheng Hoo Mosque", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Nasi Empal Pengampon" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Grahadi Building",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "52",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jalan Gubernur Suryo no 7"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Architectural Buildings", "Conference & Convention Centers", "Sights & Landmarks", "Traveler Resources" ],
+    "attraction_nearby" : [ "Balai Pemuda", "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Monkasel (Submarine Monument)", "Sampoerna Museum", "Tunjungan Plaza", "Monkasel (Submarine Monument)", "Surabaya Town Square" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Pepper Lunch Plaza Tunjungan", "McDonald's Basuki Rahmat" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Monumen Bambu Runcing",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "61",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Panglima Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suroboyo Monument", "Jalesveva Jayamahe Monument", "Monumen Gubernur Suryo", "Four Face Buddha Statue", "Monkasel (Submarine Monument)", "Tunjungan Plaza", "Tugu Pahlawan", "Muhammad Cheng Hoo Mosque" ],
+    "eatery_nearby" : [ "Pasar Malem - Siti Inggil", "Our Bar", "Pepper Lunch Plaza Tunjungan" ]
+  }, {
+    "name" : "Royal Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Akhmad Yani no. 16-18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Galaxy Mall", "Plaza Surabaya", "Surabaya Town Square", "Tunjungan Plaza", "Galaxy Mall", "Pakuwon Food Festival" ],
+    "eatery_nearby" : [ "Sitara India Cuisine", "Sego Sambel Mak Yeye", "Rawon Pak Pangat Wonokromo" ]
+  }, {
+    "name" : "Food Junction",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Grand Banjar Boulevard"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Playgrounds", "Nature & Parks", "Fun & Games" ],
+    "attraction_nearby" : [ "Bungkul Park", "Suroboyo Carnival Park", "Kalimas River", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Suroboyo Carnival Park", "Hutan Bambu dan Taman Sakura Keputih Sukolilo", "Surabaya North Quay", "Kalimas River" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jalan Pahlawan",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "44",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pahlawan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Pakuwon Food Festival", "Monumen Perjuangan POLRI", "Jembatan Merah", "Ex. De Javasche Bank Soerabaia", "Jalesveva Jayamahe Monument", "Temple of Heaven Kenjeran" ],
+    "eatery_nearby" : [ "Depot Nasi Campur Tambak Bayan", "Nasi Bali Peneleh", "Rumah Makan Kapin (Kapin Shark Fin & Authentic Chinese  Restaurant)" ]
+  }, {
+    "name" : "Balai Pemuda",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "46",
+    "description" : "Place where you can get any information about tourism and everything in Surabaya",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Pemuda 15"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 20
+    } ],
+    "categories" : [ "Architectural Buildings", "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Grahadi Building", "Ex. De Javasche Bank Soerabaia", "Klenteng Hong Tiek Hian", "Masjid Nasional Al Akbar Surabaya", "Surabaya Tourism Information Center", "Grahadi Building", "Monumen Bambu Runcing", "Ex. De Javasche Bank Soerabaia" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Warung Sate Kelapa Ondomohen", "Ta Wan Plaza Surabaya" ]
+  }, {
+    "name" : "Ex. De Javasche Bank Soerabaia",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl. Garuda 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Balai Pemuda", "Klenteng Hong Tiek Hian", "Masjid Nasional Al Akbar Surabaya", "Suramadu National Bridge", "Jalan Pahlawan", "Museum Surabaya", "Jalesveva Jayamahe Monument", "Indonesian Cancer Museum" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Lontong Balap Rajawali" ]
+  }, {
+    "name" : "Plaza Surabaya",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Pemuda no. 33-37"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Tunjungan Plaza", "Surabaya Town Square", "Galaxy Mall", "Royal Plaza", "Royal Plaza", "Surabaya Town Square", "Golden City Mal", "Supermal Pakuwon Indah" ],
+    "eatery_nearby" : [ "Zangrandi Ice Cream", "Ta Wan Plaza Surabaya", "Hanamasa Gubeng Pojok" ]
+  }, {
+    "name" : "Monumen Perjuangan POLRI",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "47",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jln. Darmo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Pakuwon Food Festival", "Jalan Pahlawan", "Monumen Bambu Runcing", "Joko Dolog Buddhist Statue", "Jalan Pahlawan", "Indonesian Cancer Museum" ],
+    "eatery_nearby" : [ "La Rucola Mediterranean Restaurant", "Happy Suzy", "The Harvest Patissier & Chocolatier" ]
+  }, {
+    "name" : "Ciputra Waterpark",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "114",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Water Park Boulevard"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Suroboyo Carnival Park", "Taman Hiburan Rakyat (THR)", "Suroboyo Carnival Park", "Food Junction", "Bungkul Park", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "Dream of Kahyangan Art Resto", "The Daily Sweet", "Bebek Goreng Pak Qomar" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jembatan Merah",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "100",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Standplaat Jembatan Merah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suramadu National Bridge", "Masjid Nasional Al Akbar Surabaya", "Monkasel (Submarine Monument)", "Tugu Pahlawan", "Jalan Pahlawan", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria", "Monkasel (Submarine Monument)" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Nasi Empal Pengampon", "Depot Sari" ]
+  }, {
+    "name" : "Jalesveva Jayamahe Monument",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "East Java",
+      "city" : "Surabaya",
+      "address" : "Jl Taruna 1 Ujung Jln. Tanjung Perak Barat"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Suroboyo Monument", "Monumen Bambu Runcing", "Monumen Gubernur Suryo", "Four Face Buddha Statue", "Jalan Pahlawan", "Ex. De Javasche Bank Soerabaia", "Muhammad Cheng Hoo Mosque", "Gereja Santa Perawan Maria" ],
+    "eatery_nearby" : [ "House of Sampoerna", "Lontong Balap Rajawali", "Rumah Makan Laksana Jaya" ]
+  } ]
+}

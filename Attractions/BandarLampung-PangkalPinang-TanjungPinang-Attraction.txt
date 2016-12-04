@@ -1,0 +1,1827 @@
+{
+  "places" : [ {
+    "name" : "Pahawang Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "151",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pulau Tangkil", "Kelagian Island", "Teluk Kiluan", "Mutun Beach", "Dodo Lagoon" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kelagian Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "56",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Kabupaten Pesawaran"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Mutun Beach", "Sari Ringgung Beach", "Pulau Tangkil", "Pahawang Island", "Mutun Beach", "Teluk Kiluan", "Sari Ringgung Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boemi Kedaton Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Teuku Umar / Jl. Sultan Agung no.1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Central Plaza", "Toko Manisan Yen Yen", "Pahawang Island", "Central Plaza", "Mutun Beach", "Kelagian Island" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Mie Lampung III", "Aka Express" ]
+  }, {
+    "name" : "Mutun Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Sari Ringgung Beach", "Pulau Tangkil", "Pahawang Island", "Sari Ringgung Beach", "Kelagian Island", "Teluk Kiluan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sari Ringgung Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "36",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Pulau Tangkil", "Pahawang Island", "Mutun Beach", "Dodo Lagoon", "Kelagian Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Condong Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Raya Lintas Sumatera"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Pulau Tangkil", "Tanjung Putus Island", "Pahawang Island", "Kelagian Island", "Mutun Beach", "Klara Lampung Beach" ],
+    "eatery_nearby" : [ "Begadang Resto Convention Hall", "Kedai Tang", "RM New LG" ]
+  }, {
+    "name" : "Tanjung Putus Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Kelagian Island", "Mutun Beach", "Suoh Valley" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Thay Hin Bio Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Al Furqon Grand Mosque", "Gapura Bandar Lampung", "Krakatau Monument", "Pahawang Island", "Gita Persada Butterfly Park", "Al Furqon Grand Mosque", "Museum Lampung" ],
+    "eatery_nearby" : [ "Jumbo Kakap", "Begadang Resto Convention Hall", "Pempek 123" ]
+  }, {
+    "name" : "Gita Persada Butterfly Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "16",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Gunung Betung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Thay Hin Bio Temple", "Suoh Valley", "Tanjung Putus Island" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Restaurant Garuda" ]
+  }, {
+    "name" : "Bagus Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Mutun Beach", "Pahawang Island", "Sari Ringgung Beach", "Suoh Valley" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Al Furqon Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Diponegoro"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Krakatau Monument", "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Pahawang Island", "Gita Persada Butterfly Park" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Begadang Resto Convention Hall" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Museum Lampung",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "22",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. ZA Pagar Alam, Rajabasa"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Pahawang Island", "Thay Hin Bio Temple", "Gita Persada Butterfly Park", "Gapura Bandar Lampung" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Mie Lampung III", "Restaurant Garuda" ]
+  }, {
+    "name" : "Gapura Bandar Lampung",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. ZA Pagaralam"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Krakatau Monument", "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Gita Persada Butterfly Park", "Pahawang Island" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Aka Express", "Dawiels Cafe & Resto" ]
+  }, {
+    "name" : "Central Plaza",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jln. Kartini no. 21"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Boemi Kedaton Mall", "Toko Manisan Yen Yen", "Boemi Kedaton Mall", "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Toko Manisan Yen Yen" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Restaurant Garuda" ]
+  }, {
+    "name" : "Suoh Valley",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Sukamarga"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Valleys", "Hot Springs & Geysers", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Tanjung Putus Island", "Kelagian Island", "Mutun Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Krakatau Monument",
+    "type" : "attraction",
+    "rate" : "2.5",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jalan Veteran, Teluk Betung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Gapura Bandar Lampung", "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Pantai Duta Wisata", "Al Furqon Grand Mosque" ],
+    "eatery_nearby" : [ "Jumbo Kakap", "Begadang Resto Convention Hall", "Pempek 123" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pahawang Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "151",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pulau Tangkil", "Kelagian Island", "Teluk Kiluan", "Mutun Beach", "Dodo Lagoon" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kelagian Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "56",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Kabupaten Pesawaran"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Mutun Beach", "Sari Ringgung Beach", "Pulau Tangkil", "Pahawang Island", "Mutun Beach", "Teluk Kiluan", "Sari Ringgung Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boemi Kedaton Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Teuku Umar / Jl. Sultan Agung no.1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Central Plaza", "Toko Manisan Yen Yen", "Pahawang Island", "Central Plaza", "Mutun Beach", "Kelagian Island" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Mie Lampung III", "Aka Express" ]
+  }, {
+    "name" : "Mutun Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Sari Ringgung Beach", "Pulau Tangkil", "Pahawang Island", "Sari Ringgung Beach", "Kelagian Island", "Teluk Kiluan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sari Ringgung Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "36",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Pulau Tangkil", "Pahawang Island", "Mutun Beach", "Dodo Lagoon", "Kelagian Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Condong Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Raya Lintas Sumatera"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Pulau Tangkil", "Tanjung Putus Island", "Pahawang Island", "Kelagian Island", "Mutun Beach", "Klara Lampung Beach" ],
+    "eatery_nearby" : [ "Begadang Resto Convention Hall", "Kedai Tang", "RM New LG" ]
+  }, {
+    "name" : "Tanjung Putus Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Kelagian Island", "Mutun Beach", "Suoh Valley" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Thay Hin Bio Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Al Furqon Grand Mosque", "Gapura Bandar Lampung", "Krakatau Monument", "Pahawang Island", "Gita Persada Butterfly Park", "Al Furqon Grand Mosque", "Museum Lampung" ],
+    "eatery_nearby" : [ "Jumbo Kakap", "Begadang Resto Convention Hall", "Pempek 123" ]
+  }, {
+    "name" : "Gita Persada Butterfly Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "16",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Gunung Betung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Thay Hin Bio Temple", "Suoh Valley", "Tanjung Putus Island" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Restaurant Garuda" ]
+  }, {
+    "name" : "Bagus Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Mutun Beach", "Pahawang Island", "Sari Ringgung Beach", "Suoh Valley" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Al Furqon Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Diponegoro"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Krakatau Monument", "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Pahawang Island", "Gita Persada Butterfly Park" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Begadang Resto Convention Hall" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Museum Lampung",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "22",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. ZA Pagar Alam, Rajabasa"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Pahawang Island", "Thay Hin Bio Temple", "Gita Persada Butterfly Park", "Gapura Bandar Lampung" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Mie Lampung III", "Restaurant Garuda" ]
+  }, {
+    "name" : "Gapura Bandar Lampung",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. ZA Pagaralam"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Krakatau Monument", "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Gita Persada Butterfly Park", "Pahawang Island" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Aka Express", "Dawiels Cafe & Resto" ]
+  }, {
+    "name" : "Central Plaza",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jln. Kartini no. 21"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Boemi Kedaton Mall", "Toko Manisan Yen Yen", "Boemi Kedaton Mall", "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Toko Manisan Yen Yen" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Restaurant Garuda" ]
+  }, {
+    "name" : "Suoh Valley",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Sukamarga"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Valleys", "Hot Springs & Geysers", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Tanjung Putus Island", "Kelagian Island", "Mutun Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Krakatau Monument",
+    "type" : "attraction",
+    "rate" : "2.5",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jalan Veteran, Teluk Betung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Gapura Bandar Lampung", "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Pantai Duta Wisata", "Al Furqon Grand Mosque" ],
+    "eatery_nearby" : [ "Jumbo Kakap", "Begadang Resto Convention Hall", "Pempek 123" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pasir Padi Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "113",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jl Raya Pantai Pasir Padi Pangkal Pinang km 7"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Bangka Botanical Garden (BBG)", "Kaolin Lake", "Babelyo Day Tours", "Bukit Girimaya Golf Course (Bukit Intan)", "Bangka Botanical Garden (BBG)", "Babelyo Day Tours", "Parai Tenggiri Beach", "Kaolin Lake" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Bangka Botanical Garden (BBG)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "63",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jalan Ketapang, Pangkalpinang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gardens", "Farms", "Sights & Landmarks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Kaolin Lake", "Pasir Padi Beach", "Babelyo Day Tours", "Kaolin Lake", "Parai Tenggiri Beach" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Tin Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jl. Jenderal Ahmad Yani no. 17"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Bangka Botanical Garden (BBG)", "Kaolin Lake", "Pasir Padi Beach", "Babelyo Day Tours" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Kaolin Lake",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Bangka Botanical Garden (BBG)", "Babelyo Day Tours", "Bangka Botanical Garden (BBG)", "Pasir Padi Beach", "Parai Tenggiri Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Babelyo Day Tours",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "3",
+    "description" : "Babelyo is a local tour operator in Bangka Belitung Islands. We're an official tour under management of CV. Titian Nan Teduh. By traveling with Babelyo, you support the local community in Bangka Belitung. How? 5% income of Babelyo is channeled to the development of school libraries. Make the difference by traveling with us! Explore the Islands with the traditional boat and be a real Laskar Pelangi.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jln. Haji Bakri no. 49"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Private Tours", "Eco Tours", "Sightseeing Tours", "Scuba & Snorkeling", "Tours", "Outdoor Activities", "Boat Tours & Water Sports", "More" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Bukit Girimaya Golf Course (Bukit Intan)", "Kaolin Lake", "Bangka Botanical Garden (BBG)", "Pasir Padi Beach", "Parai Tenggiri Beach" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Bukit Girimaya Golf Course (Bukit Intan)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jalan Bukit Girimaya, Bukit Besar I, Bukit Intan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Golf Courses", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Babelyo Day Tours", "Babelyo Day Tours", "Bangka Botanical Garden (BBG)", "Kaolin Lake", "Pasir Padi Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pahawang Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "151",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pulau Tangkil", "Kelagian Island", "Teluk Kiluan", "Mutun Beach", "Dodo Lagoon" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kelagian Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "56",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Kabupaten Pesawaran"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Mutun Beach", "Sari Ringgung Beach", "Pulau Tangkil", "Pahawang Island", "Mutun Beach", "Teluk Kiluan", "Sari Ringgung Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boemi Kedaton Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Teuku Umar / Jl. Sultan Agung no.1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Central Plaza", "Toko Manisan Yen Yen", "Pahawang Island", "Central Plaza", "Mutun Beach", "Kelagian Island" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Mie Lampung III", "Aka Express" ]
+  }, {
+    "name" : "Mutun Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Sari Ringgung Beach", "Pulau Tangkil", "Pahawang Island", "Sari Ringgung Beach", "Kelagian Island", "Teluk Kiluan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sari Ringgung Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "36",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Pulau Tangkil", "Pahawang Island", "Mutun Beach", "Dodo Lagoon", "Kelagian Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Condong Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Raya Lintas Sumatera"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Pulau Tangkil", "Tanjung Putus Island", "Pahawang Island", "Kelagian Island", "Mutun Beach", "Klara Lampung Beach" ],
+    "eatery_nearby" : [ "Begadang Resto Convention Hall", "Kedai Tang", "RM New LG" ]
+  }, {
+    "name" : "Tanjung Putus Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Kelagian Island", "Mutun Beach", "Suoh Valley" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Thay Hin Bio Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Al Furqon Grand Mosque", "Gapura Bandar Lampung", "Krakatau Monument", "Pahawang Island", "Gita Persada Butterfly Park", "Al Furqon Grand Mosque", "Museum Lampung" ],
+    "eatery_nearby" : [ "Jumbo Kakap", "Begadang Resto Convention Hall", "Pempek 123" ]
+  }, {
+    "name" : "Gita Persada Butterfly Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "16",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Gunung Betung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Thay Hin Bio Temple", "Suoh Valley", "Tanjung Putus Island" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Restaurant Garuda" ]
+  }, {
+    "name" : "Bagus Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Mutun Beach", "Pahawang Island", "Sari Ringgung Beach", "Suoh Valley" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Al Furqon Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. Diponegoro"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Krakatau Monument", "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Pahawang Island", "Gita Persada Butterfly Park" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Begadang Resto Convention Hall" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Museum Lampung",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "22",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. ZA Pagar Alam, Rajabasa"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Pahawang Island", "Thay Hin Bio Temple", "Gita Persada Butterfly Park", "Gapura Bandar Lampung" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Mie Lampung III", "Restaurant Garuda" ]
+  }, {
+    "name" : "Gapura Bandar Lampung",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jl. ZA Pagaralam"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Krakatau Monument", "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Gita Persada Butterfly Park", "Pahawang Island" ],
+    "eatery_nearby" : [ "Taman Santap Rumah Kayu", "Aka Express", "Dawiels Cafe & Resto" ]
+  }, {
+    "name" : "Central Plaza",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jln. Kartini no. 21"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Boemi Kedaton Mall", "Toko Manisan Yen Yen", "Boemi Kedaton Mall", "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Toko Manisan Yen Yen" ],
+    "eatery_nearby" : [ "Pempek 123", "Bakso Sonhaji Sony", "Restaurant Garuda" ]
+  }, {
+    "name" : "Suoh Valley",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Sukamarga"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Valleys", "Hot Springs & Geysers", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Pahawang Island", "Kelagian Island", "Mutun Beach", "Sari Ringgung Beach", "Pahawang Island", "Tanjung Putus Island", "Kelagian Island", "Mutun Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Krakatau Monument",
+    "type" : "attraction",
+    "rate" : "2.5",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Lampung",
+      "city" : "Bandar Lampung",
+      "address" : "Jalan Veteran, Teluk Betung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thay Hin Bio Temple", "Al Furqon Grand Mosque", "Gapura Bandar Lampung", "Thay Hin Bio Temple", "Gapura Bandar Lampung", "Pantai Duta Wisata", "Al Furqon Grand Mosque" ],
+    "eatery_nearby" : [ "Jumbo Kakap", "Begadang Resto Convention Hall", "Pempek 123" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pasir Padi Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "113",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jl Raya Pantai Pasir Padi Pangkal Pinang km 7"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Bangka Botanical Garden (BBG)", "Kaolin Lake", "Babelyo Day Tours", "Bukit Girimaya Golf Course (Bukit Intan)", "Bangka Botanical Garden (BBG)", "Babelyo Day Tours", "Parai Tenggiri Beach", "Kaolin Lake" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Bangka Botanical Garden (BBG)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "63",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jalan Ketapang, Pangkalpinang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gardens", "Farms", "Nature & Parks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Kaolin Lake", "Pasir Padi Beach", "Babelyo Day Tours", "Kaolin Lake", "Parai Tenggiri Beach" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Tin Museum",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jl. Jenderal Ahmad Yani no. 17"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Bangka Botanical Garden (BBG)", "Kaolin Lake", "Pasir Padi Beach", "Babelyo Day Tours" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Kaolin Lake",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Bangka Botanical Garden (BBG)", "Babelyo Day Tours", "Bangka Botanical Garden (BBG)", "Pasir Padi Beach", "Parai Tenggiri Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Babelyo Day Tours",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "3",
+    "description" : "Babelyo is a local tour operator in Bangka Belitung Islands. We're an official tour under management of CV. Titian Nan Teduh. By traveling with Babelyo, you support the local community in Bangka Belitung. How? 5% income of Babelyo is channeled to the development of school libraries. Make the difference by traveling with us! Explore the Islands with the traditional boat and be a real Laskar Pelangi.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jln. Haji Bakri no. 49"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Private Tours", "Eco Tours", "Sightseeing Tours", "Scuba & Snorkeling", "Tours", "Boat Tours & Water Sports", "Outdoor Activities", "More" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Bukit Girimaya Golf Course (Bukit Intan)", "Kaolin Lake", "Bangka Botanical Garden (BBG)", "Pasir Padi Beach", "Parai Tenggiri Beach" ],
+    "eatery_nearby" : [ "Martabak Acau 89", "Mie Koba Iskandar", "Otak Otak Amui" ]
+  }, {
+    "name" : "Bukit Girimaya Golf Course (Bukit Intan)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bangka Belitung Islands",
+      "city" : "Pangkal Pinang",
+      "address" : "Jalan Bukit Girimaya, Bukit Besar I, Bukit Intan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Golf Courses", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Pasir Padi Beach", "Babelyo Day Tours", "Babelyo Day Tours", "Bangka Botanical Garden (BBG)", "Kaolin Lake", "Pasir Padi Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pantai Trikora",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "74",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : "Jl. Raya Trikora"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 16
+    } ],
+    "categories" : [ "Other Outdoor Activities", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Penyengat Island", "White Sands Island", "Banyan Tree Temple", "Main Street" ],
+    "eatery_nearby" : [ "The Kelong Seafood Restaurant", "Jade Garden", "Rezeki Seafood Restaurant" ]
+  }, {
+    "name" : "Penyengat Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "99",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "White Sands Island", "Penyengat Island", "Nirwana Beach Club", "White Sands Island", "Banyan Tree Temple", "Pantai Trikora" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Avalokitesvara Graha Temple (Guan Yin Temple)",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "55",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 16
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Banyan Tree Temple", "Main Street", "Banyan Tree Temple", "Penyengat Island", "500 Lohan Temple", "White Sands Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Akau Potong Lembu (PSP Street Food)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "Main Street", "Penyengat Island", "Banyan Tree Temple", "Pantai Trikora" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "White Sands Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "16",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : "Pulau Beralas Pasir"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Reefs", "Nature & Parks" ],
+    "attraction_nearby" : [ "Penyengat Island", "Penyengat Island", "Penyengat Island", "Nirwana Beach Club", "Banyan Tree Temple", "Pantai Trikora" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Banyan Tree Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : "Senggarang"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Avalokitesvara Graha Temple (Guan Yin Temple)", "Main Street", "Penyengat Island", "White Sands Island", "Avalokitesvara Graha Temple (Guan Yin Temple)", "Main Street" ],
+    "eatery_nearby" : [ "The Kelong Seafood Restaurant", "Dino Bistro", "Baan Aarya" ]
+  }, {
+    "name" : "Main Street",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "28",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Avalokitesvara Graha Temple (Guan Yin Temple)", "Banyan Tree Temple", "Penyengat Island", "Banyan Tree Temple", "White Sands Island", "Akau Potong Lembu (PSP Street Food)" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Penyengat Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 15
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Penyengat Island", "White Sands Island", "Penyengat Island", "Main Street", "White Sands Island", "Banyan Tree Temple" ],
+    "eatery_nearby" : [ "Sei Enam Seafood Restaurant Tanjungpinang", "Bumi Maitri", "RM Bakar Bakar" ]
+  }, {
+    "name" : "Dope Club",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Riau Islands Province",
+      "province" : "Riau Archipelago",
+      "city" : "Tanjung Pinang",
+      "address" : "Jl. Gudang Minyak 04 Batu 2,5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bars & Clubs", "Nightlife" ],
+    "attraction_nearby" : [ "Main Street", "Penyengat Island", "Pantai Trikora", "Akau Potong Lembu (PSP Street Food)" ],
+    "eatery_nearby" : [ ]
+  } ]
+}
