@@ -113,9 +113,6 @@ def get_query_result(location, category, start_hour, end_hour):
     else:
         query_places = cities_dict[location]
     id_places = list(set(query_places) & set(query_category))
-    print query_category
-    print query_places
-    print id_places
     for id_place in id_places:
         place = places[id_place]
         open_time = place["time"][0]["open"]
