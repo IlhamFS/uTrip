@@ -45,9 +45,6 @@ $(function() {
     request.open('GET', 'static/json/places_search.json', true);
     request.send();
 
-    console.log("Harjuna & Niken were here wqwq");
-
-
     //show search result
     var $template = $('.template');
     $("#link").click(function() {
