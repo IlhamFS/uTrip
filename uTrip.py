@@ -9,9 +9,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-    with open('static/json/places.json') as data_file:
-        data = json.load(data_file)
-    return render_template('index.html', data=data)
+  return render_template('index.html')
 
 
 @app.route('/search', methods=['POST'])
