@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 from query_expansion import query_expansion
 from query import get_query_result
+import json
 
 # Application
 app = Flask(__name__)
