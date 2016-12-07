@@ -52,33 +52,48 @@ def read_json(filename, type):
 
     for i in range(len(data["places"])):
         place = data["places"][i]
-        
-        if place["name"]:
-            # insert new place into array
-            places.append(place)
+        name = place["name"]
 
-            # update max review
-            if (place["review"]):
-                crev = int(place["review"])
-                global max_review
-                if (crev > max_review):
-                    max_review = crev
+        if name:
+            is_new = 1
+
+            # check if place already exist
+            if name_ids.get(name):
+                for j in range(len(name_ids[name])):
+                    if place["location"][0] == name_ids[name][j]["location"]:
+                        is_new = 0
+                if is_new:
+                    name_ids[name].append({"location": place["location"][0], "index": idx})
             else:
-                place["review"] = "0"
+                name_ids[name] = [{"location": place["location"][0], "index": idx}]
 
-            # fix rate
-            if not place["rate"]:
-                place["rate"] = "0.0"
+            if is_new:
+                # insert new place into array
+                places.append(place)
 
-            # create index categories
-            if type == 1: 
-                create_index_attractions(place, idx)
-            elif type == 2:
-                create_index_restaurants(place, idx)
+                # update max review
+                if (place["review"]):
+                    crev = int(place["review"])
+                    global max_review
+                    if (crev > max_review):
+                        max_review = crev
+                else:
+                    place["review"] = "0"
 
-            # create index location
-            create_index_location(place, idx)
-            idx += 1
+                # fix rate
+                if not place["rate"]:
+                    place["rate"] = "0.0"
+
+                # create index categories
+                if type == 1: 
+                    create_index_attractions(place, idx)
+                elif type == 2:
+                    create_index_restaurants(place, idx)
+
+                # create index location
+                create_index_location(place, idx)
+
+                idx += 1
 
 # run this at the beginning in main program
 def init_build(): 
@@ -87,6 +102,7 @@ def init_build():
     global categories_dict
     global cities_dict
     global provinces_dict
+    global name_ids
     global max_review
     global max_download
 
@@ -95,6 +111,7 @@ def init_build():
     categories_dict = {}
     cities_dict = {}
     provinces_dict = {}
+    name_ids = {}
     max_review = 1
     max_download = 1
 
