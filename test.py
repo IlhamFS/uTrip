@@ -4,6 +4,7 @@
 
 import settings
 import sorting
+import feedback
 import query
 
 settings.init_build()
@@ -16,3 +17,9 @@ print(result)
 coba = {"Art Museums": [1319, 1348, 1377, 1406, 421, 1435, 1464, 1493], "Caverns & Caves": [421, 1309, 1338, 1367, 1396, 1425, 1454, 1483], "Other Fun & Games": [830, 908]}
 hasil = sorting.sort_all(coba)
 print (hasil)
+
+# testing feedback
+downloads = [10,20,10]
+feedback.update_downloads(downloads)
+print settings.places[10]
+# print settings.places[20]

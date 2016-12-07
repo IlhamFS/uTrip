@@ -58,5 +58,5 @@ def get_weight(place):
     if place.get("feedback"):
         download = place["feedback"]["download"]
 
-    w = rate + (float(count_review) / settings.max_review) + (download / settings.max_download)
+    w = (rate / 5.0) + (float(count_review) / settings.max_review) + (download / settings.max_download)
     return w

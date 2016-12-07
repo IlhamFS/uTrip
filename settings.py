@@ -71,9 +71,9 @@ def read_json(filename, type):
                 place["rate"] = "0.0"
 
             # create index categories
-            if (type == 1): 
+            if type == 1: 
                 create_index_attractions(place, idx)
-            elif (type == 2):
+            elif type == 2:
                 create_index_restaurants(place, idx)
 
             # create index location
