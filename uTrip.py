@@ -40,15 +40,14 @@ def search():
 
 @app.route('/itinerary', methods=['POST'])
 def itinerary():
-  par = request.form['json_str']
+  par = json.loads(request.form['json_str'])
   #ambil recommendation attraction dan resto dari setiap par
-  print par
   
   data = session['search_result']
   ot = session['open_time']
   ct = session['close_time']
 
-  itin =generate_itinerary(ot, ct, data, ["Soekarno Bridge", "Christ Blessing", "Malalayang Beach"])
+  itin =generate_itinerary(ot, ct, data, par)
   return json.dumps(itin)
 
 
