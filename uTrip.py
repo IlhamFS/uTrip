@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, session
 from query_expansion import query_expansion
+from ItineraryGenerator import generate_itinerary
 from query import get_query_result
 from settings import json
 
@@ -18,9 +19,14 @@ def search():
   (place, categories, open_time, close_time) = query_expansion(par)
   print categories  
 
-  #create session 
+  #create session   
   session['open_time'] = open_time
   session['close_time'] = close_time
+  if (open_time == ""):
+    session['open_time'] = "10.00"
+  if (close_time == ""):
+    session['close_time'] = "17.00"
+
 
   #dilanjutkan dengan pencarian kode feti
 
@@ -36,12 +42,14 @@ def search():
 def itinerary():
   par = request.form['json_str']
   #ambil recommendation attraction dan resto dari setiap par
+  print par
+  
+  data = session['search_result']
+  ot = session['open_time']
+  ct = session['close_time']
 
-  #olah data nya dulu disini
-
-  with open('static/json/itinerary.json') as data_file:
-    data = json.load(data_file)
-  return json.dumps(data)
+  itin =generate_itinerary(ot, ct, data, ["Soekarno Bridge", "Christ Blessing", "Malalayang Beach"])
+  return json.dumps(itin)
 
 
 @app.route('/submit_itinerary', methods=['POST'])
