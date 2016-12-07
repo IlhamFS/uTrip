@@ -1,7 +1,7 @@
 # feti
 # modified made: 2016-12-5
 
-import json
+
 import settings
 
 # input : String location, List of String categories, integer start_hour, integer end_hour
