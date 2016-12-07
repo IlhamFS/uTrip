@@ -1,3 +1,4 @@
 env/*
 requirements.txt
 .idea/*
+*.pyc

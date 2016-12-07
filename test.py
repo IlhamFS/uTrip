@@ -9,12 +9,19 @@ import query
 
 settings.init_build()
 
+# testing umum
+print len(settings.places)
+# print settings.places[1269]
+
+# testing niken
+print settings.name_ids["Ayam Goreng President"]
+
 # testing query
 result = query.get_query_result("Manado", ["Bridges"], 10, 12)
 print(result)
 
-# testing sorting
-coba = {"Art Museums": [1319, 1348, 1377, 1406, 421, 1435, 1464, 1493], "Caverns & Caves": [421, 1309, 1338, 1367, 1396, 1425, 1454, 1483], "Other Fun & Games": [830, 908]}
+# # testing sorting
+coba = {"Art Museums": [421], "Caverns & Caves": [421], "Other Fun & Games": [830, 908]}
 hasil = sorting.sort_all(coba)
 print (hasil)
 
@@ -22,4 +29,6 @@ print (hasil)
 downloads = [10,20,10]
 feedback.update_downloads(downloads)
 print settings.places[10]
+
 # print settings.places[20]
+
