@@ -17,7 +17,7 @@ def search():
   par = request.form['json_str']
   (place, categories, open_time, close_time) = query_expansion(par)
   print categories  
-  
+
   #create session 
   session['open_time'] = open_time
   session['close_time'] = close_time
@@ -35,6 +35,7 @@ def search():
 @app.route('/itinerary', methods=['POST'])
 def itinerary():
   par = request.form['json_str']
+  #ambil recommendation attraction dan resto dari setiap par
 
   #olah data nya dulu disini
 
