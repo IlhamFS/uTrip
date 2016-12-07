@@ -3,13 +3,15 @@ import re
 import json
 import math
 
+#method utk transform bentuk json, bisar jadi hash
 def transform_json(data):
   data = data['places']
   result = {}
 
   for i in data:
     time = str(i['time'][0]['open']) + "-" + str(i['time'][0]['close'])
-    result[i['name']] = {'time':time, 'resto':i['eatery_nearby']}
+    address = i['location'][0]['address']+" "+i['location'][0]['city']+" "+i['location'][0]['province']+" "+i['location'][0]['island']
+    result[i['name']] = {'time':time, 'resto':i['eatery_nearby'], 'address': address}
 
   return result
 
@@ -36,6 +38,7 @@ def create_time(open_time, close_time):
 
   return time
 
+#bikin time slot dari jam mulai jalan-jalan sampai selesai jalan-jalan
 def create_time_slot(range_time, slot):
   result = []
 
@@ -53,6 +56,7 @@ def create_time_slot(range_time, slot):
 
   return result
 
+#bikin semua kemungkinan susunan jalan-jalan
 def create_all_possibilities(cat, time):
   result = ['']
   for idx,i in enumerate(time):
@@ -70,23 +74,20 @@ def create_all_possibilities(cat, time):
 
   return result
 
-
+#buang pattern yang jalan2 ke tempat sama tapi 2 kali atau lebih
 def delete_some_pattern(array, char_hash):
-  result = array
+  tmp = []
   for key in char_hash:
-    tmp = []
-    for i in result:
-      pat = key+"[^"+key+"]"+key
+    for i in array:
+      pat = "(.*)"+key+"[^"+key+"]+"+key+"(.*)"
       pattern = re.compile(pat)
-      if not pattern.match(i):
+      if pattern.match(i):
         tmp.append(i)
 
-    result = tmp
-
-  return result
+  return [x for x in array if x not in tmp]
   
-
-def variansi(word):
+#variasi perjalanan, keseimbangan jalan2nya
+def variasi(word):
   w_unique = list(set(list(word)))
   w_size = []
 
@@ -116,11 +117,23 @@ def comparator(x,y):
     elif (len(x) < len(y)):
       return 1
     else:
-      if (variansi(x) < variansi(y)):
+      if (variasi(x) < variasi(y)):
         return -1
       else:
         return 1
 
+#transform string to json
+def string_to_json(string, char_loc, data_json, time_slot):
+  result = []
+  for idx,i in enumerate(list(string)):
+    if not (i=='-'):
+      new_hash = {"type": "normal", "name": char_loc[i], "address": data_json[char_loc[i]]['address'], "time": time_slot[idx] }
+      result.append(new_hash)
+
+  return result
+
+
+#main
 def generate_itinerary(open_time, close_time, data_json, data):
   #buat range waktu
   time = create_time(open_time, close_time)
@@ -129,15 +142,16 @@ def generate_itinerary(open_time, close_time, data_json, data):
   data_json = transform_json(data_json)
 
   #cut data jika > 24 tempat, asumsi 1 hari 24 jam (1 tempat minimal 1 jam)
+  print data
   data = np.array(data)
   data = data[:24]
 
   #bikin lokasi jadi char
-  tempat_char = {}
+  char_loc = {}
   char_array_time = {}
   for idx,i in enumerate(data):
-    tempat_char[i] = chr(idx+97)
-    char_array_time[tempat_char[i]] = create_time_slot(data_json[i]['time'], time)
+    char_loc[chr(idx+97)] = i
+    char_array_time[chr(idx+97)] = create_time_slot(data_json[i]['time'], time)
 
   #bikin semua kemungkinan
   result = create_all_possibilities(char_array_time, time)
@@ -147,13 +161,9 @@ def generate_itinerary(open_time, close_time, data_json, data):
 
   #sort, ambil yang terbaik
   sortedDict = sorted(result, cmp=comparator)
-  print sortedDict
 
-  
-  return sortedDict[0]
+  result_json = string_to_json(sortedDict[0], char_loc, data_json, time)
+  return result_json
 
 
-with open('static/json/places.json') as data_file:
-  data = json.load(data_file)
 
-generate_itinerary("10.20", "14.30", data, ["Soekarno Bridge", "Christ Blessing"])
