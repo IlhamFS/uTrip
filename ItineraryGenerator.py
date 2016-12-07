@@ -141,10 +141,10 @@ def generate_itinerary(open_time, close_time, data_json, data):
   #ubah bentuk json 
   data_json = transform_json(data_json)
 
-  #cut data jika > 24 tempat, asumsi 1 hari 24 jam (1 tempat minimal 1 jam)
+  #cut data jika > n jam, asumsi 1 tempat minimal 1 jam
   print data
   data = np.array(data)
-  data = data[:24]
+  data = data[:len(time)]
 
   #bikin lokasi jadi char
   char_loc = {}
