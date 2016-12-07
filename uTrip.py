@@ -10,6 +10,10 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
+  #destroy session
+  session.pop('open_time', None)
+  session.pop('close_time', None)
+  session.pop('search_result', None)
   return render_template('index.html')
 
 
@@ -18,6 +22,11 @@ def search():
   par = request.form['json_str']
   (place, categories, open_time, close_time) = query_expansion(par)
   print categories  
+
+  #destroy session
+  session.pop('open_time', None)
+  session.pop('close_time', None)
+  session.pop('search_result', None)
 
   #create session   
   session['open_time'] = open_time
@@ -57,10 +66,6 @@ def submit_itinerary():
 
   #olah data nya dulu disini
 
-  #destroy session
-  session.pop('open_time', None)
-  session.pop('close_time', None)
-  session.pop('search_result', None)
   return render_template('index.html')
 
 if __name__ == '__main__':
