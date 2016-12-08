@@ -7,8 +7,8 @@ import settings
 # input : String location, List of String categories, integer start_hour, integer end_hour
 # output: dictionary of array index places, keys String category
 def get_query_result(location, categories, start_hour, end_hour):
-    start_hour = int(start_hour)
-    end_hour = int(end_hour)
+    start_hour = int(float(start_hour))
+    end_hour = int(float(end_hour))
     # print start_hour + " " + end_hour
     results = {};
     for category in categories:

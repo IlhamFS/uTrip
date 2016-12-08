@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, session
 from query_expansion import query_expansion
 from ItineraryGenerator import generate_itinerary
 from query import get_query_result
-from settings import json, init_build
+from settings import json, init_build, get_places
 from sorting import sort_all
 
 init_build()
@@ -40,11 +40,10 @@ def search():
 
     # dilanjutkan dengan pencarian kode feti
     query_result = get_query_result(place, categories, open_time, close_time)
-    print query_result
 
     # olah data nya dulu disini
-    data = sort_all(query_result)
-    print data
+    sorted_query = sort_all(query_result)
+    data = get_places(sorted_query)
 
     session['search_result'] = data
     return json.dumps(data)
