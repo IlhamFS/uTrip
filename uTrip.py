@@ -32,13 +32,14 @@ def search():
     session.pop('close_time', None)
     session.pop('search_result', None)
 
+    if (open_time == ""):
+        open_time = "10.00"
+    if (close_time == ""):
+        close_time = "17.00"
+
     # create session
     session['open_time'] = open_time
     session['close_time'] = close_time
-    if (open_time == ""):
-        session['open_time'] = "10.00"
-    if (close_time == ""):
-        session['close_time'] = "17.00"
 
     # dilanjutkan dengan pencarian kode feti
     query_result = get_query_result(place, categories, open_time, close_time)
