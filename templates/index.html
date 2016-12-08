@@ -3,92 +3,16 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>uTrip</title>
-    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-1.12.3.js') }}"></script>
-    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
-    <script type="text/javascript" src="{{ url_for('static', filename='js/typed.js') }}"></script>
-    <script type="text/javascript">
-        $(function () {
-            $(".subtagline__word").typed({
-                strings: ["Jakarta, Bandung, Solo", "Palembang, Medan, Jambi", "Lombok, Bali, Ambon"],
-                typeSpeed: 150,
-                loop: true
-            });
-
-            $("#link").click(function () {
-                $(".result").show();
-                scrollToAnchor('search-engine-container');
-            });
-
-
-            $('form').on('submit', function (e) {
-
-              e.preventDefault();
-
-              $.ajax({
-                type: 'post',
-                url: 'test.php',
-                data: $('form').serialize(),
-                success: function(response){
-                    console.log(response)
-                }
-              });
-
-            });
-
-			//load json with ajax
-			var dataList = document.getElementById('json_places');
-			var input = document.getElementById('ajax');
-
-			// Create a new XMLHttpRequest.
-			var request = new XMLHttpRequest();
-
-			// Handle state changes for the request.
-			request.onreadystatechange = function(response) {
-			  if (request.readyState === 4) {
-				if (request.status === 200) {
-				  // Parse the JSON
-				  var jsonOptions = JSON.parse(request.responseText);
-
-				  // Loop over the JSON array.
-				  jsonOptions.forEach(function(item) {
-					// Create a new <option> element.
-					var option = document.createElement('option');
-					// Set the value using the item in the JSON array.
-					option.value = item;
-					// Add the <option> element to the <datalist>.
-					dataList.appendChild(option);
-				  });
-
-				  // Update the placeholder text.
-				  input.placeholder = "Jakarta";
-				} else {
-				  // An error occured :(
-				  input.placeholder = "Couldn't load datalist options :(";
-				}
-			  }
-			};
-
-			// Update the placeholder text.
-			//input.placeholder = "Loading options...";
-
-			// Set up and make the request.
-			request.open('GET', 'json/places.json', true);
-			request.send();
-
-        })
-
-        function scrollToAnchor(aid) {
-            var aTag = $("div[name='" + aid + "']");
-            $('html,body').animate({ scrollTop: aTag.offset().top }, 'slow');
-        }
-
-    </script>
-
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+    <title>uTrip</title>	
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/stylesheet.css') }}" />
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-1.12.3.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/typed.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/my-js.js') }}"></script>
+
 </head>
 <body>
     <nav class="navbar navbar-default navbar-default__edited">
@@ -111,209 +35,126 @@
                         </div>
 						<div class="item" style="background-image: url({{ url_for('static', filename='img/wallpaper-3.jpg') }})">
                         </div>
-                        <div class="text-opening">
-                            <h2>When in Doubt, Travel! </h2>
-                            <ul>
-                                <li>
-                                    with <span><img  id="logo-in-text" alt="Brand" src="{{ url_for('static', filename='img/utrip.png') }}"></span> , let's explore
-                                </li>
-                                <li>
-                                    <span class="subtagline__word"></span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div name="search-engine-container" class="search-engine-container container">
-							<form action="test.php" method = "POST">
-								<div class="form-group">
-									<label>Destination</label>
-									<input name="place" id="ajax" type="text" list="json_places" class="form-control destination" placeholder="Jakarta">
-									<datalist id="json_places">
-									</datalist>
-								</div>
-								<div class="form-group">
-									<label>Things To Do</label>
-									<input name="categories" type="text" class="form-control things-todo" placeholder="Shopping">
-								</div>
-								<div class="form-group">
-									<label>From</label> <input name="from" type="text" class="form-control time-interval" placeholder="12.00" pattern="[0-9]{2}\.[0-9]{2}" title="input should be in format: HH.MM, eg: 12.30">
-								</div>
-								<div class="form-group">
-									<label>Until</label> <input name="until" type="text" class="form-control time-interval" placeholder="15.00" pattern="[0-9]{2}\.[0-9]{2}" title="input should be in format: HH.MM, eg: 12.30">
-								</div>
-								<div class="form-group">
-									<input id="link" class="form-group btn btn-primary" type="submit" value="Search">
-								</div>
-							</form>
-              {% for d in data.places %}
-                <div>{{d.name }} </div>
-              {% endfor %}
-                        </div>
                     </div>
+                </div>
+				<div class="main-content">
+					<div class="text-opening">
+						<h2>When in Doubt, Travel! </h2>
+						<ul>
+							<li>
+								with <span><img  id="logo-in-text" alt="Brand" src="{{ url_for('static', filename='img/utrip.png') }}"></span> , let's explore
+							</li>
+							<li>
+								<span class="subtagline__word"></span>
+							</li>
+						</ul>
+					</div>
+					<div name="search-engine-container" class="search-engine-container container">
+						<form>
+							<div class="form-group">
+								<label>Destination</label>
+								<input name="place" id="ajax" type="text" list="json_places" class="form-control destination" placeholder="Jakarta">
+								<datalist id="json_places">
+								</datalist>
+							</div>
+							<div class="form-group">
+								<label>Things To Do</label>
+								<input name="categories" type="text" class="form-control things-todo" placeholder="Shopping">
+							</div>
+							<div class="form-group">
+								<label>From</label> <input name="from" type="text" class="form-control time-interval" placeholder="12.00" pattern="[0-9]{2}\.[0-9]{2}" title="input should be in format: HH.MM, eg: 12.30">
+							</div>
+							<div class="form-group">
+								<label>Until</label> <input name="until" type="text" class="form-control time-interval" placeholder="15.00" pattern="[0-9]{2}\.[0-9]{2}" title="input should be in format: HH.MM, eg: 12.30">
+							</div>
+							<div class="form-group">
+								<button id="link" class="form-group btn btn-primary" type="button">Search</button>
+							</div>
+						</form>
+					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+
+
+        <div class="result">
+            <div class="container">
+                <ul id="result">             
+                    <li class="template">
+                        <div class="left-side pull-left width-50">
+                            <div class="photo-detail" style=" background-image:url({{ url_for('static', filename='img/gambar-1.jpg') }})">
+                            </div>
+                            <div class="desc-detail">
+                                <p class="title-place">
+                                </p>
+                                <p class="desc-place">
+                                </p>
+                            </div>
+                        </div>
+                        <div class="right-side pull-right width-50 text-right">
+                            <div class="list-rating">
+                                <ul>
+                                    <li>
+                                        <span class="address-place"></span>
+                                        <span class="glyphicon glyphicon-map-marker"></span>
+                                    </li>
+                                    <li>
+                                        <span class="rating-place"></span>
+                                        <span class="glyphicon glyphicon-star"></span>
+                                    </li>
+                                    <li>
+                                        <span class="time-place"></span>
+                                        <span class="glyphicon glyphicon-time"></span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="checklist">
+                                <label>
+                                    <input class="check-place" type="checkbox">
+                                </label>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                </ul>
+                <div class="text-center button-create">
+                    <button id="link-itinerary" type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Create Itinerary</button>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="result">
-        <div class="container">
-            <ul>
-                <li>
-                    <div class="left-side pull-left width-50">
-                        <div class="photo-detail" style="background-image:url('images/Indonesia-700x465.jpg')">
-                        </div>
-                        <div class="desc-detail">
-                            <p class="title-place">
-                                Lorem ipsum dolor sit amet
-                            </p>
-                            <p class="desc-place">
-                                Consectetur adipiscing elit. Curabitur ultrices interdum enim sit amet porta.
-                                Suspendisse sit amet gravida velit, non vestibulum dui. Phasellus mollis a metus condimentum consequat.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="right-side pull-right width-50 text-right">
-                        <div class="list-rating">
-                            <ul>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-map-marker"></span>
-                                </li>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                </li>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-time"></span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="checklist">
-                            <label>
-                                <input type="checkbox">
-                            </label>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                </li>
-                <li>
-                    <div class="left-side pull-left width-50">
-                        <div class="photo-detail" style="background-image:url('images/indonesia-2016.jpg')">
-                        </div>
-                        <div class="desc-detail">
-                            <p class="title-place">
-                                Lorem ipsum dolor sit amet
-                            </p>
-                            <p class="desc-place">
-                                Consectetur adipiscing elit. Curabitur ultrices interdum enim sit amet porta.
-                                Suspendisse sit amet gravida velit, non vestibulum dui. Phasellus mollis a metus condimentum consequat.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="right-side pull-right width-50 text-right">
-                        <div class="list-rating">
-                            <ul>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-map-marker"></span>
-                                </li>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                </li>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-time"></span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="checklist">
-                            <label>
-                                <input type="checkbox">
-                            </label>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                </li>
-                <li>
-                    <div class="left-side pull-left width-50">
-                        <div class="photo-detail" style="background-image:url('images/Mount Bromo-Indonesia.png')">
-                        </div>
-                        <div class="desc-detail">
-                            <p class="title-place">
-                                Lorem ipsum dolor sit amet
-                            </p>
-                            <p class="desc-place">
-                                Consectetur adipiscing elit. Curabitur ultrices interdum enim sit amet porta.
-                                Suspendisse sit amet gravida velit, non vestibulum dui. Phasellus mollis a metus condimentum consequat.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="right-side pull-right width-50 text-right">
-                        <div class="list-rating">
-                            <ul>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-map-marker"></span>
-                                </li>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                </li>
-                                <li>
-                                    <span>lalalala</span>
-                                    <span class="glyphicon glyphicon-time"></span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="checklist">
-                            <label>
-                                <input type="checkbox">
-                            </label>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-                </li>
 
-            </ul>
-            <div class="text-center button-create">
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Create Itenerary</button>
-            </div>
-        </div>
-    </div>
     <!-- Large modal -->
-
     <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <span class="modal-title"><img  id="logo-in-modal" alt="Brand" src="images/utrip.png"></span><h4 id="myModalLabel">Your Itenerary</h4>
+                    <span class="modal-title"><img  id="logo-in-modal" alt="Brand" src="{{ url_for('static', filename='img/utrip.png') }}"></span><h4 id="myModalLabel">Your Itinerary</h4>
                 </div>
-                <div class="modal-body">
-                    <table class="result-table table table-bordered table-striped table-hover">
-                        <tr>
-                            <td>
-                                Jam
-                            </td>
-                            <td>
-                                Lokasi
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                12.00 - 13.00
-                            </td>
-                            <td>
-                                Kali Ciliwung
-                            </td>
-                        </tr>
+                
+                    <div class="modal-body">
+                        <table id="itinerary-result" class="result-table table table-bordered table-striped table-hover">
+                            <tr class="itinerary-template">
+                                <td class="itinerary-time col-md-2">
+                                    Time
+                                </td>
+                                <td class="itinerary-location col-md-3">
+                                    Location
+                                </td>
+                                <td class="itinerary-address col-md-5">
+                                    Address
+                                </td>
+                                <td class="itinerary-action col-md-1">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                        <button type="button" id="download-itinerary" class="btn btn-primary" type="submit">Download as PDF</button>
+                    </div>
 
-                    </table>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-                    <button type="button" class="btn btn-primary">Download as PDF</button>
-                </div>
             </div>
         </div>
     </div>
