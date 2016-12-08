@@ -1,8 +1,9 @@
 import string
+import settings
 
 
 #perbanyak lagi
-locations = ['Jakarta', 'Surabaya', 'Palembang']
+locations = list(settings.cities_dict) + list(settings.provinces_dict)
 
 #perbanyak lagi
 categories = ["Monuments & Statues", "Food & Drink", "Karaoke Bars", "Sacred & Religious Sites", "Other Outdoor Activities", "Other Nature & Parks", "Art Museums", "Caverns & Caves", "Other Fun & Games", "Bodies of Water", "Arenas & Stadiums", "Zoos & Aquariums", "Specialty Museums", "Valleys", "Nightlife", "Ancient Ruins", "Eco Tours", "Playgrounds", "Department Stores", "Flea & Street Markets", "Piers & Boardwalks", "Fun & Games", "More", "History Museums", "Shopping", "Water & Amusement Parks", "Ferries", "Water Parks", "Neighborhoods", "Shopping Malls", "Biking Trails", "Museums", "City Tours", "Concerts & Shows", "Waterfalls", "Traveler Resources", "Islands", "Golf Courses", "Other Zoos & Aquariums", "Antique Stores", "Reefs", "Volcanos", "restaurant", "Sights & Landmarks", "Nature & Parks", "Farms", "Tours", "Factory Outlets", "Bridges", "Boat Rentals", "Boat Tours & Water Sports", "Observation Decks & Towers", "Thermal Spas", "Private Tours", "Mountains", "Transportation", "Points of Interest & Landmarks", "Theme Parks", "Gift & Specialty Shops", "Churches & Cathedrals", "Parasailing & Paragliding", "Spas & Wellness", "Sightseeing Tours", "Lookouts", "Conference & Convention Centers", "Cultural Tours", "Castles", "Jogging Paths & Tracks", "Outdoor Activities", "National Parks", "Forests", "Libraries", "halal", "Motorcycle Trails", "Nature & Wildlife Tours", "Cemeteries", "State Parks", "Farmers Markets", "Nature & Wildlife Areas", "Mass Transportation Systems", "Beaches", "Scuba & Snorkeling", "Historic Sites", "Sports Complexes", "Gardens", "Hiking Trails", "Bars & Clubs", "Other Food & Drink", "Architectural Buildings", "Hot Springs & Geysers", "Ballets"]
