@@ -1,5 +1,4 @@
 import string
-import json
 
 
 #perbanyak lagi

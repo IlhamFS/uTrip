@@ -17,7 +17,8 @@ print len(settings.places)
 print settings.name_ids["Ayam Goreng President"]
 
 # testing query
-result = query.get_query_result("Manado", ["Bridges"], 10, 12)
+result = query.get_query_result("Jakarta", ["Shopping"], 10, 12)
+print "YOLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
 print(result)
 
 # testing sorting
@@ -35,4 +36,5 @@ feedback.update_downloads(downloads)
 print settings.places[10]
 
 # print settings.places[20]
-
+print settings.cities_dict["Jakarta"]
+print settings.places[380]
