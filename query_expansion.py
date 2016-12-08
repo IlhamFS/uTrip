@@ -1,7 +1,7 @@
 import string
 import settings
 
-
+settings.init_build()
 #perbanyak lagi
 locations = list(settings.cities_dict) + list(settings.provinces_dict)
 
