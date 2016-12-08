@@ -20,10 +20,14 @@ print settings.name_ids["Ayam Goreng President"]
 result = query.get_query_result("Manado", ["Bridges"], 10, 12)
 print(result)
 
-# # testing sorting
+# testing sorting
 coba = {"Art Museums": [421], "Caverns & Caves": [421], "Other Fun & Games": [830, 908]}
 hasil = sorting.sort_all(coba)
 print (hasil)
+
+# testing format
+wkwk = settings.get_places(hasil)
+print wkwk
 
 # testing feedback
 downloads = [10,20,10]

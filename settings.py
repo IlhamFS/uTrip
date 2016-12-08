@@ -5,6 +5,13 @@
 import json
 import os
 
+def get_places(place_ids):
+    result = {"places": []}
+    for i in place_ids:
+        result["places"].append(places[i])
+    return result
+
+
 def create_index_location(place, idx):
     # update index location: province
     province = place["location"][0]["province"]
