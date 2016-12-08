@@ -1,0 +1,250 @@
+{
+  "places" : [ {
+    "name" : "Anyer Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "62",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Ciputih Beach", "Tasikardi Lake", "Labuan Beach", "Pulau Dua Nature Reserve", "Carita Beach", "Ciputih Beach", "Sawarna Beach", "Labuan Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Great Mosque of Banten",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "30",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Jln. Kagungan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Old Banten", "Vihara Avalokitesvara", "Kaibon Palace", "Karangantu Harbour", "Old Banten", "Pulau Dua Nature Reserve", "Vihara Avalokitesvara", "Anyer Beach" ],
+    "eatery_nearby" : [ "Pondok Lesehan Ikan Bakar BM", "RM Taman Taktakan", "A Mi Rang" ]
+  }, {
+    "name" : "Old Banten",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "21",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Jln. Banten"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kaibon Palace", "Great Mosque of Banten", "Vihara Avalokitesvara", "Karangantu Harbour", "Great Mosque of Banten", "Karangantu Harbour", "Vihara Avalokitesvara", "Pulau Dua Nature Reserve" ],
+    "eatery_nearby" : [ "RM Taman Taktakan", "Bebek Goreng H.Slamet", "Rumah Makan Ibu Entin" ]
+  }, {
+    "name" : "Vihara Avalokitesvara",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Kesemen Jln. Banten"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Speelwijk Fortress", "Rante Bridge", "Great Mosque of Banten", "Old Banten", "Old Banten", "Pulau Dua Nature Reserve", "Great Mosque of Banten", "Ciputih Beach" ],
+    "eatery_nearby" : [ "RM Taman Taktakan", "Bebek Goreng H.Slamet", "Rumah Makan Ibu Entin" ]
+  }, {
+    "name" : "Kaibon Palace",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Kasunyatan, Kesemen"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Great Mosque of Banten", "Old Banten", "Vihara Avalokitesvara", "Karangantu Harbour", "Old Banten", "Great Mosque of Banten", "Labuan Beach", "Speelwijk Fortress" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ciputih Beach",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Outdoor Activities", "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Anyer Beach", "Tasikardi Lake", "Labuan Beach", "Pulau Dua Nature Reserve", "Anyer Beach", "Labuan Beach", "Pulau Dua Nature Reserve", "Tasikardi Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Karangantu Harbour",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Jl. Pelabuhan Karangantu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Piers & Boardwalks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Great Mosque of Banten", "Old Banten", "Vihara Avalokitesvara", "Kaibon Palace", "Old Banten", "Great Mosque of Banten", "Pulau Dua Nature Reserve", "Vihara Avalokitesvara" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Speelwijk Fortress",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Kesemen Jln. Banten"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Vihara Avalokitesvara", "Rante Bridge", "Great Mosque of Banten", "Old Banten", "Old Banten", "Pulau Dua Nature Reserve", "Vihara Avalokitesvara", "Great Mosque of Banten" ],
+    "eatery_nearby" : [ "RM Taman Taktakan", "Bebek Goreng H.Slamet", "Rumah Makan Ibu Entin" ]
+  }, {
+    "name" : "Tasikardi Lake",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Desa Margasana, Kecamatan Kramatwatu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Anyer Beach", "Ciputih Beach", "Labuan Beach", "Pulau Dua Nature Reserve", "Ciputih Beach", "Labuan Beach", "Pulau Dua Nature Reserve", "Anyer Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Labuan Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Km. 10 Jl. Raya Labuan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Anyer Beach", "Ciputih Beach", "Tasikardi Lake", "Pulau Dua Nature Reserve", "Ciputih Beach", "Anyer Beach", "Sawarna Beach", "Pulau Dua Nature Reserve" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pulau Dua Nature Reserve",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Kecamatan Kasemen"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Anyer Beach", "Ciputih Beach", "Tasikardi Lake", "Labuan Beach", "Great Mosque of Banten", "Vihara Avalokitesvara", "Old Banten", "Ciputih Beach" ],
+    "eatery_nearby" : [ "RM Taman Taktakan", "Bebek Goreng H.Slamet", "Rumah Makan Ibu Entin" ]
+  }, {
+    "name" : "Rante Bridge",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Great Mosque of Banten", "Old Banten", "Vihara Avalokitesvara", "Kaibon Palace", "Curug Betung Waterfall", "Karangantu Harbour", "Tasikardi Lake", "Pulau Dua Nature Reserve" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Situs Keraton Surosowan",
+    "type" : "attraction",
+    "rate" : "2.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Java",
+      "province" : "Banten Province",
+      "city" : "Serang",
+      "address" : "Kec. Keseman Jln. Banten"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Great Mosque of Banten", "Old Banten", "Vihara Avalokitesvara", "Kaibon Palace", "Old Banten", "Great Mosque of Banten", "Pulau Dua Nature Reserve", "Speelwijk Fortress" ],
+    "eatery_nearby" : [ "RM Taman Taktakan", "Bebek Goreng H.Slamet", "Rumah Makan Ibu Entin" ]
+  } ]
+}

@@ -5,3 +5,4 @@
 #    pip-compile --output-file requirements.in requirements.txt
 #
 Flask
+numpy

@@ -1,0 +1,307 @@
+{
+  "places" : [ {
+    "name" : "Lok Baintan Floating Market",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "69",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Desa Lok Baintan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Pasar Terapung", "Duta Mall Banjarmasin", "Toko Oleh Oleh Andalas", "Wadai Banjar", "Pasar Terapung", "Meratus Mountains", "Sabilal Muhtadin Great Mosque", "Duta Mall Banjarmasin" ],
+    "eatery_nearby" : [ "Soto Banjar Bang Amat", "Crystal Bakery", "Pondok Patin Bakar" ]
+  }, {
+    "name" : "Sabilal Muhtadin Great Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "53",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jln. Sudirman no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Jami Mosque Banjarmasin", "Siring Watch Towers Martapura River", "Bekantan Statue", "Meratus Mountains", "Siring Watch Towers Martapura River", "Lok Baintan Floating Market", "Bekantan Statue" ],
+    "eatery_nearby" : [ "Crystal Bakery", "Pondok Patin Bakar", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Pasar Terapung",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "93",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jln. Kuin Utara"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "Toko Oleh Oleh Andalas", "Wadai Banjar", "Lok Baintan Floating Market", "Duta Mall Banjarmasin", "Lok Baintan Floating Market", "Meratus Mountains", "Duta Mall Banjarmasin", "Siring Watch Towers Martapura River" ],
+    "eatery_nearby" : [ "RM Lontong Orari", "Depot Medan", "Il Pomodoro" ]
+  }, {
+    "name" : "Duta Mall Banjarmasin",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jl. Ahmad Yani no. 98 Km.2,5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 22
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Lok Baintan Floating Market", "Pasar Terapung", "Toko Oleh Oleh Andalas", "Wadai Banjar", "Lok Baintan Floating Market", "Pasar Terapung", "Meratus Mountains", "Siring Watch Towers Martapura River" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Meratus Mountains",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Mountains", "Nature & Parks" ],
+    "attraction_nearby" : [ "Angsana Beach", "Kembang Island", "Pagatan Beach", "Banjarmasin Zoo", "Lok Baintan Floating Market", "Siring Watch Towers Martapura River", "Sabilal Muhtadin Great Mosque", "Angsana Beach" ],
+    "eatery_nearby" : [ "Depot Rezeki", "Bakso Kumis", "Big Coffee Batulicin" ]
+  }, {
+    "name" : "Siring Watch Towers Martapura River",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "52",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jln. Kapten Piere Tendean"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Observation Decks & Towers", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Bekantan Statue", "Sabilal Muhtadin Great Mosque", "Jami Mosque Banjarmasin", "Meratus Mountains", "Bekantan Statue", "Sabilal Muhtadin Great Mosque", "Lok Baintan Floating Market" ],
+    "eatery_nearby" : [ "RM Lontong Orari", "Lezat Baru", "Depot Medan" ]
+  }, {
+    "name" : "Bekantan Statue",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "42",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jln. Kapten Piere Tendean"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Siring Watch Towers Martapura River", "Sabilal Muhtadin Great Mosque", "Jami Mosque Banjarmasin", "Siring Watch Towers Martapura River", "Meratus Mountains", "Sabilal Muhtadin Great Mosque", "Kembang Island" ],
+    "eatery_nearby" : [ "RM Lontong Orari", "Lezat Baru", "Depot Medan" ]
+  }, {
+    "name" : "Angsana Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Kecamatan Angsana, Kabupaten Tanah Bumbu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Meratus Mountains", "Kembang Island", "Pagatan Beach", "Arung Jeram Sungai Kambang", "Pagatan Beach", "Meratus Mountains", "Siring Watch Towers Martapura River", "Kembang Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jami Mosque Banjarmasin",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "11",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Kel.Antasan Kecil Timur Jln. Mesjid Jami"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Sabilal Muhtadin Great Mosque", "Siring Watch Towers Martapura River", "Bekantan Statue", "Siring Watch Towers Martapura River", "Bekantan Statue", "Sabilal Muhtadin Great Mosque", "Kembang Island" ],
+    "eatery_nearby" : [ "RM Lontong Orari", "Depot Medan", "Il Pomodoro" ]
+  }, {
+    "name" : "Kembang Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Meratus Mountains", "Angsana Beach", "Pagatan Beach", "Banjarmasin Zoo", "Meratus Mountains", "Pagatan Beach", "Siring Watch Towers Martapura River", "Lok Baintan Floating Market" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pagatan Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "16",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Meratus Mountains", "Angsana Beach", "Kembang Island", "Arung Jeram Sungai Kambang", "Angsana Beach", "Meratus Mountains", "Kembang Island", "Siring Watch Towers Martapura River" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Toko Oleh Oleh Andalas",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jl. Perintis Kemerdekaan"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "Pasar Terapung", "Wadai Banjar", "Lok Baintan Floating Market", "Duta Mall Banjarmasin", "Lok Baintan Floating Market", "Wadai Banjar", "Pasar Terapung", "Siring Watch Towers Martapura River" ],
+    "eatery_nearby" : [ "RM Lontong Orari", "Lezat Baru", "Depot Medan" ]
+  }, {
+    "name" : "Wadai Banjar",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Km. 2 Jl. Ahmad Yani No. 83A"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "Pasar Terapung", "Toko Oleh Oleh Andalas", "Lok Baintan Floating Market", "Duta Mall Banjarmasin", "Lok Baintan Floating Market", "Toko Oleh Oleh Andalas", "Pasar Terapung", "Duta Mall Banjarmasin" ],
+    "eatery_nearby" : [ "Crystal Bakery", "Warung Anggrek Bulan", "Effronte" ]
+  }, {
+    "name" : "Arung Jeram Sungai Kambang",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jl. P M Noor, Aranio"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Outdoor Activities", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Angsana Beach", "Pagatan Beach", "Banjarmasin Zoo", "Meratus Mountains", "Lok Baintan Floating Market", "Kembang Island", "Angsana Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Djari Djari Banjarmasin - Art of Reflexology",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1",
+    "description" : "Number one massage place in South Borneo. We provide unique family friendly massage service, which is a combination of different types of massages including: reflexology, traditional balinese traditional massage, sport massage, shiatsu, acupressure, etc                    ",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : "Jl. Kuripan no. 21B"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Spas & Wellness" ],
+    "attraction_nearby" : [ "Lok Baintan Floating Market", "Meratus Mountains", "Toko Oleh Oleh Andalas", "Siring Watch Towers Martapura River" ],
+    "eatery_nearby" : [ "XO Suki & Cuisine", "Lumina Family Resto", "Depot 59" ]
+  }, {
+    "name" : "Banjarmasin Zoo",
+    "type" : "attraction",
+    "rate" : "2.0",
+    "review" : "16",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "South Kalimantan",
+      "city" : "Banjarmasin",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks", "Zoos & Aquariums", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Meratus Mountains", "Angsana Beach", "Kembang Island", "Pagatan Beach", "Meratus Mountains", "Lok Baintan Floating Market", "Kembang Island", "Angsana Beach" ],
+    "eatery_nearby" : [ ]
+  } ]
+}

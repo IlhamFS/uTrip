@@ -1,0 +1,1105 @@
+{
+  "places" : [ {
+    "name" : "Baiturrahman Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "263",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jalan Teuko Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Aceh Tsunami Museum", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Aceh Tsunami Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "338",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Sultan Iskandar Muda no.1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "PLTD Apung 1", "Aceh State Museum", "Museum Rumah Cut Nyak Dhien", "Baiturrahman Grand Mosque", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Lampuuk Beach",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "145",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl Banda Aceh - Meulaboh"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Ulee Lheue Beach", "Alue Naga Beach", "Pantai pasir Putih Lhok Me", "Ujung Pancu Beach", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Banda Seafood" ]
+  }, {
+    "name" : "Kapal Tsunami",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Punge Jurong"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Jacky Chan House", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque", "PLTD Apung 1", "Lampuuk Beach" ],
+    "eatery_nearby" : [ "Mie Razali", "Warung Kopi Solong", "Canai Mamak" ]
+  }, {
+    "name" : "PLTD Apung 1",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "40",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Specialty Museums", "Museums", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Aceh Tsunami Museum", "Kapal Tsunami", "Aceh State Museum", "Kapal Tsunami", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque", "Lampuuk Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Aceh State Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "28",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Sultan Alaidin Mahmud Syah 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Aceh Tsunami Museum", "PLTD Apung 1", "Museum Rumah Cut Nyak Dhien", "PLTD Apung 1", "Kapal Tsunami", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Tailana Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "21",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Gunongan Park", "Ulee Lheue Beach", "Blang Padang Square", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1", "Gunongan Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gunongan Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Teuku Umar, Baiturrahman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Blang Padang Square", "Sri Ratu Safiatuddin - Aceh Cultural Park", "Taman Putroe Phang", "Lampuuk Beach", "Kapal Tsunami", "Lampuuk Beach", "Aceh Tsunami Museum", "Jacky Chan House" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Museum Rumah Cut Nyak Dhien",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "19",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Banda Aceh Calang, Lam Pisang Kecamatan Peukan Bada"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Aceh Tsunami Museum", "PLTD Apung 1", "Aceh State Museum", "PLTD Apung 1", "Kapal Tsunami", "Aceh Tsunami Museum", "Aceh State Museum" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sheikh Syiah Kuala Graveyard",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Gampong Dayah Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Remains of Koetaradja", "Kapal Tsunami", "Lampuuk Beach", "Jacky Chan House", "Gunongan Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Remains of Koetaradja",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "10",
+    "description" : "A free guided audiotour to colonial Banda Aceh. Narrated in English, Indonesian and Dutch and accompanied by old school colonial music, and illustrated with many unique pictures and eye-witness reports.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Rombean 13"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Jacky Chan House", "Jacky Chan House", "Gunongan Park", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Warung Kopi Solong", "Canai Mamak" ]
+  }, {
+    "name" : "Jacky Chan House",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "15 Km From Banda Aceh"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Kapal Tsunami", "Lampuuk Beach", "Remains of Koetaradja", "Aceh Tsunami Museum" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ulee Lheue Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Seabreeze Kite Club", "Aceh Kitecamp", "Tailana Island", "Lampuuk Beach", "Pantai pasir Putih Lhok Me", "Tailana Island", "Jacky Chan House" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Blang Padang Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. A. Majid Ibrahim"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Gunongan Park", "Sri Ratu Safiatuddin - Aceh Cultural Park", "Taman Putroe Phang", "Lampuuk Beach", "Gunongan Park", "Jacky Chan House", "Remains of Koetaradja", "Aceh Tsunami Museum" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Fort Indrapatra",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jln. Laksamana Malahayati no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Remains of Koetaradja", "Jacky Chan House", "Gunongan Park", "Pantai pasir Putih Lhok Me" ],
+    "eatery_nearby" : [ "Mie Razali", "Solong Coffee", "Warung Kopi Solong" ]
+  }, {
+    "name" : "Siron Mass Grave",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Bandara Sultan Iskandar Muda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Cemeteries", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Jacky Chan House", "Aceh Tsunami Museum", "Kapal Tsunami", "Remains of Koetaradja" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Sri Ratu Safiatuddin - Aceh Cultural Park",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. T. Nyak Arief no.110 Banda Aceh"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Gunongan Park", "Blang Padang Square", "Taman Putroe Phang", "Lampuuk Beach", "Remains of Koetaradja", "Gunongan Park", "Aceh State Museum", "Jacky Chan House" ],
+    "eatery_nearby" : [ "Mie Razali", "Solong Coffee", "Warung Kopi Solong" ]
+  }, {
+    "name" : "Alue Naga Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Todak Ujung Muara Alue Naga"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Ulee Lheue Beach", "Pantai pasir Putih Lhok Me", "Ujung Pancu Beach", "Pantai pasir Putih Lhok Me", "Lampuuk Beach", "Tailana Island", "Ulee Lheue Beach" ],
+    "eatery_nearby" : [ "Mie Razali", "Solong Coffee", "Warung Kopi Solong" ]
+  }, {
+    "name" : "Pantai pasir Putih Lhok Me",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Seabreeze Kite Club", "Aceh Kitecamp", "Tailana Island", "Lampuuk Beach", "Jacky Chan House", "Ulee Lheue Beach", "Kapal Tsunami" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Harapan Bangsa Stadium",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Arenas & Stadiums", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Siron Mass Grave", "Fort Indrapatra", "Blang Padang Square", "Sri Ratu Safiatuddin - Aceh Cultural Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kuta Malaka Water Boom",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Kuta Malaka"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Fort Indrapatra", "Remains of Koetaradja", "Lhok Mata Ie", "Jacky Chan House" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Taman Putroe Phang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Nature & Parks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1", "Soeharto Hill", "Sri Ratu Safiatuddin - Aceh Cultural Park", "Siron Mass Grave", "Blang Padang Square" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Soeharto Hill",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Lookouts", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Ujung Pancu Beach", "Fort Indrapatra", "Lhok Mata Ie", "Alue Naga Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ujung Pancu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Ujung Pancu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Seabreeze Kite Club", "Aceh Kitecamp", "Tailana Island", "Soeharto Hill", "Lhok Mata Ie", "Alue Naga Beach", "Ulee Lheue Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Makam Sultan Iskandar Muda",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jln. Baperis no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Cemeteries", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Taman Putroe Phang", "Fort Indrapatra", "Remains of Koetaradja", "Sri Ratu Safiatuddin - Aceh Cultural Park" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Sate Matang D'Wan" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Baiturrahman Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "263",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jalan Teuko Umar"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Aceh Tsunami Museum", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Aceh Tsunami Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "338",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Sultan Iskandar Muda no.1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "PLTD Apung 1", "Aceh State Museum", "Museum Rumah Cut Nyak Dhien", "Baiturrahman Grand Mosque", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Lampuuk Beach",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "145",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl Banda Aceh - Meulaboh"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Ulee Lheue Beach", "Alue Naga Beach", "Pantai pasir Putih Lhok Me", "Ujung Pancu Beach", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Banda Seafood" ]
+  }, {
+    "name" : "Kapal Tsunami",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "128",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Punge Jurong"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Jacky Chan House", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque", "PLTD Apung 1", "Lampuuk Beach" ],
+    "eatery_nearby" : [ "Mie Razali", "Warung Kopi Solong", "Canai Mamak" ]
+  }, {
+    "name" : "PLTD Apung 1",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "40",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Specialty Museums", "Sights & Landmarks", "Museums" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Aceh Tsunami Museum", "Kapal Tsunami", "Aceh State Museum", "Kapal Tsunami", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque", "Lampuuk Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Aceh State Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "28",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Sultan Alaidin Mahmud Syah 12"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Aceh Tsunami Museum", "PLTD Apung 1", "Museum Rumah Cut Nyak Dhien", "PLTD Apung 1", "Kapal Tsunami", "Aceh Tsunami Museum", "Baiturrahman Grand Mosque" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Tailana Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "21",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Gunongan Park", "Ulee Lheue Beach", "Blang Padang Square", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1", "Gunongan Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gunongan Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "32",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Teuku Umar, Baiturrahman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Blang Padang Square", "Sri Ratu Safiatuddin - Aceh Cultural Park", "Taman Putroe Phang", "Lampuuk Beach", "Kapal Tsunami", "Lampuuk Beach", "Aceh Tsunami Museum", "Jacky Chan House" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Museum Rumah Cut Nyak Dhien",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "19",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Banda Aceh Calang, Lam Pisang Kecamatan Peukan Bada"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Aceh Tsunami Museum", "PLTD Apung 1", "Aceh State Museum", "PLTD Apung 1", "Kapal Tsunami", "Aceh Tsunami Museum", "Aceh State Museum" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sheikh Syiah Kuala Graveyard",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Gampong Dayah Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Remains of Koetaradja", "Kapal Tsunami", "Lampuuk Beach", "Jacky Chan House", "Gunongan Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Remains of Koetaradja",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "10",
+    "description" : "A free guided audiotour to colonial Banda Aceh. Narrated in English, Indonesian and Dutch and accompanied by old school colonial music, and illustrated with many unique pictures and eye-witness reports.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Rombean 13"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Jacky Chan House", "Jacky Chan House", "Gunongan Park", "Kapal Tsunami", "PLTD Apung 1" ],
+    "eatery_nearby" : [ "Mie Razali", "Warung Kopi Solong", "Canai Mamak" ]
+  }, {
+    "name" : "Jacky Chan House",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "15 Km From Banda Aceh"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Kapal Tsunami", "Lampuuk Beach", "Remains of Koetaradja", "Aceh Tsunami Museum" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ulee Lheue Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Seabreeze Kite Club", "Aceh Kitecamp", "Tailana Island", "Lampuuk Beach", "Pantai pasir Putih Lhok Me", "Tailana Island", "Jacky Chan House" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Blang Padang Square",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. A. Majid Ibrahim"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Gunongan Park", "Sri Ratu Safiatuddin - Aceh Cultural Park", "Taman Putroe Phang", "Lampuuk Beach", "Gunongan Park", "Jacky Chan House", "Remains of Koetaradja", "Aceh Tsunami Museum" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Fort Indrapatra",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jln. Laksamana Malahayati no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Remains of Koetaradja", "Jacky Chan House", "Gunongan Park", "Pantai pasir Putih Lhok Me" ],
+    "eatery_nearby" : [ "Mie Razali", "Solong Coffee", "Warung Kopi Solong" ]
+  }, {
+    "name" : "Siron Mass Grave",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Bandara Sultan Iskandar Muda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Cemeteries", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Jacky Chan House", "Aceh Tsunami Museum", "Kapal Tsunami", "Remains of Koetaradja" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Ayam Bakar Wong Solo" ]
+  }, {
+    "name" : "Sri Ratu Safiatuddin - Aceh Cultural Park",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. T. Nyak Arief no.110 Banda Aceh"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Gunongan Park", "Blang Padang Square", "Taman Putroe Phang", "Lampuuk Beach", "Remains of Koetaradja", "Gunongan Park", "Aceh State Museum", "Jacky Chan House" ],
+    "eatery_nearby" : [ "Mie Razali", "Solong Coffee", "Warung Kopi Solong" ]
+  }, {
+    "name" : "Alue Naga Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Todak Ujung Muara Alue Naga"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Ulee Lheue Beach", "Pantai pasir Putih Lhok Me", "Ujung Pancu Beach", "Pantai pasir Putih Lhok Me", "Lampuuk Beach", "Tailana Island", "Ulee Lheue Beach" ],
+    "eatery_nearby" : [ "Mie Razali", "Solong Coffee", "Warung Kopi Solong" ]
+  }, {
+    "name" : "Pantai pasir Putih Lhok Me",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Seabreeze Kite Club", "Aceh Kitecamp", "Tailana Island", "Lampuuk Beach", "Jacky Chan House", "Ulee Lheue Beach", "Kapal Tsunami" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Harapan Bangsa Stadium",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Arenas & Stadiums", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Siron Mass Grave", "Fort Indrapatra", "Blang Padang Square", "Sri Ratu Safiatuddin - Aceh Cultural Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kuta Malaka Water Boom",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Kuta Malaka"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Fort Indrapatra", "Remains of Koetaradja", "Lhok Mata Ie", "Jacky Chan House" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Taman Putroe Phang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Historic Sites", "Sights & Landmarks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Lampuuk Beach", "Kapal Tsunami", "PLTD Apung 1", "Soeharto Hill", "Sri Ratu Safiatuddin - Aceh Cultural Park", "Siron Mass Grave", "Blang Padang Square" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Soeharto Hill",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Lookouts", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Baiturrahman Grand Mosque", "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Ujung Pancu Beach", "Fort Indrapatra", "Lhok Mata Ie", "Alue Naga Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ujung Pancu Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jl. Ujung Pancu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Lampuuk Beach", "Seabreeze Kite Club", "Aceh Kitecamp", "Tailana Island", "Soeharto Hill", "Lhok Mata Ie", "Alue Naga Beach", "Ulee Lheue Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Makam Sultan Iskandar Muda",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Aceh",
+      "city" : "Banda Aceh",
+      "address" : "Jln. Baperis no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Cemeteries", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Kapal Tsunami", "PLTD Apung 1", "Sheikh Syiah Kuala Graveyard", "Remains of Koetaradja", "Taman Putroe Phang", "Fort Indrapatra", "Remains of Koetaradja", "Sri Ratu Safiatuddin - Aceh Cultural Park" ],
+    "eatery_nearby" : [ "Mie Razali", "Canai Mamak", "Sate Matang D'Wan" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  } ]
+}

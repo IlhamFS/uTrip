@@ -1,0 +1,288 @@
+{
+  "places" : [ {
+    "name" : "Wow Borneo",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "39",
+    "description" : "Kalimantan Tour Destinations (KTD) unique cruise boats take you along meandering jungle lined rivers, passing islands with orang utans visible in the trees and the briliant splashes of kites, hornbills and kingfishers overhead. Further upstream visit villages and meet the inhabitants dependent on the jungle and the river for their livelihoods.",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jln. Barito No 11"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Tours", "Boat Tours & Water Sports", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Kapal Wisata Susur Sungai", "Central Borneo Guide", "Be Borneo Tour", "Taman Wisata Alam Tangkiling", "Central Borneo Guide", "Kapal Wisata Susur Sungai", "Wild Orangutan Tours - Day Tours", "Be Borneo Tour" ],
+    "eatery_nearby" : [ "Pondok Ikan Cianjur", "Rumah Tjilik Riwut, Resto & Gallery", "Gallery and Resto Kupi Tambi" ]
+  }, {
+    "name" : "Central Borneo Guide",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "12",
+    "description" : "I am a local female English speaking Dayak guide. my tour services are very personalised and I tailor all my tours to suit you. I can take you to visit Orangutans in their natural surroundings, visit a local Dayak village, show the top tour attractions of the city and the lesser known ones. I have connections all over Kalimantan for further travel arrangements. I have several guest reviews.",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jl. Bakut no. 28"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "City Tours", "Cultural Tours", "Nature & Wildlife Tours", "Tours", "Outdoor Activities", "More" ],
+    "attraction_nearby" : [ "Wow Borneo", "Be Borneo Tour", "Kapal Wisata Susur Sungai", "Taman Wisata Alam Tangkiling", "Wow Borneo", "Be Borneo Tour", "Orangutan Applause - Day Tours", "Tanjung Puting National Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Palangka Raya City Monument (Soekarno Monument)",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "36",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jln. S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Bukit Doa Karmel Tangkiling, Palangkaraya", "Site of Banama Rock", "Kahayan Bridge", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Wow Borneo", "Balanga Museum", "Kahayan Bridge" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "Pondok Ikan Cianjur", "Rumah Tjilik Riwut, Resto & Gallery" ]
+  }, {
+    "name" : "Bukit Doa Karmel Tangkiling, Palangkaraya",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "20",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jalan Bukit Karmel Banturung"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Palangka Raya City Monument (Soekarno Monument)", "Site of Banama Rock", "Kahayan Bridge", "Wow Borneo", "Kawasan Arboretum Nyaru Menteng", "Palangka Raya City Monument (Soekarno Monument)", "Kapal Wisata Susur Sungai" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "kampung lauk", "Pondok Ikan Cianjur" ]
+  }, {
+    "name" : "Kawasan Arboretum Nyaru Menteng",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "21",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Kelurahan Tumbang Tahai, Kecamatan Bukit Batu Tangkiling Jln. Cilik Riwut 28"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Nature & Parks" ],
+    "attraction_nearby" : [ "Taman Wisata Alam Tangkiling", "Sebangau National Park Central Kalimantan", "Tahai Lake", "Wow Borneo", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Sebangau National Park Central Kalimantan", "Kapal Wisata Susur Sungai" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "kampung lauk", "Pondok Ikan Cianjur" ]
+  }, {
+    "name" : "Balanga Museum",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "15",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Km. 2 Jln. Cilik Riwut 5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Kawasan Arboretum Nyaru Menteng", "Palangka Raya City Monument (Soekarno Monument)", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Wow Borneo" ],
+    "eatery_nearby" : [ "Pondok Ikan Cianjur", "Rumah Tjilik Riwut, Resto & Gallery", "Gallery and Resto Kupi Tambi" ]
+  }, {
+    "name" : "Kahayan Bridge",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Palangka Raya City Monument (Soekarno Monument)", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Site of Banama Rock", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Kawasan Arboretum Nyaru Menteng", "Palangka Raya City Monument (Soekarno Monument)", "Wow Borneo" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Be Borneo Tour",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "6",
+    "description" : "Tour operator for Borneo and beyond                                        ",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jl. Sepakat 9A no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Tours", "Eco Tours", "Outdoor Activities", "Tours" ],
+    "attraction_nearby" : [ "Central Borneo Guide", "Wow Borneo", "Kapal Wisata Susur Sungai", "Taman Wisata Alam Tangkiling", "Wow Borneo", "Central Borneo Guide", "Kapal Wisata Susur Sungai", "Orangutan Houseboat Tour" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "Pondok Ikan Cianjur", "Rumah Tjilik Riwut, Resto & Gallery" ]
+  }, {
+    "name" : "Sebangau National Park Central Kalimantan",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jl. Mahir Mahar KM.1,2 Kotak Pos 65 Palangka Raya"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "National Parks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kawasan Arboretum Nyaru Menteng", "Tahai Lake", "Taman Wisata Alam Tangkiling", "Wow Borneo", "Kawasan Arboretum Nyaru Menteng", "Kapal Wisata Susur Sungai", "Central Borneo Guide" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "kampung lauk", "Pondok Ikan Cianjur" ]
+  }, {
+    "name" : "Tahai Lake",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jln. s/d Tangkiling"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kawasan Arboretum Nyaru Menteng", "Sebangau National Park Central Kalimantan", "Taman Wisata Alam Tangkiling", "Kawasan Arboretum Nyaru Menteng", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Sebangau National Park Central Kalimantan", "Wow Borneo" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kapal Wisata Susur Sungai",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jln. S. Parman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Boat Rentals", "Boat Tours & Water Sports", "Outdoor Activities", "Tours" ],
+    "attraction_nearby" : [ "Wow Borneo", "Central Borneo Guide", "Be Borneo Tour", "Taman Wisata Alam Tangkiling", "Wow Borneo", "Central Borneo Guide", "Be Borneo Tour", "Kawasan Arboretum Nyaru Menteng" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "Pondok Ikan Cianjur", "Rumah Tjilik Riwut, Resto & Gallery" ]
+  }, {
+    "name" : "Site of Banama Rock",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Jl. Batu Banama, Kelurahan Tangkiling, Kecamatan Bukit Batu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Palangka Raya City Monument (Soekarno Monument)", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Kahayan Bridge", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Wow Borneo", "Taman Wisata Alam Tangkiling", "Kawasan Arboretum Nyaru Menteng" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Taman Wisata Alam Tangkiling",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Kecamatan Bukit Batu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Valleys", "Forests", "Nature & Wildlife Areas", "Hiking Trails", "Other Nature & Parks", "Nature & Parks", "Outdoor Activities", "More" ],
+    "attraction_nearby" : [ "Wow Borneo", "Central Borneo Guide", "Kawasan Arboretum Nyaru Menteng", "Be Borneo Tour", "Wow Borneo", "Kawasan Arboretum Nyaru Menteng", "Sebangau National Park Central Kalimantan", "Tahai Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Bukit Tangkiling",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya",
+      "address" : "Km. 34 Jln. Tjilik Riwut"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Outdoor Activities", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Wow Borneo", "Central Borneo Guide", "Be Borneo Tour", "Kapal Wisata Susur Sungai", "Bukit Doa Karmel Tangkiling, Palangkaraya", "Wow Borneo", "Site of Banama Rock", "Taman Wisata Alam Tangkiling" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Djari Djari Palangkaraya - Art of Reflexology",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "We are the best family friendly massage place in Palangkaraya. We provide a unique massage which is combination of different types of massages such as: traditional balinese massage, reflexology, shiatsu, sport massage, acupressure, etc",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "Central Kalimantan",
+      "city" : "Palangkaraya Palangkaraya",
+      "address" : "Jl. Punai no. 14 Jl. Punai no. 14"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Spas & Wellness" ],
+    "attraction_nearby" : [ "Wow Borneo", "Kapal Wisata Susur Sungai", "Be Borneo Tour", "Sebangau National Park Central Kalimantan" ],
+    "eatery_nearby" : [ "Warung Garasi Mbok Ndeso", "Pondok Ikan Cianjur", "Rumah Tjilik Riwut, Resto & Gallery" ]
+  } ]
+}

@@ -1,0 +1,364 @@
+{
+  "places" : [ {
+    "name" : "Tablolong Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "71",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Oenesu Waterfall", "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Oenesu Waterfall" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Crystal Cave",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "44",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Bolok District"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Caverns & Caves", "Nature & Parks" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Lasiana Beach", "Pantai Kupang", "Oenesu Waterfall", "Tablolong Beach", "Oenesu Waterfall", "Lasiana Beach", "Pantai Kupang" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lasiana Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "66",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Kec. Kupang Tengah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Crystal Cave", "Pantai Kupang", "Oenesu Waterfall", "Tablolong Beach", "Crystal Cave", "Pantai Kupang", "Oenesu Waterfall" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pantai Kupang",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "28",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Lasiana Beach", "Dive Kupang Dive", "Pasir Panjang Beach", "Crystal Cave", "Tablolong Beach", "Lasiana Beach", "Oenesu Waterfall" ],
+    "eatery_nearby" : [ "Bambu Kuning", "Beer & Barrel Kitchen n' Lounge", "Subasuka Paradise" ]
+  }, {
+    "name" : "Nostalgia Park",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "29",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Walikota Jln. Eltari"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Crystal Cave", "Tablolong Beach", "Pantai Kupang", "Oenesu Waterfall" ],
+    "eatery_nearby" : [ "Bambu Kuning", "Beer & Barrel Kitchen n' Lounge", "Subasuka Paradise" ]
+  }, {
+    "name" : "Oenesu Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "39",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Oenesu Village, Kupang Barat"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Crystal Cave", "Tablolong Beach", "Pantai Kupang", "Lasiana Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Pasir Panjang Beach",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Tablolong Beach", "Crystal Cave", "Oenesu Waterfall", "Pantai Kupang" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Camplong Natural Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Oenaek"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Nature & Parks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Crystal Cave", "Nostalgia Park", "Tesbatan Waterfall", "Tablolong Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ketapang Satu Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Jl. Sumatera"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Lasiana Beach", "Pantai Kupang", "Dive Kupang Dive", "Pantai Kupang", "Crystal Cave", "Manikin Beach", "Tablolong Beach" ],
+    "eatery_nearby" : [ "Bambu Kuning", "Beer & Barrel Kitchen n' Lounge", "Subasuka Paradise" ]
+  }, {
+    "name" : "Tesbatan Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Tesbatan, Amarasi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Crystal Cave", "Tablolong Beach", "Oenesu Waterfall", "Pantai Kupang" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Manikin Beach",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Tarus, Kupang Tengah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Lasiana Beach", "Pantai Kupang", "Dive Kupang Dive", "Pantai Kupang", "Crystal Cave", "Ketapang Satu Beach", "Tablolong Beach" ],
+    "eatery_nearby" : [ "Lung Hoa Restaurant - Aston Hotel Kupang", "Bambu Kuning", "Beer & Barrel Kitchen n' Lounge" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Tuadale Lake",
+    "type" : "attraction",
+    "rate" : "2.5",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "West Timor",
+      "city" : "Kupang",
+      "address" : "Lifulo"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Tablolong Beach", "Crystal Cave", "Lasiana Beach", "Pantai Kupang", "Crystal Cave", "Tablolong Beach", "Tesbatan Waterfall", "Pantai Kupang" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "East Nusa Tenggara",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  } ]
+}

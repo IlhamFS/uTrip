@@ -1,0 +1,288 @@
+{
+  "places" : [ {
+    "name" : "Islamic Center Samarinda Mosque",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "98",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jln. Slamet Riyadi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Mahakam River", "Weaving Village", "Mahakam River", "Sting-less Jellyfish Lake", "Maratua Island", "Pampang Cultural Park" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Ayam Goreng Banjar" ]
+  }, {
+    "name" : "Mahakam River",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "111",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Weaving Village", "Islamic Center Samarinda Mosque", "Islamic Center Samarinda Mosque", "Pampang Cultural Park", "BIG Mall", "Tanah Merah Waterfall" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Ayam Goreng Banjar" ]
+  }, {
+    "name" : "BIG Mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "45",
+    "description" : "BIG Mall is a stylish and modern shopping mall, strategically located on the bank of Mahakam river, Samarinda. Your New GREAT Lifestyle. Come & enjoy!",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jl. Untung Suropati no. 8"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Samarinda Central Plaza", "Mesra Indah Mall", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Plaza Mulia", "Mahakam River", "Pampang Cultural Park", "Islamic Center Samarinda Mosque", "Plaza Mulia" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Ayam Goreng Banjar" ]
+  }, {
+    "name" : "Pampang Cultural Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Sungai Siring Jln. Pampang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Taman Tepian Mahakam Samarinda", "Tanah Merah Waterfall", "Mahakam River", "Tanah Merah Waterfall", "BIG Mall", "Jessica Water Park" ],
+    "eatery_nearby" : [ "Roti Durian Panglima", "Hary Crab Pahlawan", "Kedai Sabindo" ]
+  }, {
+    "name" : "East Kalimantan Center Oleh-Oleh Khas Kaltim",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "21",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Gg. 1 Jln. Pangeran Antasari no. 1"
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 23
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "Plaza Mulia", "UKM Center Samarinda", "BIG Mall", "Samarinda Central Plaza", "Pampang Cultural Park", "BIG Mall", "UKM Center Samarinda", "Plaza Mulia" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Ayam Goreng Banjar" ]
+  }, {
+    "name" : "Plaza Mulia",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "48",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jl. Bhayangkara"
+    } ],
+    "time" : [ {
+      "open" : 9,
+      "close" : 22
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "East Kalimantan Center Oleh-Oleh Khas Kaltim", "UKM Center Samarinda", "BIG Mall", "Samarinda Central Plaza", "BIG Mall", "Mahakam River", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Pampang Cultural Park" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Ayam Goreng Banjar" ]
+  }, {
+    "name" : "Tanah Merah Waterfall",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "18",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Ds Purwasari"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Pampang Cultural Park", "Taman Tepian Mahakam Samarinda", "Pampang Cultural Park", "Taman Tepian Mahakam Samarinda", "Mahakam River", "Jessica Water Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Jessica Water Park",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jln. Pelita"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Pampang Cultural Park", "Tanah Merah Waterfall", "Mahakam River", "Berambai Waterfall" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Hary Crab Pahlawan" ]
+  }, {
+    "name" : "Weaving Village",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 8,
+      "close" : 20
+    } ],
+    "categories" : [ "Neighborhoods", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Islamic Center Samarinda Mosque", "Mahakam River", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Mahakam River", "Islamic Center Samarinda Mosque", "BIG Mall" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Taman Tepian Mahakam Samarinda",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jl. Gajah Mada - Slamet Riyadi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Parks" ],
+    "attraction_nearby" : [ "Pampang Cultural Park", "Tanah Merah Waterfall", "Tanah Merah Waterfall", "Pampang Cultural Park", "Mahakam River", "Jessica Water Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "UKM Center Samarinda",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Rt. 25 Jln. Jend Gatot Subroto no. 77"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gift & Specialty Shops", "Shopping" ],
+    "attraction_nearby" : [ "BIG Mall", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Plaza Mulia", "Samarinda Central Plaza", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Pampang Cultural Park", "BIG Mall", "Mesra Indah Mall" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Samarinda Central Plaza",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jln. Pulau Irian no. 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "BIG Mall", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Plaza Mulia", "UKM Center Samarinda", "BIG Mall", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Mahakam River", "Islamic Center Samarinda Mosque" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Mesra Indah Mall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "4",
+    "description" : "The first and still one of the best and busiest Mall in the heart of Samarinda.",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "BIG Mall", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Plaza Mulia", "UKM Center Samarinda", "BIG Mall", "Tanah Merah Waterfall", "UKM Center Samarinda", "Pampang Cultural Park" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "My Music Family Karaoke",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jln. Mulawarman no. 31"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Karaoke Bars", "Nightlife" ],
+    "attraction_nearby" : [ "NAV Karaoke Samarinda", "East Kalimantan Center Oleh-Oleh Khas Kaltim", "Mahakam River", "Islamic Center Samarinda Mosque" ],
+    "eatery_nearby" : [ "Pondok Borneo", "Soto Banjar Restoran Amado", "Ayam Goreng Banjar" ]
+  }, {
+    "name" : "Kutai National Park outfitter: Degigant Tours",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Kalimantan",
+      "province" : "East Kalimantan",
+      "city" : "Samarinda",
+      "address" : "Jln. Raudah no 21"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sightseeing Tours", "Tours" ],
+    "attraction_nearby" : [ "Pampang Cultural Park", "Mahakam River", "Tanah Merah Waterfall", "Berambai Waterfall" ],
+    "eatery_nearby" : [ "Alaya Food Festival", "Starbucks Big Mall Samarinda", "Rumah Makan Bemo" ]
+  } ]
+}

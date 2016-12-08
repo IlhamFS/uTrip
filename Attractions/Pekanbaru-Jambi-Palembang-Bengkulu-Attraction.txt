@@ -1,0 +1,4354 @@
+{
+  "places" : [ {
+    "name" : "An-Nur Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "117",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "HS Soeman Library", "Mall Ska Pekanbaru", "Mall Ciputra Seraya", "Alam Mayang" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "HS Soeman Library",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "84",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Jenderal Sudirman no. 462"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Libraries", "Traveler Resources" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Mall Ciputra Seraya", "Alam Mayang", "Mall Ska Pekanbaru" ],
+    "eatery_nearby" : [ "Krema Koffie", "Lcheesefactory", "Pitek Lanang Resto Dan Cafe" ]
+  }, {
+    "name" : "Mall Ciputra Seraya",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Riau no. 58"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Mall Ska Pekanbaru",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Sukarno Hatta"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "An-Nur Great Mosquea",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Silungkang Art Centre", "Al-Falah Darul Muttaqin Mosque", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "An-Nur Grand Mosque", "HS Soeman Library", "Mall Ska Pekanbaru", "Pekanbaru Great Mosque" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Ketupat Sayur Onen", "KlapperPie" ]
+  }, {
+    "name" : "Pekanbaru Great Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Masjid"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Alam Mayang", "An-Nur Great Mosquea", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Kota Buana" ]
+  }, {
+    "name" : "Alam Mayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Tangkerang Timur, Kec. Tenayan Raya Jln. Ir. H Juanda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Boombara Waterpark", "Air Mertua Waterfall", "Minas Elephant Training Centre", "HS Soeman Library", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ar-Rahman Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Mall Ska Pekanbaru", "HS Soeman Library", "Mall Ciputra Seraya" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pedhes Resto", "RM Puti Buana" ]
+  }, {
+    "name" : "Minas Elephant Training Centre",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Forests", "Other Nature & Parks", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Lembah Sari Artificial Lake", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Lembah Sari Artificial Lake", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Silungkang Art Centre",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "20",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jend Sudirman 630 C-D-E, Tangkerang Timur, Bukit Raya: Pos Code: 28289"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Minas Elephant Training Centre", "Alam Mayang", "Air Mertua Waterfall", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lembah Sari Artificial Lake",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Rumbai District"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "Al-Falah Darul Muttaqin Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Sumatera no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Great Mosquea", "Silungkang Art Centre", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Silungkang Art Centre", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library" ],
+    "eatery_nearby" : [ "Rumah Makan Pak Abbas", "Ketupat Sayur Onen", "KlapperPie" ]
+  }, {
+    "name" : "Air Mertua Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Lembah Sari Artificial Lake", "Alam Mayang", "Lembah Sari Artificial Lake", "Minas Elephant Training Centre", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boombara Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Raya Pasir Putih Km. 5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Alam Mayang", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sadira Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Riau no. 147"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Pecinan",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Karet"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "Naga Line", "Tangor Market", "Pasar Wisata" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Rumah Makan Pak Abbas", "Ketupat Sayur Onen" ]
+  }, {
+    "name" : "Score! Pekanbaru",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Tengku Zainal Abidin no 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Rumah Durian Radit", "Tangor Market", "Kodim Market", "Air Mertua Waterfall", "Alam Mayang", "Mall Ska Pekanbaru", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Rumah Makan Kota Buana", "Bread Boutique", "Sate Bundo Kanduang" ]
+  }, {
+    "name" : "Star City Square",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Jenderal Sudirman no 426"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Sadira Plaza", "The Central Plaza" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Rumah Makan Serba Nikmat", "Krema Koffie" ]
+  }, {
+    "name" : "Pasar Wisata",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Pasar Bawah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "The Central Plaza", "Sungai Juling Market", "Kodim Market", "Tangor Market", "Rotan Riau" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pondok Patin H.M. Yunus", "Rumah Makan Pak Abbas" ]
+  }, {
+    "name" : "The Central Plaza",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "Kodim Market", "Pasar Wisata", "Tri Dharma Dewi Sakti Temple", "Rumah Durian Radit" ],
+    "eatery_nearby" : [ "Rumah Makan Kota Buana", "Bread Boutique", "Sate Bundo Kanduang" ]
+  }, {
+    "name" : "Tri Dharma Dewi Sakti Temple",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Bakti"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "An-Nur Great Mosquea", "Pecinan", "The Central Mall", "The Central Plaza", "Kodim Market" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Van Hollano Bakery", "Kimteng" ]
+  }, {
+    "name" : "Tangor Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Antique Stores", "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Sungai Juling Market", "Kodim Market", "Pasar Wisata", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sungai Juling Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Tangor Market", "Pasar Wisata", "Kodim Market", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Naga Line",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Yos Sudarso no. 28-A"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Trans Metro Pekanbaru", "Pecinan", "Kodim Market", "Tangor Market" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Ayam Goreng Ny Suharti" ]
+  }, {
+    "name" : "An-Nur Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "117",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "HS Soeman Library", "Mall Ska Pekanbaru", "Mall Ciputra Seraya", "Alam Mayang" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "HS Soeman Library",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "84",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Jenderal Sudirman no. 462"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Libraries", "Traveler Resources" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Mall Ciputra Seraya", "Alam Mayang", "Mall Ska Pekanbaru" ],
+    "eatery_nearby" : [ "Krema Koffie", "Lcheesefactory", "Pitek Lanang Resto Dan Cafe" ]
+  }, {
+    "name" : "Mall Ciputra Seraya",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Riau no. 58"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Mall Ska Pekanbaru",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Sukarno Hatta"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "An-Nur Great Mosquea",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Silungkang Art Centre", "Al-Falah Darul Muttaqin Mosque", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "An-Nur Grand Mosque", "HS Soeman Library", "Mall Ska Pekanbaru", "Pekanbaru Great Mosque" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Ketupat Sayur Onen", "Restoran Anom" ]
+  }, {
+    "name" : "Pekanbaru Great Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Masjid"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Alam Mayang", "An-Nur Great Mosquea", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Kota Buana" ]
+  }, {
+    "name" : "Alam Mayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Tangkerang Timur, Kec. Tenayan Raya Jln. Ir. H Juanda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Boombara Waterpark", "Air Mertua Waterfall", "Minas Elephant Training Centre", "HS Soeman Library", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ar-Rahman Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Mall Ska Pekanbaru", "HS Soeman Library", "Mall Ciputra Seraya" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pedhes Resto", "RM Puti Buana" ]
+  }, {
+    "name" : "Minas Elephant Training Centre",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Forests", "Other Nature & Parks", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Lembah Sari Artificial Lake", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Lembah Sari Artificial Lake", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Silungkang Art Centre",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "20",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jend Sudirman 630 C-D-E, Tangkerang Timur, Bukit Raya: Pos Code: 28289"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Minas Elephant Training Centre", "Alam Mayang", "Air Mertua Waterfall", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lembah Sari Artificial Lake",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Rumbai District"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "Al-Falah Darul Muttaqin Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Sumatera no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Great Mosquea", "Silungkang Art Centre", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Silungkang Art Centre", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library" ],
+    "eatery_nearby" : [ "Rumah Makan Pak Abbas", "Ketupat Sayur Onen", "KlapperPie" ]
+  }, {
+    "name" : "Air Mertua Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Lembah Sari Artificial Lake", "Alam Mayang", "Lembah Sari Artificial Lake", "Minas Elephant Training Centre", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boombara Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Raya Pasir Putih Km. 5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Alam Mayang", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sadira Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Riau no. 147"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Pecinan",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Karet"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "Naga Line", "Tangor Market", "Pasar Wisata" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Rumah Makan Pak Abbas", "Ketupat Sayur Onen" ]
+  }, {
+    "name" : "Score! Pekanbaru",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Tengku Zainal Abidin no 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Rumah Durian Radit", "Tangor Market", "Kodim Market", "Air Mertua Waterfall", "Alam Mayang", "Mall Ska Pekanbaru", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Rumah Makan Kota Buana", "Bread Boutique", "Sate Bundo Kanduang" ]
+  }, {
+    "name" : "Star City Square",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Jenderal Sudirman no 426"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Sadira Plaza", "The Central Plaza" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Rumah Makan Serba Nikmat", "Krema Koffie" ]
+  }, {
+    "name" : "Pasar Wisata",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Pasar Bawah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "The Central Plaza", "Sungai Juling Market", "Kodim Market", "Tangor Market", "Rotan Riau" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pondok Patin H.M. Yunus", "Rumah Makan Pak Abbas" ]
+  }, {
+    "name" : "The Central Plaza",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "Kodim Market", "Pasar Wisata", "Tri Dharma Dewi Sakti Temple", "Rumah Durian Radit" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "Tri Dharma Dewi Sakti Temple",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Bakti"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "An-Nur Great Mosquea", "Pecinan", "The Central Mall", "The Central Plaza", "Kodim Market" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Van Hollano Bakery", "Kimteng" ]
+  }, {
+    "name" : "Tangor Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Antique Stores", "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Sungai Juling Market", "Kodim Market", "Pasar Wisata", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sungai Juling Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Tangor Market", "Pasar Wisata", "Kodim Market", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Naga Line",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Yos Sudarso no. 28-A"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Trans Metro Pekanbaru", "Pecinan", "Kodim Market", "Tangor Market" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Ayam Goreng Ny Suharti" ]
+  }, {
+    "name" : "An-Nur Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "117",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "HS Soeman Library", "Mall Ska Pekanbaru", "Mall Ciputra Seraya", "Alam Mayang" ],
+    "eatery_nearby" : [ "Rumah Makan Kota Buana", "Bread Boutique", "Sate Bundo Kanduang" ]
+  }, {
+    "name" : "HS Soeman Library",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "84",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Jenderal Sudirman no. 462"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Libraries", "Traveler Resources" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Mall Ciputra Seraya", "Alam Mayang", "Mall Ska Pekanbaru" ],
+    "eatery_nearby" : [ "Krema Koffie", "Lcheesefactory", "Pitek Lanang Resto Dan Cafe" ]
+  }, {
+    "name" : "Mall Ciputra Seraya",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Riau no. 58"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Mall Ska Pekanbaru",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Sukarno Hatta"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "An-Nur Great Mosquea",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Silungkang Art Centre", "Al-Falah Darul Muttaqin Mosque", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "An-Nur Grand Mosque", "HS Soeman Library", "Mall Ska Pekanbaru", "Pekanbaru Great Mosque" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Ketupat Sayur Onen", "Restoran Anom" ]
+  }, {
+    "name" : "Pekanbaru Great Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Masjid"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Alam Mayang", "An-Nur Great Mosquea", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Kota Buana" ]
+  }, {
+    "name" : "Alam Mayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Tangkerang Timur, Kec. Tenayan Raya Jln. Ir. H Juanda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Boombara Waterpark", "Air Mertua Waterfall", "Minas Elephant Training Centre", "HS Soeman Library", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ar-Rahman Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Mall Ska Pekanbaru", "HS Soeman Library", "Mall Ciputra Seraya" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pedhes Resto", "RM Puti Buana" ]
+  }, {
+    "name" : "Minas Elephant Training Centre",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Forests", "Other Nature & Parks", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Lembah Sari Artificial Lake", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Lembah Sari Artificial Lake", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Silungkang Art Centre",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "20",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jend Sudirman 630 C-D-E, Tangkerang Timur, Bukit Raya: Pos Code: 28289"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Minas Elephant Training Centre", "Alam Mayang", "Air Mertua Waterfall", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lembah Sari Artificial Lake",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Rumbai District"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "Al-Falah Darul Muttaqin Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Sumatera no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Great Mosquea", "Silungkang Art Centre", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Silungkang Art Centre", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library" ],
+    "eatery_nearby" : [ "Rumah Makan Pak Abbas", "Ketupat Sayur Onen", "KlapperPie" ]
+  }, {
+    "name" : "Air Mertua Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Lembah Sari Artificial Lake", "Alam Mayang", "Lembah Sari Artificial Lake", "Minas Elephant Training Centre", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boombara Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Raya Pasir Putih Km. 5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Alam Mayang", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sadira Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Riau no. 147"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Pecinan",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Karet"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "Naga Line", "Tangor Market", "Pasar Wisata" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Rumah Makan Pak Abbas", "Ketupat Sayur Onen" ]
+  }, {
+    "name" : "Score! Pekanbaru",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Tengku Zainal Abidin no 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Rumah Durian Radit", "Tangor Market", "Kodim Market", "Air Mertua Waterfall", "Alam Mayang", "Mall Ska Pekanbaru", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Rumah Makan Kota Buana", "Bread Boutique", "Sate Bundo Kanduang" ]
+  }, {
+    "name" : "Star City Square",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Jenderal Sudirman no 426"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Sadira Plaza", "The Central Plaza" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Rumah Makan Serba Nikmat", "Krema Koffie" ]
+  }, {
+    "name" : "Pasar Wisata",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Pasar Bawah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "The Central Plaza", "Sungai Juling Market", "Kodim Market", "Tangor Market", "Rotan Riau" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pondok Patin H.M. Yunus", "Rumah Makan Pak Abbas" ]
+  }, {
+    "name" : "The Central Plaza",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "Kodim Market", "Pasar Wisata", "Tri Dharma Dewi Sakti Temple", "Rumah Durian Radit" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "Tri Dharma Dewi Sakti Temple",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Bakti"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "An-Nur Great Mosquea", "Pecinan", "The Central Mall", "The Central Plaza", "Kodim Market" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Van Hollano Bakery", "Kimteng" ]
+  }, {
+    "name" : "Tangor Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Antique Stores", "Farmers Markets", "Food & Drink", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Sungai Juling Market", "Kodim Market", "Pasar Wisata", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sungai Juling Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Tangor Market", "Pasar Wisata", "Kodim Market", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Naga Line",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Yos Sudarso no. 28-A"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Trans Metro Pekanbaru", "Pecinan", "Kodim Market", "Tangor Market" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Ayam Goreng Ny Suharti" ]
+  }, {
+    "name" : "Mount Kerinci",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "70",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jl. Kayu Aro"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Mountains", "Nature & Parks" ],
+    "attraction_nearby" : [ "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Lake Kaco", "Muaro Jambi Temple Complex", "Seven Mountain Lake", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Muaro Jambi Temple Complex",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "83",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "26 kms from Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Gedong Temple", "Gumpung Temple", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Mount Kerinci", "Lake Kaco", "Berhala Island", "Gentala Arasy Pedestrian Bridge" ],
+    "eatery_nearby" : [ "Pempek Selamat", "RM. Aroma Cempaka", "Dine & Chat" ]
+  }, {
+    "name" : "Agung Al Falah Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "41",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Along the river front Central Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Gedong Temple", "Muaro Jambi Temple Complex", "Mount Kerinci", "Gentala Arasy Pedestrian Bridge", "Lake Kaco" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gentala Arasy Pedestrian Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "24",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Tower", "Gedong Temple", "Muaro Jambi Temple Complex", "Mount Kerinci", "Agung Al Falah Mosque", "Lake Kaco" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gentala Arasy Tower",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Points of Interest & Landmarks", "Museums", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gedong Temple", "Lake Kaco", "Gentala Arasy Pedestrian Bridge", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Batanghari River",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "23",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Mount Kerinci", "Berhala Island", "Lake Kaco", "Gentala Arasy Pedestrian Bridge" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Seven Mountain Lake",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Berhala Island", "Lake Kaco", "Lake Kaco", "Mount Kerinci", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Berhala Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Tanjung Jabung Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Lake Kaco", "Lake Kaco", "Seven Mountain Lake", "Mount Kerinci", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lake Kaco",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Mount Kerinci", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Mall WTC Batanghari",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jl. Sultan Thaha no. 17"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kofeluv", "Lake Kaco", "Mount Kerinci", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ "Pempek Selamat", "RM. Aroma Cempaka", "Dine & Chat" ]
+  }, {
+    "name" : "Hot Spring Gao Semurup",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Hot Springs & Geysers", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gedong Temple",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Muaro Jambi Temple Complex", "Lake Kaco", "Seven Mountain Lake", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kayu Aro Tea Plantation",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farms", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Lake Kaco", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kofeluv",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "Kofeluv is a neighborhood specialty coffee shop located in the heart of Talang Banjar, Jambi, Indonesia. We offer simple, honest, fresh selections of coffee beans and food made from local ingredients. Customer can come and enjoy popular Arabica/Robusta Indonesian coffee with many extraction techniques. Our cozy and friendly atmosphere ensures our customers to have a pleasant coffee moment in our shop. In addition, we offer group meeting facility with free access to our high speed wi-fi. Kofeluv opens its doors to family, group lunch as well as dinner. Come and enjoy the most important drink of the day as we carefully pair our coffee with sweet or savory dish that is fresh made to order.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jalan GR. Djamin Datuk Bagindo no. 56C"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Gumpung Temple", "Muaro Jambi Temple Complex", "Lake Kaco", "Berhala Island" ],
+    "eatery_nearby" : [ "RM. Aroma Cempaka", "Pondok Kelapo", "Pondok Pindang Sarinande Jambi" ]
+  }, {
+    "name" : "Gumpung Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Muara Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gedong Temple", "Gentala Arasy Pedestrian Bridge", "Muaro Jambi Temple Complex", "Kofeluv", "Gedong Temple", "Lake Kaco" ],
+    "eatery_nearby" : [ "Pempek Selamat", "Dine & Chat", "Pondok Kelapo" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "An-Nur Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "117",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "HS Soeman Library", "Mall Ska Pekanbaru", "Mall Ciputra Seraya", "Alam Mayang" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "HS Soeman Library",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "84",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Jenderal Sudirman no. 462"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Libraries", "Traveler Resources" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Mall Ciputra Seraya", "Alam Mayang", "Mall Ska Pekanbaru" ],
+    "eatery_nearby" : [ "Krema Koffie", "Lcheesefactory", "Pitek Lanang Resto Dan Cafe" ]
+  }, {
+    "name" : "Mall Ciputra Seraya",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Riau no. 58"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Mall Ska Pekanbaru",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Sukarno Hatta"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "An-Nur Great Mosquea",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Silungkang Art Centre", "Al-Falah Darul Muttaqin Mosque", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "An-Nur Grand Mosque", "HS Soeman Library", "Mall Ska Pekanbaru", "Pekanbaru Great Mosque" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Ketupat Sayur Onen", "Restoran Anom" ]
+  }, {
+    "name" : "Pekanbaru Great Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Masjid"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Alam Mayang", "An-Nur Great Mosquea", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Kota Buana" ]
+  }, {
+    "name" : "Alam Mayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Tangkerang Timur, Kec. Tenayan Raya Jln. Ir. H Juanda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Boombara Waterpark", "Air Mertua Waterfall", "Minas Elephant Training Centre", "HS Soeman Library", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ar-Rahman Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Mall Ska Pekanbaru", "HS Soeman Library", "Mall Ciputra Seraya" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pedhes Resto", "RM Puti Buana" ]
+  }, {
+    "name" : "Minas Elephant Training Centre",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Forests", "Other Nature & Parks", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Lembah Sari Artificial Lake", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Lembah Sari Artificial Lake", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Silungkang Art Centre",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "20",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jend Sudirman 630 C-D-E, Tangkerang Timur, Bukit Raya: Pos Code: 28289"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Minas Elephant Training Centre", "Alam Mayang", "Air Mertua Waterfall", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lembah Sari Artificial Lake",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Rumbai District"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "Al-Falah Darul Muttaqin Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Sumatera no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Great Mosquea", "Silungkang Art Centre", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Silungkang Art Centre", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library" ],
+    "eatery_nearby" : [ "Rumah Makan Pak Abbas", "Ketupat Sayur Onen", "KlapperPie" ]
+  }, {
+    "name" : "Air Mertua Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Lembah Sari Artificial Lake", "Alam Mayang", "Lembah Sari Artificial Lake", "Minas Elephant Training Centre", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boombara Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Raya Pasir Putih Km. 5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Alam Mayang", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sadira Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Riau no. 147"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Pecinan",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Karet"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "Naga Line", "Tangor Market", "Pasar Wisata" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Rumah Makan Pak Abbas", "Ketupat Sayur Onen" ]
+  }, {
+    "name" : "Score! Pekanbaru",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Tengku Zainal Abidin no 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Rumah Durian Radit", "Tangor Market", "Kodim Market", "Air Mertua Waterfall", "Alam Mayang", "Mall Ska Pekanbaru", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "Star City Square",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Jenderal Sudirman no 426"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Sadira Plaza", "The Central Plaza" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Rumah Makan Serba Nikmat", "Krema Koffie" ]
+  }, {
+    "name" : "Pasar Wisata",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Pasar Bawah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "The Central Plaza", "Sungai Juling Market", "Kodim Market", "Tangor Market", "Rotan Riau" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pondok Patin H.M. Yunus", "Rumah Makan Pak Abbas" ]
+  }, {
+    "name" : "The Central Plaza",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "Kodim Market", "Pasar Wisata", "Tri Dharma Dewi Sakti Temple", "Rumah Durian Radit" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "Tri Dharma Dewi Sakti Temple",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Bakti"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "An-Nur Great Mosquea", "Pecinan", "The Central Mall", "The Central Plaza", "Kodim Market" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Van Hollano Bakery", "Kimteng" ]
+  }, {
+    "name" : "Tangor Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Antique Stores", "Farmers Markets", "Food & Drink", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Sungai Juling Market", "Kodim Market", "Pasar Wisata", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sungai Juling Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Tangor Market", "Pasar Wisata", "Kodim Market", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Naga Line",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Yos Sudarso no. 28-A"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Trans Metro Pekanbaru", "Pecinan", "Kodim Market", "Tangor Market" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Ayam Goreng Ny Suharti" ]
+  }, {
+    "name" : "Mount Kerinci",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "70",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jl. Kayu Aro"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Mountains", "Nature & Parks" ],
+    "attraction_nearby" : [ "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Lake Kaco", "Muaro Jambi Temple Complex", "Seven Mountain Lake", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Muaro Jambi Temple Complex",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "83",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "26 kms from Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Gedong Temple", "Gumpung Temple", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Mount Kerinci", "Lake Kaco", "Berhala Island", "Gentala Arasy Pedestrian Bridge" ],
+    "eatery_nearby" : [ "Pempek Selamat", "RM. Aroma Cempaka", "Dine & Chat" ]
+  }, {
+    "name" : "Agung Al Falah Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "41",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Along the river front Central Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Gedong Temple", "Muaro Jambi Temple Complex", "Mount Kerinci", "Gentala Arasy Pedestrian Bridge", "Lake Kaco" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gentala Arasy Pedestrian Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "24",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Tower", "Gedong Temple", "Muaro Jambi Temple Complex", "Mount Kerinci", "Agung Al Falah Mosque", "Lake Kaco" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gentala Arasy Tower",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Points of Interest & Landmarks", "Museums", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gedong Temple", "Lake Kaco", "Gentala Arasy Pedestrian Bridge", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Batanghari River",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "23",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Mount Kerinci", "Berhala Island", "Lake Kaco", "Gentala Arasy Pedestrian Bridge" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Seven Mountain Lake",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Berhala Island", "Lake Kaco", "Lake Kaco", "Mount Kerinci", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Berhala Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Tanjung Jabung Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Lake Kaco", "Lake Kaco", "Seven Mountain Lake", "Mount Kerinci", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lake Kaco",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Mount Kerinci", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Mall WTC Batanghari",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jl. Sultan Thaha no. 17"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kofeluv", "Lake Kaco", "Mount Kerinci", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ "Pempek Selamat", "RM. Aroma Cempaka", "Dine & Chat" ]
+  }, {
+    "name" : "Hot Spring Gao Semurup",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Hot Springs & Geysers", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gedong Temple",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Muaro Jambi Temple Complex", "Lake Kaco", "Seven Mountain Lake", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kayu Aro Tea Plantation",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farms", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Lake Kaco", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kofeluv",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "Kofeluv is a neighborhood specialty coffee shop located in the heart of Talang Banjar, Jambi, Indonesia. We offer simple, honest, fresh selections of coffee beans and food made from local ingredients. Customer can come and enjoy popular Arabica/Robusta Indonesian coffee with many extraction techniques. Our cozy and friendly atmosphere ensures our customers to have a pleasant coffee moment in our shop. In addition, we offer group meeting facility with free access to our high speed wi-fi. Kofeluv opens its doors to family, group lunch as well as dinner. Come and enjoy the most important drink of the day as we carefully pair our coffee with sweet or savory dish that is fresh made to order.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jalan GR. Djamin Datuk Bagindo no. 56C"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Gumpung Temple", "Muaro Jambi Temple Complex", "Lake Kaco", "Berhala Island" ],
+    "eatery_nearby" : [ "RM. Aroma Cempaka", "Pondok Kelapo", "Pondok Pindang Sarinande Jambi" ]
+  }, {
+    "name" : "Gumpung Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Muara Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gedong Temple", "Gentala Arasy Pedestrian Bridge", "Muaro Jambi Temple Complex", "Kofeluv", "Gedong Temple", "Lake Kaco" ],
+    "eatery_nearby" : [ "Pempek Selamat", "Dine & Chat", "Pondok Kelapo" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ampera Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "536",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl Sultan Mahmud Badarudin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Great Mosque of Palembang", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Monpera", "Kemaro Island", "Great Mosque of Palembang", "Benteng Kuto Besak", "Palembang Icon" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Great Mosque of Palembang",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "144",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. Jendral Sudirman no 1 Kel 19 Ilir, Kec Bukit Kecil"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ki Merogan Mosque", "Ampera Bridge", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Ampera Bridge", "Kemaro Island", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Kemaro Island",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "188",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kambang Iwak", "Obyek Wisata Bukit Siguntang", "Ampera Bridge", "Benteng Kuto Besak", "Kambang Iwak", "Great Mosque of Palembang" ],
+    "eatery_nearby" : [ "Restoran Jade Garden", "Bukit Golf Resto & Cafe", "Lo Mie Taksam  " ]
+  }, {
+    "name" : "Benteng Kuto Besak",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "147",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Musi River Side"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Al-Qur'an Al-Akbar", "Ampera Bridge", "Great Mosque of Palembang", "Monpera", "Ampera Bridge", "Kemaro Island", "Great Mosque of Palembang", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Jakabaring Sport Complex",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "42",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. Gubernur Hasan Bastari"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sports Complexes", "Fun & Games" ],
+    "attraction_nearby" : [ "Kemaro Island", "Kambang Iwak", "Ampera Bridge", "Palembang Icon" ],
+    "eatery_nearby" : [ "River Side Restaurant", "Pempek Saga Sudi Mampir", "Mie Terang Bulan" ]
+  }, {
+    "name" : "Kambang Iwak",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "81",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Tasik"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "State Parks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kemaro Island", "Obyek Wisata Bukit Siguntang", "Kemaro Island", "Palembang Icon", "Ampera Bridge", "Benteng Kuto Besak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Mie Celor 26 Ilir H Syafe'i", "Pagi Sore" ]
+  }, {
+    "name" : "Palembang Icon",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. PON IX"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Palembang Indah mall", "Palembang Trade Center (PTC)", "Pasar 16 Ilir", "Ampera Bridge", "Kemaro Island", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Mie Celor 26 Ilir H Syafe'i", "Pempek Beringin, Palembang", "Pempek Candy" ]
+  }, {
+    "name" : "Al-Qur'an Al-Akbar",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "31",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. M Amin Fauzi, Soak Bujang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Benteng Kuto Besak", "Ampera Bridge", "Great Mosque of Palembang", "Monpera", "Benteng Kuto Besak", "Kemaro Island", "Ampera Bridge", "Great Mosque of Palembang" ],
+    "eatery_nearby" : [ "Mie Celor 26 Ilir H Syafe'i", "Rumah Makan Pindang Musi Rawas", "Pindang Meranjat Ibu Ucha" ]
+  }, {
+    "name" : "Monpera",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "54",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Beside the entrance to the Ampera Bridge"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampera Bridge", "Great Mosque of Palembang", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Kemaro Island", "Al-Qur'an Al-Akbar", "Ampera Bridge", "Benteng Kuto Besak" ],
+    "eatery_nearby" : [ "Restoran Jade Garden", "Bukit Golf Resto & Cafe", "Lo Mie Taksam  " ]
+  }, {
+    "name" : "Museum Sultan Mahmud Badaruddin II",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "39",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Sultan Mahmud Badaruddin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Balaputradewa", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Kemaro Island", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Obyek Wisata Bukit Siguntang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "23",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Ilir Barat I, Bukit Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gardens", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kemaro Island", "Kambang Iwak", "Kemaro Island", "Al-Qur'an Al-Akbar", "Kambang Iwak", "Benteng Kuto Besak" ],
+    "eatery_nearby" : [ "River Side Restaurant", "Pempek Saga Sudi Mampir", "Mie Terang Bulan" ]
+  }, {
+    "name" : "Amanzi Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Boulevard Copacabana"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Kambang Iwak", "Kemaro Island", "Palembang Icon", "Al-Qur'an Al-Akbar" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Palembang Square Mall, Kota Palembang, Sumatera Selatan",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "18",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Angkatan 45"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Icon", "Palembang Indah mall", "Palembang Trade Center (PTC)", "Pasar 16 Ilir", "Palembang Icon", "Palembang Indah mall", "Pasar Cinde", "Palembang Trade Center (PTC)" ],
+    "eatery_nearby" : [ "Pempek Beringin, Palembang", "Pempek Candy", "Martabak HAR" ]
+  }, {
+    "name" : "Palembang Indah mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "11",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. Letnan Kolonel Iskandar No.18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Icon", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Palembang Trade Center (PTC)", "Pasar 16 Ilir", "Palembang Icon", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Ampera Bridge", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Mie Celor 26 Ilir H Syafe'i", "Pagi Sore" ]
+  }, {
+    "name" : "Museum Balaputradewa",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Km. 5 5 Jln. Sriwijaya I 288"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Sultan Mahmud Badaruddin II", "Kemaro Island", "Al-Qur'an Al-Akbar", "Benteng Kuto Besak", "Museum Sultan Mahmud Badaruddin II" ],
+    "eatery_nearby" : [ "Pempek Beringin, Palembang", "Pempek Candy", "Martabak HAR" ]
+  }, {
+    "name" : "Pasar Cinde",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Icon", "Palembang Trade Center (PTC)", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Palembang Indah mall", "Palembang Icon", "Kemaro Island", "Palembang Trade Center (PTC)", "Ampera Bridge" ],
+    "eatery_nearby" : [ "Pempek Beringin, Palembang", "Pempek Candy", "Martabak HAR" ]
+  }, {
+    "name" : "Ki Merogan Mosque",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "At the mouth of the Ogan River"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampera Bridge", "Great Mosque of Palembang", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Al-Qur'an Al-Akbar", "Great Mosque of Palembang", "Ampera Bridge", "Palembang Icon" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "An-Nur Grand Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "117",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "HS Soeman Library", "Mall Ska Pekanbaru", "Mall Ciputra Seraya", "Alam Mayang" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "HS Soeman Library",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "84",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Jenderal Sudirman no. 462"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Libraries", "Traveler Resources" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Mall Ciputra Seraya", "Alam Mayang", "Mall Ska Pekanbaru" ],
+    "eatery_nearby" : [ "Krema Koffie", "Lcheesefactory", "Pitek Lanang Resto Dan Cafe" ]
+  }, {
+    "name" : "Mall Ciputra Seraya",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "60",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Riau no. 58"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 21
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Mall Ska Pekanbaru",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "73",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Sukarno Hatta"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Star City Square", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "An-Nur Grand Mosque", "HS Soeman Library", "Alam Mayang" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "An-Nur Great Mosquea",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "37",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Hang Tuah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Silungkang Art Centre", "Al-Falah Darul Muttaqin Mosque", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "An-Nur Grand Mosque", "HS Soeman Library", "Mall Ska Pekanbaru", "Pekanbaru Great Mosque" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Ketupat Sayur Onen", "Restoran Anom" ]
+  }, {
+    "name" : "Pekanbaru Great Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "26",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Masjid"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Alam Mayang", "An-Nur Great Mosquea", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Kota Buana" ]
+  }, {
+    "name" : "Alam Mayang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "43",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Tangkerang Timur, Kec. Tenayan Raya Jln. Ir. H Juanda"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Theme Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Boombara Waterpark", "Air Mertua Waterfall", "Minas Elephant Training Centre", "HS Soeman Library", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ar-Rahman Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Tri Dharma Dewi Sakti Temple", "An-Nur Great Mosquea", "An-Nur Grand Mosque", "Mall Ska Pekanbaru", "HS Soeman Library", "Mall Ciputra Seraya" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pedhes Resto", "RM Puti Buana" ]
+  }, {
+    "name" : "Minas Elephant Training Centre",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Forests", "Other Nature & Parks", "National Parks", "Nature & Parks", "More" ],
+    "attraction_nearby" : [ "Lembah Sari Artificial Lake", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Lembah Sari Artificial Lake", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Silungkang Art Centre",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "20",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl Jend Sudirman 630 C-D-E, Tangkerang Timur, Bukit Raya: Pos Code: 28289"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Minas Elephant Training Centre", "Alam Mayang", "Air Mertua Waterfall", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lembah Sari Artificial Lake",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Rumbai District"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Air Mertua Waterfall", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "An-Nur Grand Mosque" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Van Hollano Bakery", "Uncle K - Mall Ska" ]
+  }, {
+    "name" : "Al-Falah Darul Muttaqin Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Sumatera no. 2"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Great Mosquea", "Silungkang Art Centre", "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Silungkang Art Centre", "Mall Ska Pekanbaru", "An-Nur Grand Mosque", "HS Soeman Library" ],
+    "eatery_nearby" : [ "Rumah Makan Pak Abbas", "Ketupat Sayur Onen", "KlapperPie" ]
+  }, {
+    "name" : "Air Mertua Waterfall",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "10",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Minas Elephant Training Centre", "Lembah Sari Artificial Lake", "Alam Mayang", "Lembah Sari Artificial Lake", "Minas Elephant Training Centre", "Boombara Waterpark" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Boombara Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Raya Pasir Putih Km. 5"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Alam Mayang", "Air Mertua Waterfall", "Alam Mayang", "Minas Elephant Training Centre", "Lembah Sari Artificial Lake" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sadira Plaza",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jln. Riau no. 147"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Rumah Makan Bahagia" ]
+  }, {
+    "name" : "Pecinan",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Karet"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Neighborhoods", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "An-Nur Great Mosquea", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "Tri Dharma Dewi Sakti Temple", "Naga Line", "Tangor Market", "Pasar Wisata" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Rumah Makan Pak Abbas", "Ketupat Sayur Onen" ]
+  }, {
+    "name" : "Score! Pekanbaru",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Tengku Zainal Abidin no 1"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Rumah Durian Radit", "Tangor Market", "Kodim Market", "Air Mertua Waterfall", "Alam Mayang", "Mall Ska Pekanbaru", "Boombara Waterpark" ],
+    "eatery_nearby" : [ "Rumah Makan Kota Buana", "Bread Boutique", "Sate Bundo Kanduang" ]
+  }, {
+    "name" : "Star City Square",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jalan Jenderal Sudirman no 426"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Wisata", "The Central Plaza", "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Sadira Plaza", "The Central Plaza" ],
+    "eatery_nearby" : [ "Sushi Tei Pekanbaru", "Rumah Makan Serba Nikmat", "Krema Koffie" ]
+  }, {
+    "name" : "Pasar Wisata",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "4",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Pasar Bawah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "The Central Plaza", "Sungai Juling Market", "Kodim Market", "Tangor Market", "Rotan Riau" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Pondok Patin H.M. Yunus", "Rumah Makan Pak Abbas" ]
+  }, {
+    "name" : "The Central Plaza",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Ahmad Yani"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Star City Square", "Pasar Wisata", "Kodim Market", "Pasar Wisata", "Tri Dharma Dewi Sakti Temple", "Rumah Durian Radit" ],
+    "eatery_nearby" : [ "Pempek & Es Palembang 628 Tini", "Rumah Makan Kota Buana", "Bread Boutique" ]
+  }, {
+    "name" : "Tri Dharma Dewi Sakti Temple",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Bakti"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "An-Nur Grand Mosque", "Pekanbaru Great Mosque", "Ar-Rahman Mosque", "An-Nur Great Mosquea", "Pecinan", "The Central Mall", "The Central Plaza", "Kodim Market" ],
+    "eatery_nearby" : [ "RM Pondok Gurih", "Van Hollano Bakery", "Kimteng" ]
+  }, {
+    "name" : "Tangor Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Antique Stores", "Farmers Markets", "Shopping", "Food & Drink" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Sungai Juling Market", "Kodim Market", "Pasar Wisata", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Sungai Juling Market",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Mall Ciputra Seraya", "Mall Ska Pekanbaru", "Pasar Bawah", "Mal Pekanbaru", "Tangor Market", "Pasar Wisata", "Kodim Market", "Pecinan" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Naga Line",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Riau Province",
+      "city" : "Pekanbaru",
+      "address" : "Jl. Yos Sudarso no. 28-A"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ferries", "Transportation" ],
+    "attraction_nearby" : [ "Trans Metro Pekanbaru", "Pecinan", "Kodim Market", "Tangor Market" ],
+    "eatery_nearby" : [ "Kedai Kopi KimTeng", "Rumah Makan Serba Nikmat", "Ayam Goreng Ny Suharti" ]
+  }, {
+    "name" : "Mount Kerinci",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "70",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jl. Kayu Aro"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Mountains", "Nature & Parks" ],
+    "attraction_nearby" : [ "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Lake Kaco", "Muaro Jambi Temple Complex", "Seven Mountain Lake", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Muaro Jambi Temple Complex",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "83",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "26 kms from Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Gedong Temple", "Gumpung Temple", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Mount Kerinci", "Lake Kaco", "Berhala Island", "Gentala Arasy Pedestrian Bridge" ],
+    "eatery_nearby" : [ "Pempek Selamat", "RM. Aroma Cempaka", "Dine & Chat" ]
+  }, {
+    "name" : "Agung Al Falah Mosque",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "41",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Along the river front Central Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Gedong Temple", "Muaro Jambi Temple Complex", "Mount Kerinci", "Gentala Arasy Pedestrian Bridge", "Lake Kaco" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gentala Arasy Pedestrian Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "24",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Tower", "Gedong Temple", "Muaro Jambi Temple Complex", "Mount Kerinci", "Agung Al Falah Mosque", "Lake Kaco" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gentala Arasy Tower",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "14",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Points of Interest & Landmarks", "Museums", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gedong Temple", "Lake Kaco", "Gentala Arasy Pedestrian Bridge", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Batanghari River",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "23",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Mount Kerinci", "Berhala Island", "Lake Kaco", "Gentala Arasy Pedestrian Bridge" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Seven Mountain Lake",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Waterfalls", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Berhala Island", "Lake Kaco", "Lake Kaco", "Mount Kerinci", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Berhala Island",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "6",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Tanjung Jabung Timur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Lake Kaco", "Lake Kaco", "Seven Mountain Lake", "Mount Kerinci", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Lake Kaco",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "5",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Mount Kerinci", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Mall WTC Batanghari",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jl. Sultan Thaha no. 17"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Department Stores", "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Kofeluv", "Lake Kaco", "Mount Kerinci", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ "Pempek Selamat", "RM. Aroma Cempaka", "Dine & Chat" ]
+  }, {
+    "name" : "Hot Spring Gao Semurup",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "9",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Hot Springs & Geysers", "Nature & Parks" ],
+    "attraction_nearby" : [ "Mount Kerinci", "Batanghari River", "Seven Mountain Lake", "Berhala Island", "Lake Kaco", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Gedong Temple",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "3",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Muaro Jambi Temple Complex", "Lake Kaco", "Seven Mountain Lake", "Berhala Island" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kayu Aro Tea Plantation",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "1",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Farms", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gentala Arasy Pedestrian Bridge", "Gentala Arasy Tower", "Lake Kaco", "Seven Mountain Lake", "Berhala Island", "Muaro Jambi Temple Complex" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Kofeluv",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "Kofeluv is a neighborhood specialty coffee shop located in the heart of Talang Banjar, Jambi, Indonesia. We offer simple, honest, fresh selections of coffee beans and food made from local ingredients. Customer can come and enjoy popular Arabica/Robusta Indonesian coffee with many extraction techniques. Our cozy and friendly atmosphere ensures our customers to have a pleasant coffee moment in our shop. In addition, we offer group meeting facility with free access to our high speed wi-fi. Kofeluv opens its doors to family, group lunch as well as dinner. Come and enjoy the most important drink of the day as we carefully pair our coffee with sweet or savory dish that is fresh made to order.",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Jalan GR. Djamin Datuk Bagindo no. 56C"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Other Food & Drink", "Food & Drink" ],
+    "attraction_nearby" : [ "Gumpung Temple", "Muaro Jambi Temple Complex", "Lake Kaco", "Berhala Island" ],
+    "eatery_nearby" : [ "RM. Aroma Cempaka", "Pondok Kelapo", "Pondok Pindang Sarinande Jambi" ]
+  }, {
+    "name" : "Gumpung Temple",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Jambi Province",
+      "city" : "Jambi",
+      "address" : "Muara Jambi"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Ancient Ruins", "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Muaro Jambi Temple Complex", "Agung Al Falah Mosque", "Gedong Temple", "Gentala Arasy Pedestrian Bridge", "Muaro Jambi Temple Complex", "Kofeluv", "Gedong Temple", "Lake Kaco" ],
+    "eatery_nearby" : [ "Pempek Selamat", "Dine & Chat", "Pondok Kelapo" ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Ampera Bridge",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "536",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl Sultan Mahmud Badarudin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Bridges", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Great Mosque of Palembang", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Monpera", "Kemaro Island", "Great Mosque of Palembang", "Benteng Kuto Besak", "Palembang Icon" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Great Mosque of Palembang",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "144",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. Jendral Sudirman no 1 Kel 19 Ilir, Kec Bukit Kecil"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ki Merogan Mosque", "Ampera Bridge", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Ampera Bridge", "Kemaro Island", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Kemaro Island",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "188",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kambang Iwak", "Obyek Wisata Bukit Siguntang", "Ampera Bridge", "Benteng Kuto Besak", "Kambang Iwak", "Great Mosque of Palembang" ],
+    "eatery_nearby" : [ "Restoran Jade Garden", "Bukit Golf Resto & Cafe", "Lo Mie Taksam  " ]
+  }, {
+    "name" : "Benteng Kuto Besak",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "147",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Musi River Side"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Al-Qur'an Al-Akbar", "Ampera Bridge", "Great Mosque of Palembang", "Monpera", "Ampera Bridge", "Kemaro Island", "Great Mosque of Palembang", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Jakabaring Sport Complex",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "42",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. Gubernur Hasan Bastari"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sports Complexes", "Fun & Games" ],
+    "attraction_nearby" : [ "Kemaro Island", "Kambang Iwak", "Ampera Bridge", "Palembang Icon" ],
+    "eatery_nearby" : [ "River Side Restaurant", "Pempek Saga Sudi Mampir", "Mie Terang Bulan" ]
+  }, {
+    "name" : "Kambang Iwak",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "81",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Tasik"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "State Parks", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kemaro Island", "Obyek Wisata Bukit Siguntang", "Kemaro Island", "Palembang Icon", "Ampera Bridge", "Benteng Kuto Besak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Mie Celor 26 Ilir H Syafe'i", "Pagi Sore" ]
+  }, {
+    "name" : "Palembang Icon",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "34",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. PON IX"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Palembang Indah mall", "Palembang Trade Center (PTC)", "Pasar 16 Ilir", "Ampera Bridge", "Kemaro Island", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Mie Celor 26 Ilir H Syafe'i", "Pempek Beringin, Palembang", "Pempek Candy" ]
+  }, {
+    "name" : "Al-Qur'an Al-Akbar",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "31",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. M Amin Fauzi, Soak Bujang"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Points of Interest & Landmarks", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Benteng Kuto Besak", "Ampera Bridge", "Great Mosque of Palembang", "Monpera", "Benteng Kuto Besak", "Kemaro Island", "Ampera Bridge", "Great Mosque of Palembang" ],
+    "eatery_nearby" : [ "Mie Celor 26 Ilir H Syafe'i", "Rumah Makan Pindang Musi Rawas", "Pindang Meranjat Ibu Ucha" ]
+  }, {
+    "name" : "Monpera",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "54",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Beside the entrance to the Ampera Bridge"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampera Bridge", "Great Mosque of Palembang", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Kemaro Island", "Al-Qur'an Al-Akbar", "Ampera Bridge", "Benteng Kuto Besak" ],
+    "eatery_nearby" : [ "Restoran Jade Garden", "Bukit Golf Resto & Cafe", "Lo Mie Taksam  " ]
+  }, {
+    "name" : "Museum Sultan Mahmud Badaruddin II",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "39",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Sultan Mahmud Badaruddin"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Balaputradewa", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Kemaro Island", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Pagi Sore", "River Side Restaurant" ]
+  }, {
+    "name" : "Obyek Wisata Bukit Siguntang",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "23",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Ilir Barat I, Bukit Lama"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Gardens", "Nature & Parks" ],
+    "attraction_nearby" : [ "Kemaro Island", "Kambang Iwak", "Kemaro Island", "Al-Qur'an Al-Akbar", "Kambang Iwak", "Benteng Kuto Besak" ],
+    "eatery_nearby" : [ "River Side Restaurant", "Pempek Saga Sudi Mampir", "Mie Terang Bulan" ]
+  }, {
+    "name" : "Amanzi Waterpark",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "17",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Boulevard Copacabana"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Water Parks", "Water & Amusement Parks" ],
+    "attraction_nearby" : [ "Kambang Iwak", "Kemaro Island", "Palembang Icon", "Al-Qur'an Al-Akbar" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Palembang Square Mall, Kota Palembang, Sumatera Selatan",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "18",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Angkatan 45"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Icon", "Palembang Indah mall", "Palembang Trade Center (PTC)", "Pasar 16 Ilir", "Palembang Icon", "Palembang Indah mall", "Pasar Cinde", "Palembang Trade Center (PTC)" ],
+    "eatery_nearby" : [ "Pempek Beringin, Palembang", "Pempek Candy", "Martabak HAR" ]
+  }, {
+    "name" : "Palembang Indah mall",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "11",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jl. Letnan Kolonel Iskandar No.18"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Shopping Malls", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Icon", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Palembang Trade Center (PTC)", "Pasar 16 Ilir", "Palembang Icon", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Ampera Bridge", "Kambang Iwak" ],
+    "eatery_nearby" : [ "Pempek & Es Kacang Vico", "Mie Celor 26 Ilir H Syafe'i", "Pagi Sore" ]
+  }, {
+    "name" : "Museum Balaputradewa",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "8",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Km. 5 5 Jln. Sriwijaya I 288"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "History Museums", "Museums" ],
+    "attraction_nearby" : [ "Museum Sultan Mahmud Badaruddin II", "Kemaro Island", "Al-Qur'an Al-Akbar", "Benteng Kuto Besak", "Museum Sultan Mahmud Badaruddin II" ],
+    "eatery_nearby" : [ "Pempek Beringin, Palembang", "Pempek Candy", "Martabak HAR" ]
+  }, {
+    "name" : "Pasar Cinde",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "Jln. Jenderal Sudirman"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Flea & Street Markets", "Shopping" ],
+    "attraction_nearby" : [ "Palembang Icon", "Palembang Trade Center (PTC)", "Palembang Square Mall, Kota Palembang, Sumatera Selatan", "Palembang Indah mall", "Palembang Icon", "Kemaro Island", "Palembang Trade Center (PTC)", "Ampera Bridge" ],
+    "eatery_nearby" : [ "Pempek Beringin, Palembang", "Pempek Candy", "Martabak HAR" ]
+  }, {
+    "name" : "Ki Merogan Mosque",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "South Sumatra",
+      "city" : "Palembang",
+      "address" : "At the mouth of the Ogan River"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Sacred & Religious Sites", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Ampera Bridge", "Great Mosque of Palembang", "Benteng Kuto Besak", "Al-Qur'an Al-Akbar", "Al-Qur'an Al-Akbar", "Great Mosque of Palembang", "Ampera Bridge", "Palembang Icon" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "",
+    "type" : "attraction",
+    "rate" : "",
+    "review" : "",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "",
+      "city" : "",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ ],
+    "attraction_nearby" : [ ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Fort Marlborough",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "138",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jl. Kampung Cina"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Architectural Buildings", "Castles", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Thomas Parr Monument", "The British Cemetery", "Panjang Beach", "Rumah Pengasingan Bung Karno", "Enggano Island", "Linau Bintuhan Beach" ],
+    "eatery_nearby" : [ "Rumah Makan Roda", "Rumah Makan Nusantara Indah", "Rumah Makan Pondok Selero" ]
+  }, {
+    "name" : "Panjang Beach",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "119",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jln. Pantai Indah"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Linau Bintuhan Beach", "Pantai Sungai Suci", "Laguna Beach", "Enggano Island", "Fort Marlborough", "Linau Bintuhan Beach", "Enggano Island", "Rumah Pengasingan Bung Karno" ],
+    "eatery_nearby" : [ "Mi Pangsit Buffet Tris", "Pindang 77", "Rumah Makan Gading Cempaka" ]
+  }, {
+    "name" : "Rumah Pengasingan Bung Karno",
+    "type" : "attraction",
+    "rate" : "4.0",
+    "review" : "70",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jln. Soekarno Hatta"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "Museums" ],
+    "attraction_nearby" : [ "Rumah Ibu Fatmawati Soekarno", "Fort Marlborough", "Panjang Beach", "Enggano Island", "Rumah Ibu Fatmawati Soekarno" ],
+    "eatery_nearby" : [ "Rumah Makan Gading Cempaka", "Mi Pangsit Buffet Tris", "Rumah Makan Semalam Suntuk" ]
+  }, {
+    "name" : "Rumah Ibu Fatmawati Soekarno",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "19",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jln. Fatmawati 10"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Specialty Museums", "History Museums", "Museums" ],
+    "attraction_nearby" : [ "Rumah Pengasingan Bung Karno", "Rumah Pengasingan Bung Karno", "Fort Marlborough", "Panjang Beach", "Enggano Island" ],
+    "eatery_nearby" : [ "Mi Pangsit Buffet Tris", "Rumah Makan Gading Cempaka", "Junior Cafe" ]
+  }, {
+    "name" : "Linau Bintuhan Beach",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "11",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jl. Lintas Barat, Kaur"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Panjang Beach", "Enggano Island", "Dendam Tak Sudah Lake", "Pantai Sungai Suci", "Enggano Island", "Fort Marlborough", "Panjang Beach", "Laguna Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "Enggano Island",
+    "type" : "attraction",
+    "rate" : "4.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jln. Enggano"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Islands", "Nature & Parks" ],
+    "attraction_nearby" : [ "Panjang Beach", "Linau Bintuhan Beach", "Dendam Tak Sudah Lake", "Pantai Sungai Suci", "Linau Bintuhan Beach", "Fort Marlborough", "Panjang Beach", "Rumah Pengasingan Bung Karno" ],
+    "eatery_nearby" : [ "Pondok Sate Madura Pak Liha Sari Segoro", "Kabayan Restaurant", "Waroeng Kupi Rumoh Atjeh" ]
+  }, {
+    "name" : "Dendam Tak Sudah Lake",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jalan Danau"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Nature & Wildlife Areas", "Bodies of Water", "Nature & Parks" ],
+    "attraction_nearby" : [ "Panjang Beach", "Linau Bintuhan Beach", "Enggano Island", "Pantai Sungai Suci", "Enggano Island", "Fort Marlborough", "Panjang Beach", "Linau Bintuhan Beach" ],
+    "eatery_nearby" : [ "Pempek Palembang Dwili", "Rumah Makan Paris", "Pempek Cek Toni" ]
+  }, {
+    "name" : "Thomas Parr Monument",
+    "type" : "attraction",
+    "rate" : "3.0",
+    "review" : "25",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Ahmad Yani street"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Monuments & Statues", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fort Marlborough", "The British Cemetery", "Fort Marlborough", "The British Cemetery", "Panjang Beach", "Rumah Pengasingan Bung Karno" ],
+    "eatery_nearby" : [ "Rumah Makan Pondok Selero", "Bencoolen Coffee House", "Rumah Makan Nusantara Indah" ]
+  }, {
+    "name" : "Pantai Sungai Suci",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "7",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : ""
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Outdoor Activities", "Nature & Parks" ],
+    "attraction_nearby" : [ "Panjang Beach", "Linau Bintuhan Beach", "Enggano Island", "Dendam Tak Sudah Lake", "Enggano Island", "Linau Bintuhan Beach", "Fort Marlborough", "Panjang Beach" ],
+    "eatery_nearby" : [ ]
+  }, {
+    "name" : "The British Cemetery",
+    "type" : "attraction",
+    "rate" : "3.5",
+    "review" : "13",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jln. Veteran"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Cemeteries", "Sights & Landmarks" ],
+    "attraction_nearby" : [ "Fort Marlborough", "Thomas Parr Monument", "Fort Marlborough", "Stamford Raffles Palace", "Thomas Parr Monument", "Panjang Beach" ],
+    "eatery_nearby" : [ "Rumah Makan Pondok Selero", "Bencoolen Coffee House", "Waroeng Kupi Rumoh Atjeh" ]
+  }, {
+    "name" : "Laguna Beach",
+    "type" : "attraction",
+    "rate" : "5.0",
+    "review" : "2",
+    "description" : "",
+    "location" : [ {
+      "island" : "Sumatra",
+      "province" : "Bengkulu Province",
+      "city" : "Bengkulu",
+      "address" : "Jl. Lintas Barat Lampung Bengkulu"
+    } ],
+    "time" : [ {
+      "open" : 10,
+      "close" : 17
+    } ],
+    "categories" : [ "Beaches", "Nature & Parks", "Outdoor Activities" ],
+    "attraction_nearby" : [ "Panjang Beach", "Linau Bintuhan Beach", "Pantai Sungai Suci", "Enggano Island", "Linau Bintuhan Beach", "Panjang Beach", "Enggano Island", "Stamford Raffles Palace" ],
+    "eatery_nearby" : [ ]
+  } ]
+}
