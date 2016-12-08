@@ -1,0 +1,33 @@
+{"KFC": [
+    {
+        "location":
+            {
+              "island" : "West Nusa Tenggara",
+              "province" : "Lombok",
+              "city" : "Mataram",
+              "address" : "Jl. AA Gede Ngurah, Mataram Jl. AA Gede Ngurah, Mataram"
+            }, 
+        "index": 5
+    },
+    {
+        "location":
+            {
+              "island" : "West Nusa Tenggaadasdra",
+              "province" : "Lombok",
+              "city" : "Mataram",
+              "address" : "Jl. AA Gede Ngurah, Mataram Jl. AA Gede Ngurah, Mataram"
+            }, 
+        "index": 5
+    },
+    {
+        "location":
+            {
+              "island" : "West Nusa Tenggara",
+              "province" : "Lombok",
+              "city" : "Mataram",
+              "address" : "Jl. AA Gede Ngurah, Mataram Jl. AA Gede Ngurah, Mataram"
+            }, 
+        "index": 5
+    }
+
+]}
