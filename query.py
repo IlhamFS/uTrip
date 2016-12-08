@@ -7,6 +7,9 @@ import settings
 # input : String location, List of String categories, integer start_hour, integer end_hour
 # output: dictionary of array index places, keys String category
 def get_query_result(location, categories, start_hour, end_hour):
+    start_hour = int(start_hour)
+    end_hour = int(end_hour)
+    # print start_hour + " " + end_hour
     results = {};
     for category in categories:
         result_places = []
@@ -15,6 +18,7 @@ def get_query_result(location, categories, start_hour, end_hour):
             query_places = settings.provinces_dict[location]
         else:
             query_places = settings.cities_dict[location]
+
         id_places = list(set(query_places) & set(query_category))
         for id_place in id_places:
             place = settings.places[id_place]
@@ -23,4 +27,8 @@ def get_query_result(location, categories, start_hour, end_hour):
             if not (start_hour >= close_time or end_hour <= open_time):
                 result_places.append(id_place)
         results[category] = result_places
+
+        # print "IKI RESULT DEK :"
+        # print results
+        # print " \n\n"
     return results;

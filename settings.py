@@ -5,6 +5,7 @@
 import json
 import os
 
+
 def create_index_location(place, idx):
     # update index location: province
     province = place["location"][0]["province"]
@@ -96,9 +97,9 @@ def read_json(filename, type):
                 idx += 1
 
 # run this at the beginning in main program
-def init_build(): 
-    # define global variable 
-    global places 
+def init_build():
+    # define global variable
+    global places
     global categories_dict
     global cities_dict
     global provinces_dict
