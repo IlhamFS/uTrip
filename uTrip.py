@@ -55,6 +55,7 @@ def search():
 @app.route('/itinerary', methods=['POST'])
 def itinerary():
     par = json.loads(request.form['json_str'])
+    # ambil recommendation attraction dan resto dari setiap par
 
     data = session['search_result']
     ot = session['open_time']

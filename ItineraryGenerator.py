@@ -141,7 +141,9 @@ def get_nearby_resto(data_json, place):
   restos = []
   restos_no_add = []
   resto_array = data_json[place]['resto']
-  #print resto_array
+  print place
+  print data_json
+  print resto_array
   city = data_json[place]['city']
 
   resto_hash = settings.name_ids
@@ -167,7 +169,7 @@ def get_nearby_resto(data_json, place):
 
 #mengganti json itinerary dengan yang sudah ada rekomendasi restorannya
 def resto_recommendation(data_json, itin, time, idx):
-  if not (itin == []):
+  if not (itin == []) and not (idx == -1) :
     (i, type) = get_nearby_resto(data_json, itin[idx]['name'])
     if not (i == []):
       if type == 1:
@@ -180,16 +182,51 @@ def resto_recommendation(data_json, itin, time, idx):
         itin[idx]['address'] = i['address']
   return itin
 
+
+
 #cari index waktu di itinerary yang pas buat makan pagi, siang, malam
 def index_for_resto(sortedDict, time):
   jam_pagi = "8.00-9.00"
   jam_siang = "12.00-13.00"
   jam_malam = "18.00-19.00"
+  pagi = siang = malam = -1
+  t_pagi = t_siang = t_malam = ""
+
+  def find_place(SD, idx):
+    result = ""
+    result_2 = idx
+
+    if (SD[idx] != "-"):
+      if ((idx-1)>=0 and SD[idx-1]!= "-"):
+        result = SD[idx-1]
+      elif ((idx+1)<len(SD) and SD[idx+1]!= "-"):
+        result = SD[idx+1]
+      else:
+        result_2 = -1
+    else:
+      if (SD.count(SD[idx]) > 1):
+        result = SD[idx]
+
+    return (result, result_2)
+
+
+  if jam_pagi in time:
+    pagi = time.index(jam_pagi)
+    (t_pagi, pagi)= find_place(sortedDict, pagi)
+  
+  if jam_siang in time:
+    siang = time.index(jam_siang)
+    (t_siang, siang)= find_place(sortedDict, siang)
+
+  if jam_malam in time:
+    malam = time.index(jam_malam)
+    (t_malam, malam)= find_place(sortedDict, malam)
+
 
   #cek di slot ime ada apa ngk
   #cari indexnya
 
-  return (0, 0, 0)
+  return ([pagi, t_pagi], [siang, t_siang], [malam, t_malam])
 
 #reduksi table
 def table_reduction(data_json):
@@ -212,7 +249,6 @@ def table_reduction(data_json):
   return data_json_baru
 
 
-
 #main
 def generate_itinerary(open_time, close_time, data_json, data):
   #buat range waktu
@@ -228,6 +264,7 @@ def generate_itinerary(open_time, close_time, data_json, data):
   #bikin lokasi jadi char
   char_loc = {}
   char_array_time = {}
+  #print data_json
   for idx,i in enumerate(data):
     char_loc[chr(idx+97)] = i
     char_array_time[chr(idx+97)] = create_time_slot(data_json[i]['time'], time)
@@ -240,16 +277,34 @@ def generate_itinerary(open_time, close_time, data_json, data):
 
   #sort, ambil yang terbaik
   sortedDict = sorted(result, cmp=comparator)
-  (pagi, siang, malam) = index_for_resto(sortedDict, time)
+
+  #olah rekomendasi resto
+  (pagi, siang, malam) = index_for_resto(sortedDict[0], time)
+  s = list(sortedDict[0])
+  if (pagi[0] != -1):
+    s[pagi[0]] = pagi[1]
+  if (siang[0] != -1):
+    s[siang[0]] = siang[1]
+  if (malam[0] != -1):
+    s[malam[0]] = malam[1]
+  sortedDict[0] = "".join(s)
+
+  #buang yang kosong di awal
+  x = 0
+  count = 0
+  while sortedDict[0][x] == "-":
+    count += 1
+    x +=1 
+
 
   result_json = string_to_json(sortedDict[0], char_loc, data_json, time)
 
   #rekomendasi pagi
-  #result_json = resto_recommendation(data_json, result_json, time, pagi)
+  result_json = resto_recommendation(data_json, result_json, time, pagi[0]-count)
   #rekomendasi siang
-  #result_json = resto_recommendation(data_json, result_json, time, siang)
+  result_json = resto_recommendation(data_json, result_json, time, siang[0]-count)
   #rekomendai malam
-  #result_json = resto_recommendation(data_json, result_json, time, malam)
+  result_json = resto_recommendation(data_json, result_json, time, malam[0]-count)
 
   #reduksi hasil
   result_json = table_reduction(result_json)
