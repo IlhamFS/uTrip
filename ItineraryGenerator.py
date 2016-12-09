@@ -212,8 +212,6 @@ def index_for_resto(sortedDict, time):
         result_2 = -1
     else:
       if (SD.count(SD[idx]) > 1):
-        print SD
-        print SD[idx]
         result = SD[idx]
       else:
         result_2 = -1
