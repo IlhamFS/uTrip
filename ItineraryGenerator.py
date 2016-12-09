@@ -203,7 +203,7 @@ def index_for_resto(sortedDict, time):
     result = ""
     result_2 = idx
 
-    if (SD[idx] != "-"):
+    if (SD[idx] == "-"):
       if ((idx-1)>=0 and SD[idx-1]!= "-"):
         result = SD[idx-1]
       elif ((idx+1)<len(SD) and SD[idx+1]!= "-"):
@@ -212,7 +212,11 @@ def index_for_resto(sortedDict, time):
         result_2 = -1
     else:
       if (SD.count(SD[idx]) > 1):
+        print SD
+        print SD[idx]
         result = SD[idx]
+      else:
+        result_2 = -1
     return (result, result_2)
 
 
@@ -227,10 +231,6 @@ def index_for_resto(sortedDict, time):
   if jam_malam in time:
     malam = time.index(jam_malam)
     (t_malam, malam)= find_place(sortedDict, malam)
-
-
-  #cek di slot ime ada apa ngk
-  #cari indexnya
 
   return ([pagi, t_pagi], [siang, t_siang], [malam, t_malam])
 
