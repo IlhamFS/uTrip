@@ -2,6 +2,10 @@ import numpy as np
 import re
 import json
 import math
+import settings
+import random
+
+settings.init_build()
 
 #method utk transform bentuk json, bisar jadi hash
 def transform_json(data):
@@ -11,7 +15,7 @@ def transform_json(data):
   for i in data:
     time = str(i['time'][0]['open']) + "-" + str(i['time'][0]['close'])
     address = i['location'][0]['address']+" "+i['location'][0]['city']+" "+i['location'][0]['province']+" "+i['location'][0]['island']
-    result[i['name']] = {'time':time, 'resto':i['eatery_nearby'], 'address': address}
+    result[i['name']] = {'time':time, 'resto':i['eatery_nearby'], 'address': address, 'city': i['location'][0]['city']}
 
   return result
 
@@ -33,7 +37,7 @@ def create_time(open_time, close_time):
     end = start+1
     str_end = str(end)+".00"
 
-  range_time = str_start + " - " + close_time
+  range_time = str_start + "-" + close_time
   time.append(range_time)
 
   return time
@@ -101,7 +105,7 @@ def variasi(word):
 
   return sums
 
-
+#untuk sort dari semua kemungkinan susunan itin
 def comparator(x,y):
   x = x.replace('-','')
   y = y.replace('-','')
@@ -132,6 +136,82 @@ def string_to_json(string, char_loc, data_json, time_slot):
 
   return result
 
+#ambil restoran terdekat
+def get_nearby_resto(data_json, place):
+  restos = []
+  restos_no_add = []
+  resto_array = data_json[place]['resto']
+  #print resto_array
+  city = data_json[place]['city']
+
+  resto_hash = settings.name_ids
+
+  for i in resto_array:
+    try:
+      name_ids = settings.name_ids[i]
+      for j in name_ids:
+        if j['location']['city'] == city:
+          restos.append(j['index'])
+    except:
+      restos_no_add.append(i)
+    
+  if not (restos == []):
+    rand_resto = random.choice(restos)
+    return (settings.places[rand_resto], 1)
+  elif not (restos_no_add == []):
+    rand_resto = random.choice(restos_no_add)
+    return ({'name': rand_resto, 'address': ('near '+ place) }, 2)
+  else:
+    return ([], 0)
+
+
+#mengganti json itinerary dengan yang sudah ada rekomendasi restorannya
+def resto_recommendation(data_json, itin, time, idx):
+  if not (itin == []):
+    (i, type) = get_nearby_resto(data_json, itin[idx]['name'])
+    if not (i == []):
+      if type == 1:
+        itin[idx]['type'] = 'recommendation'
+        itin[idx]['name'] = i['name']
+        itin[idx]['address'] = i['location'][0]['address']+" "+i['location'][0]['city']+" "+i['location'][0]['province']+" "+i['location'][0]['island']
+      else:
+        itin[idx]['type'] = 'recommendation'
+        itin[idx]['name'] = i['name']
+        itin[idx]['address'] = i['address']
+  return itin
+
+#cari index waktu di itinerary yang pas buat makan pagi, siang, malam
+def index_for_resto(sortedDict, time):
+  jam_pagi = "8.00-9.00"
+  jam_siang = "12.00-13.00"
+  jam_malam = "18.00-19.00"
+
+  #cek di slot ime ada apa ngk
+  #cari indexnya
+
+  return (0, 0, 0)
+
+#reduksi table
+def table_reduction(data_json):
+  data_json_baru = []
+  prev = {}
+  for idx,i in enumerate(data_json):
+    if idx > 0:
+      if i['name'] == prev['name']:
+        time_next = i['time'].split('-')
+        time_prev = prev['time'].split('-')
+        prev['time'] = time_prev[0]+'-'+time_next[1]
+      else:
+        data_json_baru.append(prev)
+        prev = i
+    else:
+      prev = i
+  if not (prev == {}):
+    data_json_baru.append(prev)
+
+  return data_json_baru
+
+
 
 #main
 def generate_itinerary(open_time, close_time, data_json, data):
@@ -142,7 +222,6 @@ def generate_itinerary(open_time, close_time, data_json, data):
   data_json = transform_json(data_json)
 
   #cut data jika > n jam, asumsi 1 tempat minimal 1 jam
-  print data
   data = np.array(data)
   data = data[:len(time)]
 
@@ -161,8 +240,20 @@ def generate_itinerary(open_time, close_time, data_json, data):
 
   #sort, ambil yang terbaik
   sortedDict = sorted(result, cmp=comparator)
+  (pagi, siang, malam) = index_for_resto(sortedDict, time)
 
   result_json = string_to_json(sortedDict[0], char_loc, data_json, time)
+
+  #rekomendasi pagi
+  #result_json = resto_recommendation(data_json, result_json, time, pagi)
+  #rekomendasi siang
+  #result_json = resto_recommendation(data_json, result_json, time, siang)
+  #rekomendai malam
+  #result_json = resto_recommendation(data_json, result_json, time, malam)
+
+  #reduksi hasil
+  result_json = table_reduction(result_json)
+
   return result_json
 
 
