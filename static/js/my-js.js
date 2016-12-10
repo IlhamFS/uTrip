@@ -46,7 +46,7 @@ $(function() {
                 end = data_all['close']
 
                 $("#result").empty();
-
+                $(".error").empty();
                 $(data_place_2['places']).each(function() {
                     var $element = $template.clone().removeClass('template').appendTo('#result');
                     $element.find(".title-place").html(this.name);
@@ -56,8 +56,12 @@ $(function() {
                     $element.find(".time-place").html(this.time[0].open + ' - ' + this.time[0].close);
                     $element.find(".check-place").attr('id', this.name);
                 });
+                if(data_place_2['places'].length != 0){
+                    $(".result").show();
+                }else{
+                    $(".error").html("Your destination is not exist in our database :(");
+                }
 
-                $(".result").show();
                 scrollToAnchor('search-engine-container');
             }
         });
