@@ -68,7 +68,8 @@ def create_all_possibilities(cat, time):
     for a in cat:
       if idx in cat[a]:
         for j in result:
-          tmp_result.append(j+a)
+          if not((a in j) and j[len(j)-1]!=a):
+            tmp_result.append(j+a)
 
     if (tmp_result == []):
       for j in result:

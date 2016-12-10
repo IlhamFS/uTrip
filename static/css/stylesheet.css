@@ -368,4 +368,13 @@ body
 		width: 8%;
 	}
 }
-
+#loading
+{
+    background-image: url('../img/box.gif');
+    width: 135px;
+    height: 250px;
+    display: block;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
