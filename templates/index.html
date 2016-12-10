@@ -3,12 +3,14 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>uTrip</title>	
+    <title>uTrip</title>	    
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css"></link>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/stylesheet.css') }}" />
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-1.12.3.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-1.12.3.js') }}"></script>    
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-ui.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/typed.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/my-js.js') }}"></script>
@@ -53,9 +55,7 @@
 						<form>
 							<div class="form-group">
 								<label>Destination</label>
-								<input name="place" id="ajax" type="text" list="json_places" class="form-control destination" placeholder="Jakarta">
-								<datalist id="json_places">
-								</datalist>
+								<input name="place" id="autocomplete" type="text" list="json_places" class="form-control destination" placeholder="Jakarta">
 							</div>
 							<div class="form-group">
 								<label>Things To Do</label>
