@@ -10,6 +10,8 @@ init_build()
 # Application
 app = Flask(__name__)
 
+app.config['SECRET_KEY'] = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
+
 
 @app.route('/')
 def main():
@@ -30,13 +32,14 @@ def search():
     session.pop('close_time', None)
     session.pop('search_result', None)
 
+    if (open_time == ""):
+        open_time = "10.00"
+    if (close_time == ""):
+        close_time = "17.00"
+
     # create session
     session['open_time'] = open_time
     session['close_time'] = close_time
-    if (open_time == ""):
-        session['open_time'] = "10.00"
-    if (close_time == ""):
-        session['close_time'] = "17.00"
 
     # dilanjutkan dengan pencarian kode feti
     query_result = get_query_result(place, categories, open_time, close_time)
@@ -72,7 +75,6 @@ def submit_itinerary():
 
 
 if __name__ == '__main__':
-    app.secret_key = 'super secret key'
     app.config['SESSION_TYPE'] = 'filesystem'
 
     app.run(host='0.0.0.0')
