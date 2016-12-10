@@ -9,41 +9,20 @@ $(function() {
         loop: true
     });
 
-    //load json with ajax
-    var dataList = document.getElementById('json_places');
-    var input = document.getElementById('ajax');
-    // Create a new XMLHttpRequest.
-    var request = new XMLHttpRequest();
-    // Handle state changes for the request.
-    request.onreadystatechange = function(response) {
-        if (request.readyState === 4) {
-            if (request.status === 200) {
-                // Parse the JSON
-                var jsonOptions = JSON.parse(request.responseText);
-                // Loop over the JSON array.
-                jsonOptions.forEach(function(item) {
-                    // Create a new <option> element.
-                    var option = document.createElement('option');
-                    // Set the value using the item in the JSON array.
-                    option.value = item;
-                    // Add the <option> element to the <datalist>.
-                    dataList.appendChild(option);
+    //suggestion
+    $("#autocomplete").autocomplete({
+            source:function(request, response) {
+                $.getJSON('/autocomplete',{
+                    q: request.term, // in flask, "q" will be the argument to look for using request.args
+                }, function(data) {
+                    response(data.matching_results); // matching_results from jsonify
                 });
-
-                // Update the placeholder text.
-                input.placeholder = "Jakarta";
-            } else {
-                // An error occured :(
-                input.placeholder = "Couldn't load datalist options :(";
-            }
+            },
+            minLength: 2,
+            select: function(event, ui) {
+                console.log(ui.item.value); // not in your question, but might help later
         }
-    };
-
-    // Update the placeholder text.
-    input.placeholder = "Loading options...";
-    // Set up and make the request.
-    request.open('GET', 'static/json/places_search.json', true);
-    request.send();
+    });
 
     //show search result
     var $template = $('.template');

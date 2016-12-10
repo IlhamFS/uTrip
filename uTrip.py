@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, session
+from flask import Flask, render_template, request, session, jsonify
 from query_expansion import query_expansion
 from ItineraryGenerator import generate_itinerary
 from query import get_query_result
@@ -71,6 +71,17 @@ def submit_itinerary():
     # olah data nya dulu disini
 
     return render_template('index.html')
+
+
+@app.route('/autocomplete', methods=['GET'])
+def autocomplete():
+    search = request.args.get('q')
+
+    with open('/static/json/places_search.json') as data_file:    
+        data = json.load(data_file)
+
+    results = [x for i, x in enumerate(data) if str(search).lower() in x.lower()]
+    return jsonify(matching_results=results)
 
 
 if __name__ == '__main__':
