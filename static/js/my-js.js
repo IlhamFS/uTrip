@@ -158,7 +158,28 @@ function sendTable() {
         },
         type: 'POST',
         success: function(response) {
-            location.reload();
+            console.log("waiting for download");
+           // var $filepath = "/Users/febriyolaanastasia/workspace/utrip-yeah/uTrip/static/pdf/itenerary.pdf";
+           // console.log($filepath + "ini file path");
+           // var path = full.substr(0,full.lastIndexOf("/") + 1);
+            //e.preventDefault();  //stop the browser from following
+            //window.location.href = '<?php echo $filepath; ?>';
+            //document.location = 'data:Application/octet-stream,' + encodeURIComponent(response);
+
+            //location.reload();
+          // window.location.href = "http://google.com";
+
+//            window.location.replace("/Users/febriyolaanastasia/workspace/utrip-yeah/uTrip/static/pdf/itenerary.pdf");
+
+//window.location.href='data:Application/octet-stream;content-disposition:attachment;filename=/Users/febriyolaanastasia/workspace/utrip-yeah/uTrip/static/pdf/itenerary.pdf'
+ //window.open("/Users/febriyolaanastasia/workspace/utrip-yeah/uTrip/static/pdf/itenerary.pdf","_blank");
+
+//var url='../pdf/itenerary.pdf';    
+            window.open("/Users/febriyolaanastasia/workspace/utrip-yeah/uTrip/static/pdf/itinerary.pdf",'_blank'); 
+
+            setTimeout(function(){
+             location.reload(); 
+         }, 7000);
         }
     });
 }
