@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css"></link>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/stylesheet.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='dist/bootstrap-clockpicker.min.css') }}" />
+
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-1.12.3.js') }}"></script>    
@@ -14,6 +16,7 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/typed.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/my-js.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='dist/bootstrap-clockpicker.min.js') }}"></script>
 
 </head>
 <body>
@@ -54,6 +57,8 @@
 					<div name="search-engine-container" class="search-engine-container container">
                         <p class="error"></p>
                         <form>
+
+
 							<div class="form-group">
 								<label>Destination</label>
 								<input name="place" id="autocomplete" type="text" list="json_places" class="form-control destination" placeholder="Jakarta">
@@ -62,11 +67,13 @@
 								<label>Things To Do</label>
 								<input name="categories" type="text" class="form-control things-todo" placeholder="Shopping">
 							</div>
-							<div class="form-group">
-								<label>From</label> <input name="from" type="text" class="form-control time-interval" placeholder="12.00" pattern="[0-9]{2}\.[0-9]{2}" title="input should be in format: HH.MM, eg: 12.30">
+						  <div class="form-group">
+								<label>From</label>
+                                <input name="from" type="text" class="form-control time-interval" id="from" />
 							</div>
-							<div class="form-group">
-								<label>Until</label> <input name="until" type="text" class="form-control time-interval" placeholder="15.00" pattern="[0-9]{2}\.[0-9]{2}" title="input should be in format: HH.MM, eg: 12.30">
+						 <div class="form-group">
+								<label>Until</label>
+                                <input name="until" type="text" class="form-control time-interval" id="until" />
 							</div>
 							<div class="form-group">
 								<button id="link" class="form-group btn btn-primary" type="button">Search</button>
@@ -192,4 +199,19 @@
 
     </div>-->
 </body>
+    <script type="text/javascript">
+    $('.clockpicker').clockpicker()
+        .find('input').change(function(){
+            // TODO: time changed
+            console.log(this.value);
+        });
+    $('#from').clockpicker({
+        autoclose: true
+    });
+    $('#until').clockpicker({
+        autoclose: true
+    });
+
+
+    </script>
 </html>
