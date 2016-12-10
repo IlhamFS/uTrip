@@ -4,6 +4,8 @@ from ItineraryGenerator import generate_itinerary
 from query import get_query_result
 from settings import json, init_build, get_places
 from sorting import sort_all
+import settings
+import numpy as np
 
 init_build()
 
@@ -76,11 +78,9 @@ def submit_itinerary():
 @app.route('/autocomplete', methods=['GET'])
 def autocomplete():
     search = request.args.get('q')
-
-    with open('/static/json/places_search.json') as data_file:    
-        data = json.load(data_file)
-
-    results = [x for i, x in enumerate(data) if str(search).lower() in x.lower()]
+    data = list(settings.cities_dict) + list(settings.provinces_dict)
+    results = np.array([x for x in data if str(search).lower() in x.lower()])
+    results = list(results[:5])
     return jsonify(matching_results=results)
 
 
