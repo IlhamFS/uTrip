@@ -4,7 +4,11 @@ from ItineraryGenerator import generate_itinerary
 from query import get_query_result
 from settings import json, init_build, get_places
 from sorting import sort_all
+<<<<<<< a40534b6fe46f0d78a5aa3ce9018083fb853b5d8
 from feedback import give_feedback
+=======
+from printPDF import print_pdf
+>>>>>>> download, waiting for abs download path
 import settings
 import numpy as np
 
@@ -58,10 +62,17 @@ def itinerary():
 
 @app.route('/submit_itinerary', methods=['POST'])
 def submit_itinerary():
-    par = request.form['json_str']
+    par = json.loads(request.form['json_str'])
 
-    # olah data nya dulu disini
+    # give_feedback
     give_feedback(par)
+
+    # print pdf
+    try:
+        print_pdf(par) 
+
+    except Exception:
+        pass
 
     return render_template('index.html')
 
