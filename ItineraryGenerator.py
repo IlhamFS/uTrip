@@ -307,7 +307,6 @@ def generate_itinerary(open_time, close_time, data_json, data):
 
   #reduksi hasil
   result_json = table_reduction(result_json)
-  print result_json
 
   return result_json
 
