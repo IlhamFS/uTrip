@@ -68,7 +68,8 @@ def create_all_possibilities(cat, time):
     for a in cat:
       if idx in cat[a]:
         for j in result:
-          tmp_result.append(j+a)
+          if not((a in j) and j[len(j)-1]!=a):
+            tmp_result.append(j+a)
 
     if (tmp_result == []):
       for j in result:
@@ -306,6 +307,7 @@ def generate_itinerary(open_time, close_time, data_json, data):
 
   #reduksi hasil
   result_json = table_reduction(result_json)
+  print result_json
 
   return result_json
 

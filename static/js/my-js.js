@@ -66,6 +66,10 @@ $(function() {
 
     //generate & show itinerary
     $("#link-itinerary").click(function() {
+        $('#myModal').modal();
+        $("#loading").show();
+        $(".modal-body").hide();        
+        $(".modal-footer").hide();
         var values = (function() {
             var a = [];
 
@@ -105,6 +109,10 @@ $(function() {
                         $input.appendTo($element.find(".itinerary-action"));
                     }
                 });
+
+                $(".modal-body").show();            
+                $(".modal-footer").show();
+                $("#loading").hide();
             }
         });
     });
