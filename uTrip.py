@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, session, jsonify
+from flask import Flask, render_template, request, jsonify
 from query_expansion import query_expansion
 from ItineraryGenerator import generate_itinerary
 from query import get_query_result
@@ -16,10 +16,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-    # destroy session
-    session.pop('open_time', None)
-    session.pop('close_time', None)
-    session.pop('search_result', None)
     return render_template('index.html')
 
 
@@ -28,19 +24,10 @@ def search():
     par = request.form['json_str']
     (place, categories, open_time, close_time) = query_expansion(par)
 
-    # destroy session
-    session.pop('open_time', None)
-    session.pop('close_time', None)
-    session.pop('search_result', None)
-
     if (open_time == ""):
         open_time = "10.00"
     if (close_time == ""):
         close_time = "17.00"
-
-    # create session
-    session['open_time'] = open_time
-    session['close_time'] = close_time
 
     # dilanjutkan dengan pencarian kode feti
     query_result = get_query_result(place, categories, open_time, close_time)
@@ -49,8 +36,7 @@ def search():
     sorted_query = sort_all(query_result)
     data = get_places(sorted_query)
 
-    session['search_result'] = data
-    return json.dumps(data)
+    return json.dumps({'data': data, 'open': open_time, 'close': close_time})
 
 
 @app.route('/itinerary', methods=['POST'])
@@ -58,9 +44,9 @@ def itinerary():
     par = json.loads(request.form['json_str'])
     # ambil recommendation attraction dan resto dari setiap par
 
-    data = session['search_result']
-    ot = session['open_time']
-    ct = session['close_time']
+    data = json.loads(request.form['values'])
+    ot = request.form['open']
+    ct = request.form['close']
 
     itin = generate_itinerary(ot, ct, data, par)
     return json.dumps(itin)
@@ -85,7 +71,6 @@ def autocomplete():
 
 
 if __name__ == '__main__':
-    app.config['SESSION_TYPE'] = 'filesystem'  
     app.config['SECRET_KEY'] = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
     app.run(host='0.0.0.0')

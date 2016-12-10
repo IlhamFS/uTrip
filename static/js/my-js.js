@@ -1,4 +1,8 @@
 $(function() {
+    var start = "";
+    var end = "";
+    var data_place = "";
+
     $("#download-itinerary").click(function() {
         sendTable();
     });
@@ -35,11 +39,15 @@ $(function() {
             },
             type: 'POST',
             success: function(response) {
-                var data = $.parseJSON(response);
+                var data_all = $.parseJSON(response);
+                data_place = JSON.stringify(data_all['data'])
+                data_place_2 = data_all['data']
+                start = data_all['open']
+                end = data_all['close']
 
                 $("#result").empty();
 
-                $(data['places']).each(function() {
+                $(data_place_2['places']).each(function() {
                     var $element = $template.clone().removeClass('template').appendTo('#result');
                     $element.find(".title-place").html(this.name);
                     $element.find(".desc-place").html(this.description);
@@ -68,12 +76,12 @@ $(function() {
             return a;
         })();
 
-        console.log(JSON.stringify(values));
+        //console.log(JSON.stringify(values));
 
         $.ajax({
             url: '/itinerary',
             data: {
-                json_str: JSON.stringify(values)
+                json_str: JSON.stringify(values), open: start, close : end, values: data_place
             },
             type: 'POST',
             success: function(response) {
