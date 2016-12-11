@@ -22,19 +22,22 @@ def main():
 @app.route('/search', methods=['POST'])
 def search():
     par = request.form['json_str']
+    par = par.replace("%3A", ".")
     (place, categories, open_time, close_time) = query_expansion(par)
 
     if (open_time == ""):
         open_time = "10.00"
     if (close_time == ""):
         close_time = "17.00"
-
+    if place != "":
     # dilanjutkan dengan pencarian kode feti
-    query_result = get_query_result(place, categories, open_time, close_time)
+        query_result = get_query_result(place, categories, open_time, close_time)
 
-    # olah data nya dulu disini
-    sorted_query = sort_all(query_result)
-    data = get_places(sorted_query)
+        # olah data nya dulu disini
+        sorted_query = sort_all(query_result)
+        data = get_places(sorted_query)
+    else:
+        data = {"places": []}
 
     return json.dumps({'data': data, 'open': open_time, 'close': close_time})
 
