@@ -32,6 +32,15 @@ $(function() {
     var $template = $('.template');
     $("#link").click(function() {
         $(".result").hide();
+        
+        // form validation
+        var pesan = formValidate();
+        if (pesan.length > 1) {
+            $(".error").show();
+            $(".error").html("<strong>Invalid input!</strong> " + pesan);
+            return;
+        }
+
         $.ajax({
             url: '/search',
             data: {
@@ -165,4 +174,43 @@ function removeRecommendation(aid) {
     $("#itinerary-row-" + aid).find(".itinerary-location").empty();
     $("#itinerary-row-" + aid).find(".itinerary-address").empty();
     $("#itinerary-row-" + aid).find(".itinerary-action").empty();
+}
+
+function formValidate() {
+    var errorMsg = "";
+
+    var iplace = $('input[name=place]').val();
+    var icategories = $('input[name=categories]').val();
+    var ifrom = $('input[name=from]').val();
+    var iuntil = $('input[name=until]').val();
+
+    if (iplace.length < 1) {
+        errorMsg += " Where do you want to go?";
+    }
+
+    if (icategories.length < 1) {
+        errorMsg += " What do you want to do?";
+    }
+
+    if (ifrom.length < 1 && iuntil.length < 1) {
+        // use default time
+        $('input[name=from').val("10.00");
+        $('input[name=until]').val("17.00");
+    } else if (ifrom.length < 1){
+        errorMsg += " What time will you start your trip?";
+    } else if (iuntil.length < 1) {
+        errorMsg += " What time will you end your trip?";
+    } else {
+        // validate format
+        var patt = /^[01][0-9]\.[0-9][0-9]$|^2[0-3]\.[0-9][0-9]$/i;
+        var isvalid = patt.test(ifrom);
+        isvalid &= patt.test(iuntil);
+        isvalid &= (iuntil > ifrom);
+
+        if (!isvalid) {
+            errorMsg += " Invalid time or format";
+        }
+    }
+
+    return errorMsg;
 }
