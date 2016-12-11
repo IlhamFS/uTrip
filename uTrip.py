@@ -22,7 +22,7 @@ def main():
 @app.route('/search', methods=['POST'])
 def search():
     par = request.form['json_str']
-    par.replace("%3A", ",")
+    par = par.replace("%3A", ".")
     (place, categories, open_time, close_time) = query_expansion(par)
 
     if (open_time == ""):
