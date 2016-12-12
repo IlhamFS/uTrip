@@ -6,3 +6,5 @@
 #
 Flask
 numpy
+pdfkit
+wkhtmltopdf
