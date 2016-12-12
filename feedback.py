@@ -19,9 +19,8 @@ def update_downloads(pid):
         settings.places[pid]["feedback"] = {"download": 1}
 
 def give_feedback(par):
-    data = json.loads(par)
 
-    for plc in data:
+    for plc in par:
         if settings.name_ids.get(plc["location"]):
             aloc = settings.name_ids[plc["location"]]
             for loc in aloc:
