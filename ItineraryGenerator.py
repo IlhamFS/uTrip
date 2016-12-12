@@ -134,6 +134,7 @@ def string_to_json(string, char_loc, data_json, time_slot):
     if not (i=='-'):
       addr = data_json[char_loc[i]]['address']
       gmaps = ""
+
       if len(addr) != 0:
         if "near"  not in addr: 
           gmaps = "<a href=\"https://www.google.com/maps/dir/here/"+addr+"\">Here</a>"
@@ -178,12 +179,12 @@ def get_nearby_resto(data_json, place, eat_time):
     rand_resto = random.choice(restos)
     i = place_hash[rand_resto]
     j = i['location'][0]
-    resto_json = { 'name' : i['name'], 'address' : (j['address']+" "+j['city']+" "+j['province']+" "+j['island']+", near "+place)}
+    resto_json = { 'name' : i['name'], 'address' : (j['address']+" "+j['city']+" "+j['province']+" "+j['island']+", near "+place), 'direction':''}
     return resto_json
 
   elif not (restos_no_add == []):
     rand_resto = random.choice(restos_no_add)
-    return {'name': rand_resto, 'address': ('near '+ place),}
+    return {'name': rand_resto, 'address': ('near '+ place), 'direction':''}
 
   else:
     return []
@@ -197,6 +198,7 @@ def resto_recommendation(data_json, itin, time, idx, eat_time, itin_place_name):
       itin[idx]['type'] = 'recommendation'
       itin[idx]['name'] = i['name']
       itin[idx]['address'] = i['address'] 
+      itin[idx]['direction'] = ''
   return itin
 
 

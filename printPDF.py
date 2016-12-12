@@ -2,6 +2,9 @@ import pdfkit
 import re
 import json
 import os
+import wkhtmltopdf
+
+
 
 # febriyola
 def print_pdf(data):
@@ -41,10 +44,17 @@ def print_pdf(data):
     'no-outline': None,
     'zoom':'15',
     'orientation': 'Landscape',
+    'quiet':'false'
   }
 
   css = ['static/css/bootstrap.css', 'static/css/stylesheet.css']  
   pdfkit.from_string(appendHtml, 'static/pdf/itinerary.pdf',options=options, css=css)
+
+#   wkhtmltopdf = WKHtmlToPdf(
+#     url='http://www.example.com',
+#     output_file='static/pdf/example.pdf',
+# )
+# wkhtmltopdf.render()
 
 
  # path = os.path.abspath('static/pdf/itenerary')
