@@ -202,15 +202,15 @@ function formValidate() {
 
     if (ifrom.length < 1 && iuntil.length < 1) {
         // use default time
-        $('input[name=from').val("10.00");
-        $('input[name=until]').val("17.00");
+        $('input[name=from').val("10:00");
+        $('input[name=until]').val("17:00");
     } else if (ifrom.length < 1){
         errorMsg += " What time will you start your trip?";
     } else if (iuntil.length < 1) {
         errorMsg += " What time will you end your trip?";
     } else {
         // validate format
-        var patt = /^[01][0-9]\.[0-9][0-9]$|^2[0-3]\.[0-9][0-9]$/i;
+        var patt = /^[01][0-9]:[0-9][0-9]$|^2[0-3]:[0-9][0-9]$/i;
         var isvalid = patt.test(ifrom);
         isvalid &= patt.test(iuntil);
         isvalid &= (iuntil > ifrom);
