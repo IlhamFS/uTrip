@@ -4,6 +4,7 @@ from ItineraryGenerator import generate_itinerary
 from query import get_query_result
 from settings import json, init_build, get_places
 from sorting import sort_all
+from feedback import give_feedback
 import settings
 import numpy as np
 
@@ -60,6 +61,7 @@ def submit_itinerary():
     par = request.form['json_str']
 
     # olah data nya dulu disini
+    give_feedback(par)
 
     return render_template('index.html')
 

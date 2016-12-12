@@ -2,18 +2,30 @@
 # relevance feedback if user download ittenary
 
 import settings
+import json
 
 # input : array of downloaded place id
 # Update sum of download in 
-def update_downloads(places_id):
-    for i in places_id:
-        place = settings.places[i]
-        if place.get("feedback"):
-            cmax = place["feedback"]["download"]
-            cmax += 1
-            settings.places[i]["feedback"]["download"] = cmax
+def update_downloads(pid):
+    place = settings.places[pid]
+    if place.get("feedback"):
+        cmax = place["feedback"]["download"]
+        cmax += 1
+        settings.places[pid]["feedback"]["download"] = cmax
 
-            if cmax > settings.max_download:
-                settings.max_download = cmax
-        else:
-            settings.places[i]["feedback"] = {"download": 1}
+        if cmax > settings.max_download:
+            settings.max_download = cmax
+    else:
+        settings.places[pid]["feedback"] = {"download": 1}
+
+def give_feedback(par):
+    data = json.loads(par)
+
+    for plc in data:
+        if settings.name_ids.get(plc["location"]):
+            aloc = settings.name_ids[plc["location"]]
+            for loc in aloc:
+                ceklocation = loc["location"]["address"]+" "+loc["location"]["city"]+" "+loc["location"]["province"]+" "+loc["location"]["island"]
+                if ceklocation == plc["address"]:
+                    update_downloads(loc["index"])
+
