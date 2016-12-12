@@ -40,13 +40,4 @@ def print_pdf(data):
   css = ['static/css/bootstrap.css', 'static/css/stylesheet.css']  
   pdfkit.from_string(appendHtml, 'static/pdf/itinerary.pdf',options=options, css=css)
 
-#   wkhtmltopdf = WKHtmlToPdf(
-#     url='http://www.example.com',
-#     output_file='static/pdf/example.pdf',
-# )
-# wkhtmltopdf.render()
-
-
- # path = os.path.abspath('static/pdf/itenerary')
-  #print path
   print "done printing"
