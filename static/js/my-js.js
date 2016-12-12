@@ -116,6 +116,7 @@ $(function() {
                     $element.find(".itinerary-time").html(this.time);
                     $element.find(".itinerary-location").html(this.name);
                     $element.find(".itinerary-address").html(this.address);
+                    $element.find(".itinerary-direction").html(this.direction);
 
                     if (this.type == 'recommendation') {
                         var $input = $("<button id='button-close-" + i + "'class='btn btn-danger' style='padding: 0px 5px;' type='button' onclick='removeRecommendation(" + i + ");'><span class='glyphicon glyphicon-remove' aria-hidden='true'></span></button>");
@@ -133,13 +134,13 @@ $(function() {
 });
 
 function sendTable() {
-    var columns = ['time', 'location', 'address'];
+    var columns = ['time', 'location', 'address', 'direction'];
 
     var tableObject = $('#itinerary-result tr').map(function(i) {
         var row = {};
 
         $(this).find('td').each(function(i) {
-            if (i < 3) {
+            if (i < 4) {
                 var rowName = columns[i];
                 row[rowName] = $(this).text();
             }
@@ -159,11 +160,13 @@ function sendTable() {
         type: 'POST',
         success: function(response) {
             console.log("waiting for download");
-            window.open("http://ilhamfathy.me/static/pdf/itinerary.pdf",'_blank'); 
+            //window.open("http://ilhamfathy.me/static/pdf/itinerary.pdf",'_blank'); 
+            window.open("http://google.com",'_blank'); 
+
 
             setTimeout(function(){
              location.reload(); 
-         }, 7000);
+            }, 7000);
         }
     });
 }
