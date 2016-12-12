@@ -28,5 +28,4 @@ def give_feedback(par):
                 ceklocation = loc["location"]["address"]+" "+loc["location"]["city"]+" "+loc["location"]["province"]+" "+loc["location"]["island"]
                 if ceklocation == plc["address"]:
                     update_downloads(loc["index"])
-                    print ("[CHECK] Update " + plc["location"])
-                    # print (settings.places[loc["index"]])
+
