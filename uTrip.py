@@ -5,7 +5,7 @@ from query import get_query_result
 from settings import json, init_build, get_places
 from sorting import sort_all
 from feedback import give_feedback
-from printPDF import print_pdf, create
+from printPDF import create
 #from testPrint import print_pdf, create
 import settings
 import numpy as np
