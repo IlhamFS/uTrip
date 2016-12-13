@@ -160,11 +160,12 @@ function sendTable() {
         type: 'POST',
         success: function(response) {
             console.log("waiting for download");
-            window.open("http://ilhamfathy.me/itinerary.pdf",'_blank'); 
             //window.open("http://google.com",'_blank'); 
 
 
             setTimeout(function(){
+             window.open("http://ilhamfathy.me/static/pdf/itinerary.pdf",'_blank'); 
+
              location.reload(); 
             }, 7000);
         }
