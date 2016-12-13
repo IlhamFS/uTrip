@@ -9,6 +9,7 @@ init_build()
 
 # Application
 app = Flask(__name__)
+app.config['SECRET_KEY'] = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 
 @app.route('/')
@@ -72,7 +73,6 @@ def submit_itinerary():
 
 
 if __name__ == '__main__':
-    app.secret_key = 'super secret key'
     app.config['SESSION_TYPE'] = 'filesystem'
 
     app.run(host='0.0.0.0')
