@@ -1,4 +1,8 @@
 $(function() {
+    var start = "";
+    var end = "";
+    var data_place = "";
+
     $("#download-itinerary").click(function() {
         sendTable();
     });
@@ -9,46 +13,34 @@ $(function() {
         loop: true
     });
 
-    //load json with ajax
-    var dataList = document.getElementById('json_places');
-    var input = document.getElementById('ajax');
-    // Create a new XMLHttpRequest.
-    var request = new XMLHttpRequest();
-    // Handle state changes for the request.
-    request.onreadystatechange = function(response) {
-        if (request.readyState === 4) {
-            if (request.status === 200) {
-                // Parse the JSON
-                var jsonOptions = JSON.parse(request.responseText);
-                // Loop over the JSON array.
-                jsonOptions.forEach(function(item) {
-                    // Create a new <option> element.
-                    var option = document.createElement('option');
-                    // Set the value using the item in the JSON array.
-                    option.value = item;
-                    // Add the <option> element to the <datalist>.
-                    dataList.appendChild(option);
+    //suggestion
+    $("#autocomplete").autocomplete({
+            source:function(request, response) {
+                $.getJSON('/autocomplete',{
+                    q: request.term, // in flask, "q" will be the argument to look for using request.args
+                }, function(data) {
+                    response(data.matching_results); // matching_results from jsonify
                 });
-
-                // Update the placeholder text.
-                input.placeholder = "Jakarta";
-            } else {
-                // An error occured :(
-                input.placeholder = "Couldn't load datalist options :(";
-            }
+            },
+            minLength: 2,
+            select: function(event, ui) {
+                console.log(ui.item.value); // not in your question, but might help later
         }
-    };
-
-    // Update the placeholder text.
-    input.placeholder = "Loading options...";
-    // Set up and make the request.
-    request.open('GET', 'static/json/places_search.json', true);
-    request.send();
+    });
 
     //show search result
     var $template = $('.template');
     $("#link").click(function() {
         $(".result").hide();
+        
+        // form validation
+        var pesan = formValidate();
+        if (pesan.length > 1) {
+            $(".error").show();
+            $(".error").html("<strong>Invalid input!</strong> " + pesan);
+            return;
+        }
+
         $.ajax({
             url: '/search',
             data: {
@@ -56,11 +48,15 @@ $(function() {
             },
             type: 'POST',
             success: function(response) {
-                var data = $.parseJSON(response);
+                var data_all = $.parseJSON(response);
+                data_place = JSON.stringify(data_all['data'])
+                data_place_2 = data_all['data']
+                start = data_all['open']
+                end = data_all['close']
 
                 $("#result").empty();
-
-                $(data['places']).each(function() {
+                $(".error").empty();
+                $(data_place_2['places']).each(function() {
                     var $element = $template.clone().removeClass('template').appendTo('#result');
                     $element.find(".title-place").html(this.name);
                     $element.find(".desc-place").html(this.description);
@@ -69,8 +65,12 @@ $(function() {
                     $element.find(".time-place").html(this.time[0].open + ' - ' + this.time[0].close);
                     $element.find(".check-place").attr('id', this.name);
                 });
+                if(data_place_2['places'].length != 0){
+                    $(".result").show();
+                }else{
+                    $(".error").html("Your destination is not exist in our database :(");
+                }
 
-                $(".result").show();
                 scrollToAnchor('search-engine-container');
             }
         });
@@ -79,6 +79,10 @@ $(function() {
 
     //generate & show itinerary
     $("#link-itinerary").click(function() {
+        $('#myModal').modal();
+        $("#loading").show();
+        $(".modal-body").hide();        
+        $(".modal-footer").hide();
         var values = (function() {
             var a = [];
 
@@ -89,12 +93,12 @@ $(function() {
             return a;
         })();
 
-        console.log(JSON.stringify(values));
+        //console.log(JSON.stringify(values));
 
         $.ajax({
             url: '/itinerary',
             data: {
-                json_str: JSON.stringify(values)
+                json_str: JSON.stringify(values), open: start, close : end, values: data_place
             },
             type: 'POST',
             success: function(response) {
@@ -112,12 +116,17 @@ $(function() {
                     $element.find(".itinerary-time").html(this.time);
                     $element.find(".itinerary-location").html(this.name);
                     $element.find(".itinerary-address").html(this.address);
+                    $element.find(".itinerary-direction").html(this.direction);
 
                     if (this.type == 'recommendation') {
                         var $input = $("<button id='button-close-" + i + "'class='btn btn-danger' style='padding: 0px 5px;' type='button' onclick='removeRecommendation(" + i + ");'><span class='glyphicon glyphicon-remove' aria-hidden='true'></span></button>");
                         $input.appendTo($element.find(".itinerary-action"));
                     }
                 });
+
+                $(".modal-body").show();            
+                $(".modal-footer").show();
+                $("#loading").hide();
             }
         });
     });
@@ -125,13 +134,13 @@ $(function() {
 });
 
 function sendTable() {
-    var columns = ['time', 'location', 'address'];
+    var columns = ['time', 'location', 'address', 'direction'];
 
     var tableObject = $('#itinerary-result tr').map(function(i) {
         var row = {};
 
         $(this).find('td').each(function(i) {
-            if (i < 3) {
+            if (i < 4) {
                 var rowName = columns[i];
                 row[rowName] = $(this).text();
             }
@@ -150,7 +159,14 @@ function sendTable() {
         },
         type: 'POST',
         success: function(response) {
-            location.reload();
+            console.log("waiting for download");
+            window.open("http://ilhamfathy.me/static/pdf/itinerary.pdf",'_blank'); 
+            //window.open("http://google.com",'_blank'); 
+
+
+            setTimeout(function(){
+             location.reload(); 
+            }, 7000);
         }
     });
 }
@@ -166,4 +182,43 @@ function removeRecommendation(aid) {
     $("#itinerary-row-" + aid).find(".itinerary-location").empty();
     $("#itinerary-row-" + aid).find(".itinerary-address").empty();
     $("#itinerary-row-" + aid).find(".itinerary-action").empty();
+}
+
+function formValidate() {
+    var errorMsg = "";
+
+    var iplace = $('input[name=place]').val();
+    var icategories = $('input[name=categories]').val();
+    var ifrom = $('input[name=from]').val();
+    var iuntil = $('input[name=until]').val();
+
+    if (iplace.length < 1) {
+        errorMsg += " Where do you want to go?";
+    }
+
+    if (icategories.length < 1) {
+        errorMsg += " What do you want to do?";
+    }
+
+    if (ifrom.length < 1 && iuntil.length < 1) {
+        // use default time
+        $('input[name=from').val("10:00");
+        $('input[name=until]').val("17:00");
+    } else if (ifrom.length < 1){
+        errorMsg += " What time will you start your trip?";
+    } else if (iuntil.length < 1) {
+        errorMsg += " What time will you end your trip?";
+    } else {
+        // validate format
+        var patt = /^[01][0-9]:[0-9][0-9]$|^2[0-3]:[0-9][0-9]$/i;
+        var isvalid = patt.test(ifrom);
+        isvalid &= patt.test(iuntil);
+        isvalid &= (iuntil > ifrom);
+
+        if (!isvalid) {
+            errorMsg += " Invalid time or format";
+        }
+    }
+
+    return errorMsg;
 }

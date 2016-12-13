@@ -53,7 +53,7 @@ def get_category(syn_array):
 
   return list(set(result))
 
-	
+  
 def query_expansion(query):
   pars = query.split('&')
   #place
