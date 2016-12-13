@@ -5,7 +5,8 @@ from query import get_query_result
 from settings import json, init_build, get_places
 from sorting import sort_all
 from feedback import give_feedback
-from printPDF import print_pdf
+from printPDF import print_pdf, create
+#from testPrint import print_pdf, create
 import settings
 import numpy as np
 
@@ -13,10 +14,8 @@ init_build()
 
 # Application
 app = Flask(__name__)
+app.debug = True
 app.config['SECRET_KEY'] = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
-
-app.config['SECRET_KEY'] = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
-
 
 @app.route('/')
 def main():
@@ -65,13 +64,14 @@ def submit_itinerary():
 
     # give_feedback
     give_feedback(par)
+    #print_pdf(par) 
 
-    # print pdf
     try:
-        print_pdf(par) 
+        create(par)
+        #print_pdf(par) 
 
     except Exception:
-        pass
+         pass
 
     return render_template('index.html')
 
